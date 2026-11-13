@@ -1,0 +1,199 @@
+year,permit_group,sex,persons
+1993,Niedergelassene (Ausweis C),männlich,46
+1993,Niedergelassene (Ausweis C),weiblich,44
+1993,Aufenthalter*innen (Ausweis B),männlich,27
+1993,Aufenthalter*innen (Ausweis B),weiblich,31
+1993,Übrige,männlich,11
+1993,Übrige,weiblich,12
+1994,Niedergelassene (Ausweis C),männlich,44
+1994,Niedergelassene (Ausweis C),weiblich,43
+1994,Aufenthalter*innen (Ausweis B),männlich,30
+1994,Aufenthalter*innen (Ausweis B),weiblich,35
+1994,Übrige,männlich,8
+1994,Übrige,weiblich,9
+1995,Niedergelassene (Ausweis C),männlich,46
+1995,Niedergelassene (Ausweis C),weiblich,41
+1995,Aufenthalter*innen (Ausweis B),männlich,27
+1995,Aufenthalter*innen (Ausweis B),weiblich,36
+1995,Übrige,männlich,4
+1995,Übrige,weiblich,8
+1996,Niedergelassene (Ausweis C),männlich,40
+1996,Niedergelassene (Ausweis C),weiblich,38
+1996,Aufenthalter*innen (Ausweis B),männlich,27
+1996,Aufenthalter*innen (Ausweis B),weiblich,46
+1996,Übrige,männlich,8
+1996,Übrige,weiblich,9
+1997,Niedergelassene (Ausweis C),männlich,36
+1997,Niedergelassene (Ausweis C),weiblich,41
+1997,Aufenthalter*innen (Ausweis B),männlich,29
+1997,Aufenthalter*innen (Ausweis B),weiblich,47
+1997,Übrige,männlich,8
+1997,Übrige,weiblich,12
+1998,Niedergelassene (Ausweis C),männlich,32
+1998,Niedergelassene (Ausweis C),weiblich,40
+1998,Aufenthalter*innen (Ausweis B),männlich,31
+1998,Aufenthalter*innen (Ausweis B),weiblich,53
+1998,Übrige,männlich,7
+1998,Übrige,weiblich,16
+1999,Niedergelassene (Ausweis C),männlich,28
+1999,Niedergelassene (Ausweis C),weiblich,46
+1999,Aufenthalter*innen (Ausweis B),männlich,33
+1999,Aufenthalter*innen (Ausweis B),weiblich,59
+1999,Übrige,männlich,9
+1999,Übrige,weiblich,20
+2000,Niedergelassene (Ausweis C),männlich,28
+2000,Niedergelassene (Ausweis C),weiblich,44
+2000,Aufenthalter*innen (Ausweis B),männlich,35
+2000,Aufenthalter*innen (Ausweis B),weiblich,71
+2000,Übrige,männlich,8
+2000,Übrige,weiblich,17
+2001,Niedergelassene (Ausweis C),männlich,28
+2001,Niedergelassene (Ausweis C),weiblich,47
+2001,Aufenthalter*innen (Ausweis B),männlich,44
+2001,Aufenthalter*innen (Ausweis B),weiblich,72
+2001,Übrige,männlich,17
+2001,Übrige,weiblich,29
+2002,Niedergelassene (Ausweis C),männlich,27
+2002,Niedergelassene (Ausweis C),weiblich,39
+2002,Aufenthalter*innen (Ausweis B),männlich,43
+2002,Aufenthalter*innen (Ausweis B),weiblich,90
+2002,Übrige,männlich,18
+2002,Übrige,weiblich,41
+2003,Niedergelassene (Ausweis C),männlich,27
+2003,Niedergelassene (Ausweis C),weiblich,41
+2003,Aufenthalter*innen (Ausweis B),männlich,49
+2003,Aufenthalter*innen (Ausweis B),weiblich,96
+2003,Übrige,männlich,11
+2003,Übrige,weiblich,33
+2004,Niedergelassene (Ausweis C),männlich,29
+2004,Niedergelassene (Ausweis C),weiblich,49
+2004,Aufenthalter*innen (Ausweis B),männlich,52
+2004,Aufenthalter*innen (Ausweis B),weiblich,96
+2004,Übrige,männlich,10
+2004,Übrige,weiblich,28
+2005,Niedergelassene (Ausweis C),männlich,25
+2005,Niedergelassene (Ausweis C),weiblich,55
+2005,Aufenthalter*innen (Ausweis B),männlich,66
+2005,Aufenthalter*innen (Ausweis B),weiblich,110
+2005,Übrige,männlich,8
+2005,Übrige,weiblich,25
+2006,Niedergelassene (Ausweis C),männlich,30
+2006,Niedergelassene (Ausweis C),weiblich,59
+2006,Aufenthalter*innen (Ausweis B),männlich,66
+2006,Aufenthalter*innen (Ausweis B),weiblich,110
+2006,Übrige,männlich,8
+2006,Übrige,weiblich,22
+2007,Niedergelassene (Ausweis C),männlich,32
+2007,Niedergelassene (Ausweis C),weiblich,60
+2007,Aufenthalter*innen (Ausweis B),männlich,83
+2007,Aufenthalter*innen (Ausweis B),weiblich,141
+2007,Übrige,männlich,12
+2007,Übrige,weiblich,34
+2008,Niedergelassene (Ausweis C),männlich,33
+2008,Niedergelassene (Ausweis C),weiblich,67
+2008,Aufenthalter*innen (Ausweis B),männlich,99
+2008,Aufenthalter*innen (Ausweis B),weiblich,153
+2008,Übrige,männlich,8
+2008,Übrige,weiblich,30
+2009,Niedergelassene (Ausweis C),männlich,40
+2009,Niedergelassene (Ausweis C),weiblich,61
+2009,Aufenthalter*innen (Ausweis B),männlich,105
+2009,Aufenthalter*innen (Ausweis B),weiblich,175
+2009,Übrige,männlich,23
+2009,Übrige,weiblich,42
+2010,Niedergelassene (Ausweis C),männlich,41
+2010,Niedergelassene (Ausweis C),weiblich,57
+2010,Aufenthalter*innen (Ausweis B),männlich,96
+2010,Aufenthalter*innen (Ausweis B),weiblich,199
+2010,Übrige,männlich,33
+2010,Übrige,weiblich,51
+2011,Niedergelassene (Ausweis C),männlich,37
+2011,Niedergelassene (Ausweis C),weiblich,58
+2011,Aufenthalter*innen (Ausweis B),männlich,111
+2011,Aufenthalter*innen (Ausweis B),weiblich,215
+2011,Übrige,männlich,65
+2011,Übrige,weiblich,77
+2012,Niedergelassene (Ausweis C),männlich,38
+2012,Niedergelassene (Ausweis C),weiblich,67
+2012,Aufenthalter*innen (Ausweis B),männlich,151
+2012,Aufenthalter*innen (Ausweis B),weiblich,257
+2012,Übrige,männlich,59
+2012,Übrige,weiblich,94
+2013,Niedergelassene (Ausweis C),männlich,35
+2013,Niedergelassene (Ausweis C),weiblich,69
+2013,Aufenthalter*innen (Ausweis B),männlich,207
+2013,Aufenthalter*innen (Ausweis B),weiblich,323
+2013,Übrige,männlich,53
+2013,Übrige,weiblich,85
+2014,Niedergelassene (Ausweis C),männlich,38
+2014,Niedergelassene (Ausweis C),weiblich,83
+2014,Aufenthalter*innen (Ausweis B),männlich,234
+2014,Aufenthalter*innen (Ausweis B),weiblich,357
+2014,Übrige,männlich,38
+2014,Übrige,weiblich,69
+2015,Niedergelassene (Ausweis C),männlich,43
+2015,Niedergelassene (Ausweis C),weiblich,88
+2015,Aufenthalter*innen (Ausweis B),männlich,247
+2015,Aufenthalter*innen (Ausweis B),weiblich,384
+2015,Übrige,männlich,37
+2015,Übrige,weiblich,83
+2016,Niedergelassene (Ausweis C),männlich,61
+2016,Niedergelassene (Ausweis C),weiblich,102
+2016,Aufenthalter*innen (Ausweis B),männlich,304
+2016,Aufenthalter*innen (Ausweis B),weiblich,468
+2016,Übrige,männlich,23
+2016,Übrige,weiblich,207
+2017,Niedergelassene (Ausweis C),männlich,83
+2017,Niedergelassene (Ausweis C),weiblich,121
+2017,Aufenthalter*innen (Ausweis B),männlich,347
+2017,Aufenthalter*innen (Ausweis B),weiblich,520
+2017,Übrige,männlich,56
+2017,Übrige,weiblich,275
+2018,Niedergelassene (Ausweis C),männlich,84
+2018,Niedergelassene (Ausweis C),weiblich,139
+2018,Aufenthalter*innen (Ausweis B),männlich,342
+2018,Aufenthalter*innen (Ausweis B),weiblich,519
+2018,Übrige,männlich,135
+2018,Übrige,weiblich,312
+2019,Niedergelassene (Ausweis C),männlich,101
+2019,Niedergelassene (Ausweis C),weiblich,172
+2019,Aufenthalter*innen (Ausweis B),männlich,522
+2019,Aufenthalter*innen (Ausweis B),weiblich,650
+2019,Übrige,männlich,56
+2019,Übrige,weiblich,224
+2020,Niedergelassene (Ausweis C),männlich,105
+2020,Niedergelassene (Ausweis C),weiblich,181
+2020,Aufenthalter*innen (Ausweis B),männlich,656
+2020,Aufenthalter*innen (Ausweis B),weiblich,781
+2020,Übrige,männlich,32
+2020,Übrige,weiblich,110
+2021,Niedergelassene (Ausweis C),männlich,142
+2021,Niedergelassene (Ausweis C),weiblich,215
+2021,Aufenthalter*innen (Ausweis B),männlich,682
+2021,Aufenthalter*innen (Ausweis B),weiblich,863
+2021,Übrige,männlich,20
+2021,Übrige,weiblich,62
+2022,Niedergelassene (Ausweis C),männlich,144
+2022,Niedergelassene (Ausweis C),weiblich,232
+2022,Aufenthalter*innen (Ausweis B),männlich,815
+2022,Aufenthalter*innen (Ausweis B),weiblich,1006
+2022,Übrige,männlich,13
+2022,Übrige,weiblich,44
+2023,Niedergelassene (Ausweis C),männlich,150
+2023,Niedergelassene (Ausweis C),weiblich,235
+2023,Aufenthalter*innen (Ausweis B),männlich,894
+2023,Aufenthalter*innen (Ausweis B),weiblich,1043
+2023,Übrige,männlich,10
+2023,Übrige,weiblich,33
+2024,Niedergelassene (Ausweis C),männlich,190
+2024,Niedergelassene (Ausweis C),weiblich,290
+2024,Aufenthalter*innen (Ausweis B),männlich,898
+2024,Aufenthalter*innen (Ausweis B),weiblich,999
+2024,Übrige,männlich,11
+2024,Übrige,weiblich,29
+2025,Niedergelassene (Ausweis C),männlich,216
+2025,Niedergelassene (Ausweis C),weiblich,315
+2025,Aufenthalter*innen (Ausweis B),männlich,901
+2025,Aufenthalter*innen (Ausweis B),weiblich,1006
+2025,Übrige,männlich,14
+2025,Übrige,weiblich,22

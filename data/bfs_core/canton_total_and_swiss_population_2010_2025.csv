@@ -1,0 +1,897 @@
+year,canton,population_type,permit,sex,age_class,nationality,persons
+2010,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,7870134
+2010,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6103857
+2010,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1373068
+2010,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1042311
+2010,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,979754
+2010,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,848054
+2010,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,377610
+2010,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,314720
+2010,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,35422
+2010,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31971
+2010,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,146730
+2010,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,119389
+2010,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,35585
+2010,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30821
+2010,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,41024
+2010,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,36353
+2010,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,38608
+2010,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30731
+2010,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,113105
+2010,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,86327
+2010,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,278541
+2010,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,227710
+2010,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,255284
+2010,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,204849
+2010,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,184950
+2010,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124865
+2010,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,274404
+2010,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,221413
+2010,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,76356
+2010,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,58705
+2010,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,53017
+2010,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,45504
+2010,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,15688
+2010,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14120
+2010,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,478907
+2010,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,374368
+2010,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,192621
+2010,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,160517
+2010,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,611466
+2010,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,477468
+2010,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,248444
+2010,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,194911
+2010,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,333753
+2010,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,246898
+2010,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,713281
+2010,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,492352
+2010,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,312684
+2010,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,247010
+2010,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,172085
+2010,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,132499
+2010,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,457715
+2010,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,278724
+2010,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,70032
+2010,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,61267
+2010,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2010,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2011,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,7954662
+2011,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6138668
+2011,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1392396
+2011,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1050188
+2011,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,985000
+2011,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,850187
+2011,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,381966
+2011,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,317823
+2011,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,35382
+2011,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31907
+2011,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,147904
+2011,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,120013
+2011,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,35885
+2011,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30969
+2011,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,41311
+2011,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,36441
+2011,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,39217
+2011,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30842
+2011,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,115104
+2011,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,86748
+2011,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,284714
+2011,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,230384
+2011,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,256990
+2011,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,206325
+2011,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,186255
+2011,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124589
+2011,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,275360
+2011,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,221306
+2011,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,77139
+2011,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,58950
+2011,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,53313
+2011,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,45608
+2011,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,15743
+2011,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14153
+2011,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,483156
+2011,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,376226
+2011,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,193388
+2011,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,160504
+2011,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,618298
+2011,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,480532
+2011,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,251973
+2011,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,196272
+2011,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,336943
+2011,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,248599
+2011,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,725944
+2011,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,496720
+2011,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,317022
+2011,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,249788
+2011,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,173183
+2011,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,132685
+2011,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,460534
+2011,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,279309
+2011,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,70542
+2011,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,61600
+2011,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2011,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2012,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,8039060
+2012,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6169091
+2012,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1408575
+2012,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1057472
+2012,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,992567
+2012,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,853553
+2012,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,386082
+2012,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,320628
+2012,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,35693
+2012,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31938
+2012,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,149830
+2012,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,120856
+2012,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,36115
+2012,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31131
+2012,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,41584
+2012,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,36398
+2012,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,39369
+2012,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30795
+2012,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,116575
+2012,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,87120
+2012,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,291445
+2012,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,233154
+2012,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,259283
+2012,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,207443
+2012,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,187425
+2012,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124497
+2012,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,276537
+2012,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,220923
+2012,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,77955
+2012,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,59199
+2012,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,53438
+2012,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,45602
+2012,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,15717
+2012,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14137
+2012,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,487060
+2012,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,377489
+2012,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,193920
+2012,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,160390
+2012,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,627340
+2012,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,484088
+2012,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,256213
+2012,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,197944
+2012,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,341652
+2012,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,250320
+2012,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,734356
+2012,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,498089
+2012,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,321732
+2012,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,252134
+2012,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,174554
+2012,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,132652
+2012,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,463101
+2012,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,279417
+2012,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,70942
+2012,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,61722
+2012,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2012,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2013,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,8139631
+2013,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6202184
+2013,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1425538
+2013,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1064112
+2013,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1001232
+2013,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,855692
+2013,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,390349
+2013,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,323029
+2013,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,35865
+2013,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31887
+2013,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,151396
+2013,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,121710
+2013,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,36507
+2013,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31414
+2013,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,41888
+2013,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,36410
+2013,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,39593
+2013,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30795
+2013,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,118118
+2013,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,87575
+2013,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,297671
+2013,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,235847
+2013,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,261437
+2013,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,208257
+2013,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,189335
+2013,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124478
+2013,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,278656
+2013,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,221006
+2013,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,78783
+2013,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,59350
+2013,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,53691
+2013,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,45645
+2013,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,15778
+2013,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14124
+2013,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,491699
+2013,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,379074
+2013,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,194959
+2013,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,160440
+2013,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,636362
+2013,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,487918
+2013,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,260278
+2013,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,199434
+2013,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,346539
+2013,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,252173
+2013,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,749373
+2013,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,503493
+2013,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,327011
+2013,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,254273
+2013,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,176402
+2013,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,132428
+2013,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,469433
+2013,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,279635
+2013,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,71738
+2013,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,61985
+2013,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2013,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2014,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,8237666
+2014,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6239207
+2014,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1446354
+2014,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1073065
+2014,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1009370
+2014,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,857869
+2014,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,394604
+2014,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,325336
+2014,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,36008
+2014,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31864
+2014,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,152759
+2014,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,122299
+2014,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,36834
+2014,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31609
+2014,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,42080
+2014,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,36363
+2014,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,39794
+2014,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30798
+2014,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,120089
+2014,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,88446
+2014,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,303425
+2014,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,238495
+2014,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,263719
+2014,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,208749
+2014,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,190580
+2014,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124274
+2014,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,281301
+2014,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,221378
+2014,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,79417
+2014,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,59542
+2014,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,54064
+2014,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,45763
+2014,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,15854
+2014,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14169
+2014,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,495824
+2014,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,380500
+2014,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,195886
+2014,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,160497
+2014,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,645277
+2014,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,491344
+2014,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,263733
+2014,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,200849
+2014,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,350363
+2014,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,253633
+2014,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,761446
+2014,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,509124
+2014,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,331763
+2014,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,256485
+2014,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,177327
+2014,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,132575
+2014,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,477385
+2014,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,281897
+2014,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,72410
+2014,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62284
+2014,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2014,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2015,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,8327126
+2015,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6278459
+2015,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1466424
+2015,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1083372
+2015,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1017434
+2015,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,859970
+2015,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,398762
+2015,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,327503
+2015,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,35973
+2015,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31840
+2015,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,154093
+2015,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,122921
+2015,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,37076
+2015,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31716
+2015,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,42420
+2015,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,36514
+2015,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,40028
+2015,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30721
+2015,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,122134
+2015,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,89157
+2015,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,307510
+2015,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,240229
+2015,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,266418
+2015,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,209355
+2015,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,191817
+2015,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124365
+2015,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,283231
+2015,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,221489
+2015,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,79836
+2015,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,59664
+2015,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,54543
+2015,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,45985
+2015,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,15974
+2015,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14240
+2015,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,499065
+2015,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,381712
+2015,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,196610
+2015,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,160689
+2015,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,653675
+2015,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,495277
+2015,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,267429
+2015,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,202663
+2015,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,351946
+2015,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,254288
+2015,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,773407
+2015,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,513739
+2015,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,335696
+2015,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,258612
+2015,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,178107
+2015,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,132556
+2015,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,484736
+2015,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,287521
+2015,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,72782
+2015,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62361
+2015,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2015,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2016,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,8419550
+2016,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6318404
+2016,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1487969
+2016,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1092631
+2016,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1026464
+2016,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,861567
+2016,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,403397
+2016,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,329264
+2016,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,36145
+2016,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31850
+2016,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,155863
+2016,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,123597
+2016,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,37378
+2016,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31892
+2016,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,42556
+2016,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,36521
+2016,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,40147
+2016,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30650
+2016,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,123948
+2016,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,89809
+2016,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,311963
+2016,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,242134
+2016,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,269441
+2016,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,210240
+2016,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,193070
+2016,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124026
+2016,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,285624
+2016,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,221990
+2016,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,80769
+2016,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,59889
+2016,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,54954
+2016,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,46044
+2016,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,16003
+2016,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14230
+2016,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,502552
+2016,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,382829
+2016,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,197550
+2016,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,160932
+2016,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,663462
+2016,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,499712
+2016,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,270709
+2016,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,204378
+2016,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,354375
+2016,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,254828
+2016,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,784822
+2016,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,520957
+2016,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,339176
+2016,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,260444
+2016,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,178567
+2016,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,132878
+2016,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,489524
+2016,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,292641
+2016,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,73122
+2016,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62471
+2016,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2016,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2017,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,8484130
+2017,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6357738
+2017,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1504346
+2017,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1102014
+2017,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1031080
+2017,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,864300
+2017,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,406506
+2017,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,331512
+2017,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,36299
+2017,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31928
+2017,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,157301
+2017,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124130
+2017,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,37575
+2017,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32056
+2017,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,42969
+2017,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,36712
+2017,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,40349
+2017,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30636
+2017,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,125421
+2017,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,90430
+2017,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,315120
+2017,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,244188
+2017,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,271432
+2017,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,210812
+2017,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,193908
+2017,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124147
+2017,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,287023
+2017,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,222343
+2017,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,81351
+2017,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,60185
+2017,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,55178
+2017,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,46181
+2017,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,16105
+2017,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14271
+2017,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,504686
+2017,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,383755
+2017,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,197888
+2017,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,160985
+2017,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,670988
+2017,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,503709
+2017,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,273801
+2017,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,206118
+2017,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,353709
+2017,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,255122
+2017,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,793129
+2017,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,527117
+2017,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,341463
+2017,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,263082
+2017,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,177964
+2017,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,132811
+2017,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,495249
+2017,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,296675
+2017,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,73290
+2017,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62519
+2017,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2017,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2018,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,8544527
+2018,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6396252
+2018,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1520968
+2018,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1112574
+2018,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1034931
+2018,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,865861
+2018,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,409557
+2018,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,333672
+2018,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,36433
+2018,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31936
+2018,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,159165
+2018,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124828
+2018,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,37841
+2018,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32296
+2018,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,43223
+2018,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,36872
+2018,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,40403
+2018,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30671
+2018,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,126837
+2018,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,90917
+2018,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,318760
+2018,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,246400
+2018,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,273194
+2018,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,211399
+2018,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,194766
+2018,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,123867
+2018,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,288132
+2018,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,222396
+2018,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,81991
+2018,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,60626
+2018,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,55234
+2018,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,46220
+2018,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,16145
+2018,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14321
+2018,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,507697
+2018,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,385295
+2018,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,198379
+2018,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,161397
+2018,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,678207
+2018,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,507783
+2018,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,276472
+2018,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,207714
+2018,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,353343
+2018,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,255116
+2018,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,799145
+2018,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,533878
+2018,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,343955
+2018,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,265879
+2018,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,176850
+2018,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,132143
+2018,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,499480
+2018,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,299540
+2018,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,73419
+2018,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62651
+2018,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2018,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2019,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,8606033
+2019,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6430658
+2019,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1539275
+2019,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1122495
+2019,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1039426
+2019,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,867141
+2019,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,413120
+2019,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,335508
+2019,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,36703
+2019,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32084
+2019,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,160480
+2019,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,125367
+2019,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,37930
+2019,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32361
+2019,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,43087
+2019,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,36719
+2019,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,40590
+2019,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30765
+2019,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,127642
+2019,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,91475
+2019,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,321831
+2019,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,248374
+2019,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,275247
+2019,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,212104
+2019,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,195844
+2019,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124085
+2019,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,289468
+2019,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,222615
+2019,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,82348
+2019,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,60891
+2019,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,55445
+2019,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,46319
+2019,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,16128
+2019,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14312
+2019,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,510734
+2019,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,385916
+2019,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,199021
+2019,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,161639
+2019,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,685845
+2019,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,512350
+2019,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,279547
+2019,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,209234
+2019,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,351491
+2019,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,254633
+2019,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,805098
+2019,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,539414
+2019,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,345525
+2019,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,267503
+2019,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,176496
+2019,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,131913
+2019,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,504128
+2019,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,302692
+2019,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,73584
+2019,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62749
+2019,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2019,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2020,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,8670300
+2020,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6459512
+2020,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1553423
+2020,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1129722
+2020,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1043081
+2020,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,869632
+2020,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,416347
+2020,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,337132
+2020,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,36819
+2020,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32073
+2020,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,162157
+2020,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,126227
+2020,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,38108
+2020,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32475
+2020,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,43520
+2020,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,36996
+2020,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,40851
+2020,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30753
+2020,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,128794
+2020,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,91736
+2020,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,325547
+2020,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,250336
+2020,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,277462
+2020,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,212535
+2020,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,196735
+2020,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124151
+2020,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,290969
+2020,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,222404
+2020,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,83107
+2020,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,61267
+2020,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,55309
+2020,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,46135
+2020,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,16293
+2020,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14420
+2020,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,514504
+2020,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,387398
+2020,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,200096
+2020,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,161989
+2020,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,694072
+2020,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,517015
+2020,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,282909
+2020,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,210840
+2020,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,350986
+2020,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,254109
+2020,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,814762
+2020,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,544045
+2020,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,348503
+2020,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,268980
+2020,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,175894
+2020,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,131671
+2020,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,506343
+2020,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,302731
+2020,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,73709
+2020,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62740
+2020,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2020,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2021,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,8738791
+2021,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6494610
+2021,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1564662
+2021,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1136406
+2021,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1047422
+2021,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,871574
+2021,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,420326
+2021,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,339079
+2021,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,37047
+2021,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32143
+2021,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,163689
+2021,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,126855
+2021,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,38435
+2021,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32623
+2021,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,43894
+2021,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,37080
+2021,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,41190
+2021,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30891
+2021,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,129787
+2021,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,91762
+2021,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,329860
+2021,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,253070
+2021,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,280245
+2021,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,213728
+2021,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,196036
+2021,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,123872
+2021,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,292817
+2021,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,223507
+2021,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,83995
+2021,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,61688
+2021,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,55585
+2021,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,46368
+2021,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,16360
+2021,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14479
+2021,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,519245
+2021,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,389811
+2021,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,201376
+2021,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,162520
+2021,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,703086
+2021,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,521525
+2021,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,285964
+2021,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,212475
+2021,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,352181
+2021,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,254310
+2021,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,822968
+2021,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,550447
+2021,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,353209
+2021,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,271208
+2021,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,176166
+2021,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,131653
+2021,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,509448
+2021,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,302804
+2021,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,73798
+2021,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62732
+2021,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2021,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2022,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,8815385
+2022,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6519362
+2022,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1579967
+2022,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1141651
+2022,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1051437
+2022,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,872661
+2022,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,424851
+2022,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,340582
+2022,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,37317
+2022,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32224
+2022,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,164920
+2022,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,127120
+2022,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,38700
+2022,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32652
+2022,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,44420
+2022,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,37150
+2022,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,41471
+2022,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30918
+2022,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,131164
+2022,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,92130
+2022,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,334465
+2022,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,255175
+2022,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,282408
+2022,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,214403
+2022,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,196786
+2022,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,123465
+2022,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,294417
+2022,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,223876
+2022,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,85214
+2022,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62066
+2022,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,55759
+2022,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,46395
+2022,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,16416
+2022,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14510
+2022,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,525967
+2022,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,392009
+2022,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,202538
+2022,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,162686
+2022,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,711232
+2022,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,524909
+2022,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,289650
+2022,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,213633
+2022,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,354023
+2022,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,254597
+2022,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,830431
+2022,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,554772
+2022,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,357282
+2022,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,272671
+2022,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,176571
+2022,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,131328
+2022,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,514114
+2022,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,303157
+2022,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,73865
+2022,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62622
+2022,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2022,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2023,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,8962258
+2023,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6544970
+2023,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1605508
+2023,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1145802
+2023,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1063533
+2023,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,873149
+2023,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,432744
+2023,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,341873
+2023,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,37931
+2023,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32289
+2023,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,167403
+2023,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,127559
+2023,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,39272
+2023,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32835
+2023,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,45016
+2023,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,37232
+2023,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,42056
+2023,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,30989
+2023,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,132556
+2023,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,92423
+2023,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,341537
+2023,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,257057
+2023,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,286844
+2023,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,215055
+2023,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,200031
+2023,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,123470
+2023,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,298837
+2023,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,224047
+2023,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,87111
+2023,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62442
+2023,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,56495
+2023,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,46455
+2023,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,16585
+2023,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14519
+2023,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,535114
+2023,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,393155
+2023,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,204888
+2023,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,162697
+2023,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,726894
+2023,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,528295
+2023,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,295220
+2023,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,215329
+2023,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,357720
+2023,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,253794
+2023,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,845870
+2023,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,561410
+2023,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,365844
+2023,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,273857
+2023,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,178291
+2023,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,130853
+2023,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,524410
+2023,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,305726
+2023,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,74548
+2023,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62658
+2023,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2023,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2024,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,9051029
+2024,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6571141
+2024,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1620020
+2024,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1150108
+2024,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1071216
+2024,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,874493
+2024,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,437944
+2024,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,343673
+2024,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,38275
+2024,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32426
+2024,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,168931
+2024,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,128255
+2024,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,39662
+2024,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32903
+2024,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,45345
+2024,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,37270
+2024,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,42371
+2024,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31065
+2024,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,133739
+2024,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,92986
+2024,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,346674
+2024,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,258941
+2024,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,289792
+2024,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,215619
+2024,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,201384
+2024,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,123481
+2024,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,301323
+2024,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,224550
+2024,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,88667
+2024,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,63003
+2024,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,56705
+2024,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,46411
+2024,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,16733
+2024,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14616
+2024,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,540036
+2024,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,394417
+2024,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,206138
+2024,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,162764
+2024,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,735808
+2024,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,531021
+2024,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,299509
+2024,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,216914
+2024,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,358903
+2024,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,253361
+2024,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,855106
+2024,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,564524
+2024,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,371288
+2024,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,275085
+2024,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,179518
+2024,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,130926
+2024,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,531102
+2024,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,309624
+2024,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,74840
+2024,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62705
+2024,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2024,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0
+2025,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,9127125
+2025,Schweiz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,6599008
+2025,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1632918
+2025,Zürich,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,1156310
+2025,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,1076127
+2025,Bern / Berne,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,876004
+2025,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,441500
+2025,Luzern,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,344704
+2025,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,38581
+2025,Uri,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32483
+2025,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,170072
+2025,Schwyz,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,128725
+2025,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,39879
+2025,Obwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,32930
+2025,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,45664
+2025,Nidwalden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,37385
+2025,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,42451
+2025,Glarus,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,31042
+2025,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,135018
+2025,Zug,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,93671
+2025,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,350918
+2025,Fribourg / Freiburg,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,260333
+2025,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,291583
+2025,Solothurn,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,216165
+2025,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,204157
+2025,Basel-Stadt,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,124136
+2025,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,303872
+2025,Basel-Landschaft,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,225257
+2025,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,90087
+2025,Schaffhausen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,63557
+2025,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,57221
+2025,Appenzell Ausserrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,46788
+2025,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,16890
+2025,Appenzell Innerrhoden,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,14695
+2025,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,544040
+2025,St. Gallen,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,396093
+2025,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,207400
+2025,Graubünden / Grigioni / Grischun,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,163341
+2025,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,743768
+2025,Aargau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,534484
+2025,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,302806
+2025,Thurgau,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,218347
+2025,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,359783
+2025,Ticino,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,252583
+2025,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,863650
+2025,Vaud,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,567831
+2025,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,376113
+2025,Valais / Wallis,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,276443
+2025,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,180365
+2025,Neuchâtel,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,131089
+2025,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,537084
+2025,Genève,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,311817
+2025,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,75178
+2025,Jura,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,62795
+2025,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Staatsangehörigkeit - Total,0
+2025,Ohne Angabe,Ständige Wohnbevölkerung,Anwesenheitsbewilligung - Total,Geschlecht - Total,Altersklasse - Total,Schweiz,0

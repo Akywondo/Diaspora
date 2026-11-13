@@ -1,0 +1,20 @@
+canton,year,cantonal_value,cantonal_definition,bfs_value,diff_abs,diff_pct,source_url
+Zürich,2010,979,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,1015,-36,-3.55,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2011,1160,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,1205,-45,-3.73,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2012,1448,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,1492,-44,-2.95,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2013,1693,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,1726,-33,-1.91,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2014,1953,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,1995,-42,-2.11,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2015,2117,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,2140,-23,-1.07,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2016,2512,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,2531,-19,-0.75,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2016,2986,"Ständige ausländische Wohnbevölkerung (SEM ZEMIS-based, 31.12.)",2531,455,17.98,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000123_00001228.xlsx
+Zürich,2017,2950,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,2988,-38,-1.27,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2017,2985,"Ständige ausländische Wohnbevölkerung (SEM ZEMIS-based, 31.12.)",2988,-3,-0.1,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000123_00001229.xlsx
+Zürich,2018,3133,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,3258,-125,-3.84,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2018,3248,"Ständige ausländische Wohnbevölkerung (SEM ZEMIS-based, 31.12.)",3258,-10,-0.31,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000123_00001230.xlsx
+Zürich,2019,4180,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,4228,-48,-1.14,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2020,5039,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,5054,-15,-0.3,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2021,5866,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,5894,-28,-0.48,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2022,6859,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,6865,-6,-0.09,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2023,7549,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,7556,-7,-0.09,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2024,7983,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12.,8020,-37,-0.46,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx
+Zürich,2025,8394,Kantonale Bevölkerungserhebung: zivilrechtliche Wohnbevölkerung (Hauptwohnsitz) 31.12. (provisional),8429,-35,-0.42,https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001143_00002169.xlsx

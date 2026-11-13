@@ -1,0 +1,595 @@
+unit,seat_country,canton,year,value
+Unternehmen,Rumänien,Schweiz,2014,6
+Unternehmen,Rumänien,Schweiz,2015,5
+Unternehmen,Rumänien,Schweiz,2016,5
+Unternehmen,Rumänien,Schweiz,2017,7
+Unternehmen,Rumänien,Schweiz,2018,10
+Unternehmen,Rumänien,Schweiz,2019,10
+Unternehmen,Rumänien,Schweiz,2020,11
+Unternehmen,Rumänien,Schweiz,2021,8
+Unternehmen,Rumänien,Schweiz,2022,10
+Unternehmen,Rumänien,Schweiz,2023,11
+Unternehmen,Rumänien,Schweiz,2024,12
+Unternehmen,Rumänien,Zürich,2014,0
+Unternehmen,Rumänien,Zürich,2015,0
+Unternehmen,Rumänien,Zürich,2016,0
+Unternehmen,Rumänien,Zürich,2017,
+Unternehmen,Rumänien,Zürich,2018,0
+Unternehmen,Rumänien,Zürich,2019,0
+Unternehmen,Rumänien,Zürich,2020,
+Unternehmen,Rumänien,Zürich,2021,
+Unternehmen,Rumänien,Zürich,2022,
+Unternehmen,Rumänien,Zürich,2023,
+Unternehmen,Rumänien,Zürich,2024,
+Unternehmen,Rumänien,Bern / Berne,2014,0
+Unternehmen,Rumänien,Bern / Berne,2015,0
+Unternehmen,Rumänien,Bern / Berne,2016,0
+Unternehmen,Rumänien,Bern / Berne,2017,0
+Unternehmen,Rumänien,Bern / Berne,2018,0
+Unternehmen,Rumänien,Bern / Berne,2019,0
+Unternehmen,Rumänien,Bern / Berne,2020,
+Unternehmen,Rumänien,Bern / Berne,2021,
+Unternehmen,Rumänien,Bern / Berne,2022,
+Unternehmen,Rumänien,Bern / Berne,2023,
+Unternehmen,Rumänien,Bern / Berne,2024,
+Unternehmen,Rumänien,Luzern,2014,0
+Unternehmen,Rumänien,Luzern,2015,0
+Unternehmen,Rumänien,Luzern,2016,0
+Unternehmen,Rumänien,Luzern,2017,0
+Unternehmen,Rumänien,Luzern,2018,0
+Unternehmen,Rumänien,Luzern,2019,0
+Unternehmen,Rumänien,Luzern,2020,0
+Unternehmen,Rumänien,Luzern,2021,0
+Unternehmen,Rumänien,Luzern,2022,0
+Unternehmen,Rumänien,Luzern,2023,0
+Unternehmen,Rumänien,Luzern,2024,0
+Unternehmen,Rumänien,Uri,2014,0
+Unternehmen,Rumänien,Uri,2015,0
+Unternehmen,Rumänien,Uri,2016,0
+Unternehmen,Rumänien,Uri,2017,0
+Unternehmen,Rumänien,Uri,2018,0
+Unternehmen,Rumänien,Uri,2019,0
+Unternehmen,Rumänien,Uri,2020,0
+Unternehmen,Rumänien,Uri,2021,0
+Unternehmen,Rumänien,Uri,2022,0
+Unternehmen,Rumänien,Uri,2023,0
+Unternehmen,Rumänien,Uri,2024,0
+Unternehmen,Rumänien,Schwyz,2014,0
+Unternehmen,Rumänien,Schwyz,2015,0
+Unternehmen,Rumänien,Schwyz,2016,0
+Unternehmen,Rumänien,Schwyz,2017,0
+Unternehmen,Rumänien,Schwyz,2018,0
+Unternehmen,Rumänien,Schwyz,2019,0
+Unternehmen,Rumänien,Schwyz,2020,0
+Unternehmen,Rumänien,Schwyz,2021,0
+Unternehmen,Rumänien,Schwyz,2022,
+Unternehmen,Rumänien,Schwyz,2023,
+Unternehmen,Rumänien,Schwyz,2024,
+Unternehmen,Rumänien,Obwalden,2014,0
+Unternehmen,Rumänien,Obwalden,2015,0
+Unternehmen,Rumänien,Obwalden,2016,0
+Unternehmen,Rumänien,Obwalden,2017,0
+Unternehmen,Rumänien,Obwalden,2018,0
+Unternehmen,Rumänien,Obwalden,2019,0
+Unternehmen,Rumänien,Obwalden,2020,0
+Unternehmen,Rumänien,Obwalden,2021,0
+Unternehmen,Rumänien,Obwalden,2022,0
+Unternehmen,Rumänien,Obwalden,2023,0
+Unternehmen,Rumänien,Obwalden,2024,0
+Unternehmen,Rumänien,Nidwalden,2014,0
+Unternehmen,Rumänien,Nidwalden,2015,0
+Unternehmen,Rumänien,Nidwalden,2016,0
+Unternehmen,Rumänien,Nidwalden,2017,0
+Unternehmen,Rumänien,Nidwalden,2018,0
+Unternehmen,Rumänien,Nidwalden,2019,0
+Unternehmen,Rumänien,Nidwalden,2020,0
+Unternehmen,Rumänien,Nidwalden,2021,0
+Unternehmen,Rumänien,Nidwalden,2022,0
+Unternehmen,Rumänien,Nidwalden,2023,0
+Unternehmen,Rumänien,Nidwalden,2024,0
+Unternehmen,Rumänien,Glarus,2014,0
+Unternehmen,Rumänien,Glarus,2015,0
+Unternehmen,Rumänien,Glarus,2016,0
+Unternehmen,Rumänien,Glarus,2017,0
+Unternehmen,Rumänien,Glarus,2018,0
+Unternehmen,Rumänien,Glarus,2019,0
+Unternehmen,Rumänien,Glarus,2020,0
+Unternehmen,Rumänien,Glarus,2021,0
+Unternehmen,Rumänien,Glarus,2022,0
+Unternehmen,Rumänien,Glarus,2023,0
+Unternehmen,Rumänien,Glarus,2024,0
+Unternehmen,Rumänien,Zug,2014,0
+Unternehmen,Rumänien,Zug,2015,0
+Unternehmen,Rumänien,Zug,2016,0
+Unternehmen,Rumänien,Zug,2017,
+Unternehmen,Rumänien,Zug,2018,
+Unternehmen,Rumänien,Zug,2019,
+Unternehmen,Rumänien,Zug,2020,
+Unternehmen,Rumänien,Zug,2021,
+Unternehmen,Rumänien,Zug,2022,
+Unternehmen,Rumänien,Zug,2023,4
+Unternehmen,Rumänien,Zug,2024,4
+Unternehmen,Rumänien,Fribourg / Freiburg,2014,0
+Unternehmen,Rumänien,Fribourg / Freiburg,2015,0
+Unternehmen,Rumänien,Fribourg / Freiburg,2016,0
+Unternehmen,Rumänien,Fribourg / Freiburg,2017,0
+Unternehmen,Rumänien,Fribourg / Freiburg,2018,0
+Unternehmen,Rumänien,Fribourg / Freiburg,2019,0
+Unternehmen,Rumänien,Fribourg / Freiburg,2020,0
+Unternehmen,Rumänien,Fribourg / Freiburg,2021,0
+Unternehmen,Rumänien,Fribourg / Freiburg,2022,0
+Unternehmen,Rumänien,Fribourg / Freiburg,2023,0
+Unternehmen,Rumänien,Fribourg / Freiburg,2024,0
+Unternehmen,Rumänien,Solothurn,2014,0
+Unternehmen,Rumänien,Solothurn,2015,0
+Unternehmen,Rumänien,Solothurn,2016,0
+Unternehmen,Rumänien,Solothurn,2017,0
+Unternehmen,Rumänien,Solothurn,2018,0
+Unternehmen,Rumänien,Solothurn,2019,0
+Unternehmen,Rumänien,Solothurn,2020,0
+Unternehmen,Rumänien,Solothurn,2021,0
+Unternehmen,Rumänien,Solothurn,2022,0
+Unternehmen,Rumänien,Solothurn,2023,0
+Unternehmen,Rumänien,Solothurn,2024,0
+Unternehmen,Rumänien,Basel-Stadt,2014,
+Unternehmen,Rumänien,Basel-Stadt,2015,0
+Unternehmen,Rumänien,Basel-Stadt,2016,0
+Unternehmen,Rumänien,Basel-Stadt,2017,0
+Unternehmen,Rumänien,Basel-Stadt,2018,
+Unternehmen,Rumänien,Basel-Stadt,2019,0
+Unternehmen,Rumänien,Basel-Stadt,2020,0
+Unternehmen,Rumänien,Basel-Stadt,2021,0
+Unternehmen,Rumänien,Basel-Stadt,2022,0
+Unternehmen,Rumänien,Basel-Stadt,2023,0
+Unternehmen,Rumänien,Basel-Stadt,2024,0
+Unternehmen,Rumänien,Basel-Landschaft,2014,
+Unternehmen,Rumänien,Basel-Landschaft,2015,0
+Unternehmen,Rumänien,Basel-Landschaft,2016,0
+Unternehmen,Rumänien,Basel-Landschaft,2017,0
+Unternehmen,Rumänien,Basel-Landschaft,2018,0
+Unternehmen,Rumänien,Basel-Landschaft,2019,0
+Unternehmen,Rumänien,Basel-Landschaft,2020,0
+Unternehmen,Rumänien,Basel-Landschaft,2021,0
+Unternehmen,Rumänien,Basel-Landschaft,2022,0
+Unternehmen,Rumänien,Basel-Landschaft,2023,0
+Unternehmen,Rumänien,Basel-Landschaft,2024,0
+Unternehmen,Rumänien,Schaffhausen,2014,0
+Unternehmen,Rumänien,Schaffhausen,2015,0
+Unternehmen,Rumänien,Schaffhausen,2016,0
+Unternehmen,Rumänien,Schaffhausen,2017,0
+Unternehmen,Rumänien,Schaffhausen,2018,0
+Unternehmen,Rumänien,Schaffhausen,2019,0
+Unternehmen,Rumänien,Schaffhausen,2020,0
+Unternehmen,Rumänien,Schaffhausen,2021,0
+Unternehmen,Rumänien,Schaffhausen,2022,0
+Unternehmen,Rumänien,Schaffhausen,2023,0
+Unternehmen,Rumänien,Schaffhausen,2024,0
+Unternehmen,Rumänien,Appenzell Ausserrhoden,2014,0
+Unternehmen,Rumänien,Appenzell Ausserrhoden,2015,0
+Unternehmen,Rumänien,Appenzell Ausserrhoden,2016,0
+Unternehmen,Rumänien,Appenzell Ausserrhoden,2017,0
+Unternehmen,Rumänien,Appenzell Ausserrhoden,2018,0
+Unternehmen,Rumänien,Appenzell Ausserrhoden,2019,0
+Unternehmen,Rumänien,Appenzell Ausserrhoden,2020,0
+Unternehmen,Rumänien,Appenzell Ausserrhoden,2021,0
+Unternehmen,Rumänien,Appenzell Ausserrhoden,2022,0
+Unternehmen,Rumänien,Appenzell Ausserrhoden,2023,0
+Unternehmen,Rumänien,Appenzell Ausserrhoden,2024,0
+Unternehmen,Rumänien,Appenzell Innerrhoden,2014,0
+Unternehmen,Rumänien,Appenzell Innerrhoden,2015,0
+Unternehmen,Rumänien,Appenzell Innerrhoden,2016,0
+Unternehmen,Rumänien,Appenzell Innerrhoden,2017,0
+Unternehmen,Rumänien,Appenzell Innerrhoden,2018,0
+Unternehmen,Rumänien,Appenzell Innerrhoden,2019,0
+Unternehmen,Rumänien,Appenzell Innerrhoden,2020,0
+Unternehmen,Rumänien,Appenzell Innerrhoden,2021,0
+Unternehmen,Rumänien,Appenzell Innerrhoden,2022,0
+Unternehmen,Rumänien,Appenzell Innerrhoden,2023,0
+Unternehmen,Rumänien,Appenzell Innerrhoden,2024,0
+Unternehmen,Rumänien,St. Gallen,2014,0
+Unternehmen,Rumänien,St. Gallen,2015,0
+Unternehmen,Rumänien,St. Gallen,2016,0
+Unternehmen,Rumänien,St. Gallen,2017,0
+Unternehmen,Rumänien,St. Gallen,2018,0
+Unternehmen,Rumänien,St. Gallen,2019,0
+Unternehmen,Rumänien,St. Gallen,2020,0
+Unternehmen,Rumänien,St. Gallen,2021,0
+Unternehmen,Rumänien,St. Gallen,2022,0
+Unternehmen,Rumänien,St. Gallen,2023,0
+Unternehmen,Rumänien,St. Gallen,2024,0
+Unternehmen,Rumänien,Graubünden / Grigioni / Grischun,2014,0
+Unternehmen,Rumänien,Graubünden / Grigioni / Grischun,2015,0
+Unternehmen,Rumänien,Graubünden / Grigioni / Grischun,2016,0
+Unternehmen,Rumänien,Graubünden / Grigioni / Grischun,2017,0
+Unternehmen,Rumänien,Graubünden / Grigioni / Grischun,2018,0
+Unternehmen,Rumänien,Graubünden / Grigioni / Grischun,2019,0
+Unternehmen,Rumänien,Graubünden / Grigioni / Grischun,2020,0
+Unternehmen,Rumänien,Graubünden / Grigioni / Grischun,2021,0
+Unternehmen,Rumänien,Graubünden / Grigioni / Grischun,2022,0
+Unternehmen,Rumänien,Graubünden / Grigioni / Grischun,2023,0
+Unternehmen,Rumänien,Graubünden / Grigioni / Grischun,2024,0
+Unternehmen,Rumänien,Aargau,2014,0
+Unternehmen,Rumänien,Aargau,2015,0
+Unternehmen,Rumänien,Aargau,2016,
+Unternehmen,Rumänien,Aargau,2017,
+Unternehmen,Rumänien,Aargau,2018,
+Unternehmen,Rumänien,Aargau,2019,
+Unternehmen,Rumänien,Aargau,2020,0
+Unternehmen,Rumänien,Aargau,2021,0
+Unternehmen,Rumänien,Aargau,2022,0
+Unternehmen,Rumänien,Aargau,2023,0
+Unternehmen,Rumänien,Aargau,2024,0
+Unternehmen,Rumänien,Thurgau,2014,0
+Unternehmen,Rumänien,Thurgau,2015,0
+Unternehmen,Rumänien,Thurgau,2016,0
+Unternehmen,Rumänien,Thurgau,2017,0
+Unternehmen,Rumänien,Thurgau,2018,0
+Unternehmen,Rumänien,Thurgau,2019,0
+Unternehmen,Rumänien,Thurgau,2020,0
+Unternehmen,Rumänien,Thurgau,2021,0
+Unternehmen,Rumänien,Thurgau,2022,0
+Unternehmen,Rumänien,Thurgau,2023,0
+Unternehmen,Rumänien,Thurgau,2024,0
+Unternehmen,Rumänien,Ticino,2014,
+Unternehmen,Rumänien,Ticino,2015,
+Unternehmen,Rumänien,Ticino,2016,0
+Unternehmen,Rumänien,Ticino,2017,
+Unternehmen,Rumänien,Ticino,2018,0
+Unternehmen,Rumänien,Ticino,2019,
+Unternehmen,Rumänien,Ticino,2020,
+Unternehmen,Rumänien,Ticino,2021,
+Unternehmen,Rumänien,Ticino,2022,
+Unternehmen,Rumänien,Ticino,2023,
+Unternehmen,Rumänien,Ticino,2024,
+Unternehmen,Rumänien,Vaud,2014,
+Unternehmen,Rumänien,Vaud,2015,
+Unternehmen,Rumänien,Vaud,2016,
+Unternehmen,Rumänien,Vaud,2017,0
+Unternehmen,Rumänien,Vaud,2018,
+Unternehmen,Rumänien,Vaud,2019,
+Unternehmen,Rumänien,Vaud,2020,
+Unternehmen,Rumänien,Vaud,2021,0
+Unternehmen,Rumänien,Vaud,2022,0
+Unternehmen,Rumänien,Vaud,2023,0
+Unternehmen,Rumänien,Vaud,2024,0
+Unternehmen,Rumänien,Valais / Wallis,2014,
+Unternehmen,Rumänien,Valais / Wallis,2015,
+Unternehmen,Rumänien,Valais / Wallis,2016,
+Unternehmen,Rumänien,Valais / Wallis,2017,
+Unternehmen,Rumänien,Valais / Wallis,2018,
+Unternehmen,Rumänien,Valais / Wallis,2019,
+Unternehmen,Rumänien,Valais / Wallis,2020,
+Unternehmen,Rumänien,Valais / Wallis,2021,
+Unternehmen,Rumänien,Valais / Wallis,2022,
+Unternehmen,Rumänien,Valais / Wallis,2023,
+Unternehmen,Rumänien,Valais / Wallis,2024,
+Unternehmen,Rumänien,Neuchâtel,2014,0
+Unternehmen,Rumänien,Neuchâtel,2015,0
+Unternehmen,Rumänien,Neuchâtel,2016,0
+Unternehmen,Rumänien,Neuchâtel,2017,0
+Unternehmen,Rumänien,Neuchâtel,2018,0
+Unternehmen,Rumänien,Neuchâtel,2019,0
+Unternehmen,Rumänien,Neuchâtel,2020,0
+Unternehmen,Rumänien,Neuchâtel,2021,0
+Unternehmen,Rumänien,Neuchâtel,2022,0
+Unternehmen,Rumänien,Neuchâtel,2023,0
+Unternehmen,Rumänien,Neuchâtel,2024,0
+Unternehmen,Rumänien,Genève,2014,
+Unternehmen,Rumänien,Genève,2015,
+Unternehmen,Rumänien,Genève,2016,
+Unternehmen,Rumänien,Genève,2017,
+Unternehmen,Rumänien,Genève,2018,
+Unternehmen,Rumänien,Genève,2019,
+Unternehmen,Rumänien,Genève,2020,
+Unternehmen,Rumänien,Genève,2021,
+Unternehmen,Rumänien,Genève,2022,
+Unternehmen,Rumänien,Genève,2023,0
+Unternehmen,Rumänien,Genève,2024,0
+Unternehmen,Rumänien,Jura,2014,0
+Unternehmen,Rumänien,Jura,2015,0
+Unternehmen,Rumänien,Jura,2016,0
+Unternehmen,Rumänien,Jura,2017,0
+Unternehmen,Rumänien,Jura,2018,0
+Unternehmen,Rumänien,Jura,2019,0
+Unternehmen,Rumänien,Jura,2020,0
+Unternehmen,Rumänien,Jura,2021,0
+Unternehmen,Rumänien,Jura,2022,0
+Unternehmen,Rumänien,Jura,2023,0
+Unternehmen,Rumänien,Jura,2024,0
+Beschäftigte,Rumänien,Schweiz,2014,
+Beschäftigte,Rumänien,Schweiz,2015,30
+Beschäftigte,Rumänien,Schweiz,2016,0
+Beschäftigte,Rumänien,Schweiz,2017,6
+Beschäftigte,Rumänien,Schweiz,2018,55
+Beschäftigte,Rumänien,Schweiz,2019,55
+Beschäftigte,Rumänien,Schweiz,2020,47
+Beschäftigte,Rumänien,Schweiz,2021,0
+Beschäftigte,Rumänien,Schweiz,2022,4
+Beschäftigte,Rumänien,Schweiz,2023,11
+Beschäftigte,Rumänien,Schweiz,2024,12
+Beschäftigte,Rumänien,Zürich,2014,0
+Beschäftigte,Rumänien,Zürich,2015,0
+Beschäftigte,Rumänien,Zürich,2016,0
+Beschäftigte,Rumänien,Zürich,2017,
+Beschäftigte,Rumänien,Zürich,2018,0
+Beschäftigte,Rumänien,Zürich,2019,0
+Beschäftigte,Rumänien,Zürich,2020,0
+Beschäftigte,Rumänien,Zürich,2021,0
+Beschäftigte,Rumänien,Zürich,2022,0
+Beschäftigte,Rumänien,Zürich,2023,0
+Beschäftigte,Rumänien,Zürich,2024,0
+Beschäftigte,Rumänien,Bern / Berne,2014,0
+Beschäftigte,Rumänien,Bern / Berne,2015,0
+Beschäftigte,Rumänien,Bern / Berne,2016,0
+Beschäftigte,Rumänien,Bern / Berne,2017,0
+Beschäftigte,Rumänien,Bern / Berne,2018,0
+Beschäftigte,Rumänien,Bern / Berne,2019,0
+Beschäftigte,Rumänien,Bern / Berne,2020,0
+Beschäftigte,Rumänien,Bern / Berne,2021,0
+Beschäftigte,Rumänien,Bern / Berne,2022,0
+Beschäftigte,Rumänien,Bern / Berne,2023,0
+Beschäftigte,Rumänien,Bern / Berne,2024,0
+Beschäftigte,Rumänien,Luzern,2014,0
+Beschäftigte,Rumänien,Luzern,2015,0
+Beschäftigte,Rumänien,Luzern,2016,0
+Beschäftigte,Rumänien,Luzern,2017,0
+Beschäftigte,Rumänien,Luzern,2018,0
+Beschäftigte,Rumänien,Luzern,2019,0
+Beschäftigte,Rumänien,Luzern,2020,0
+Beschäftigte,Rumänien,Luzern,2021,0
+Beschäftigte,Rumänien,Luzern,2022,0
+Beschäftigte,Rumänien,Luzern,2023,0
+Beschäftigte,Rumänien,Luzern,2024,0
+Beschäftigte,Rumänien,Uri,2014,0
+Beschäftigte,Rumänien,Uri,2015,0
+Beschäftigte,Rumänien,Uri,2016,0
+Beschäftigte,Rumänien,Uri,2017,0
+Beschäftigte,Rumänien,Uri,2018,0
+Beschäftigte,Rumänien,Uri,2019,0
+Beschäftigte,Rumänien,Uri,2020,0
+Beschäftigte,Rumänien,Uri,2021,0
+Beschäftigte,Rumänien,Uri,2022,0
+Beschäftigte,Rumänien,Uri,2023,0
+Beschäftigte,Rumänien,Uri,2024,0
+Beschäftigte,Rumänien,Schwyz,2014,0
+Beschäftigte,Rumänien,Schwyz,2015,0
+Beschäftigte,Rumänien,Schwyz,2016,0
+Beschäftigte,Rumänien,Schwyz,2017,0
+Beschäftigte,Rumänien,Schwyz,2018,0
+Beschäftigte,Rumänien,Schwyz,2019,0
+Beschäftigte,Rumänien,Schwyz,2020,0
+Beschäftigte,Rumänien,Schwyz,2021,0
+Beschäftigte,Rumänien,Schwyz,2022,0
+Beschäftigte,Rumänien,Schwyz,2023,0
+Beschäftigte,Rumänien,Schwyz,2024,0
+Beschäftigte,Rumänien,Obwalden,2014,0
+Beschäftigte,Rumänien,Obwalden,2015,0
+Beschäftigte,Rumänien,Obwalden,2016,0
+Beschäftigte,Rumänien,Obwalden,2017,0
+Beschäftigte,Rumänien,Obwalden,2018,0
+Beschäftigte,Rumänien,Obwalden,2019,0
+Beschäftigte,Rumänien,Obwalden,2020,0
+Beschäftigte,Rumänien,Obwalden,2021,0
+Beschäftigte,Rumänien,Obwalden,2022,0
+Beschäftigte,Rumänien,Obwalden,2023,0
+Beschäftigte,Rumänien,Obwalden,2024,0
+Beschäftigte,Rumänien,Nidwalden,2014,0
+Beschäftigte,Rumänien,Nidwalden,2015,0
+Beschäftigte,Rumänien,Nidwalden,2016,0
+Beschäftigte,Rumänien,Nidwalden,2017,0
+Beschäftigte,Rumänien,Nidwalden,2018,0
+Beschäftigte,Rumänien,Nidwalden,2019,0
+Beschäftigte,Rumänien,Nidwalden,2020,0
+Beschäftigte,Rumänien,Nidwalden,2021,0
+Beschäftigte,Rumänien,Nidwalden,2022,0
+Beschäftigte,Rumänien,Nidwalden,2023,0
+Beschäftigte,Rumänien,Nidwalden,2024,0
+Beschäftigte,Rumänien,Glarus,2014,0
+Beschäftigte,Rumänien,Glarus,2015,0
+Beschäftigte,Rumänien,Glarus,2016,0
+Beschäftigte,Rumänien,Glarus,2017,0
+Beschäftigte,Rumänien,Glarus,2018,0
+Beschäftigte,Rumänien,Glarus,2019,0
+Beschäftigte,Rumänien,Glarus,2020,0
+Beschäftigte,Rumänien,Glarus,2021,0
+Beschäftigte,Rumänien,Glarus,2022,0
+Beschäftigte,Rumänien,Glarus,2023,0
+Beschäftigte,Rumänien,Glarus,2024,0
+Beschäftigte,Rumänien,Zug,2014,0
+Beschäftigte,Rumänien,Zug,2015,0
+Beschäftigte,Rumänien,Zug,2016,0
+Beschäftigte,Rumänien,Zug,2017,0
+Beschäftigte,Rumänien,Zug,2018,0
+Beschäftigte,Rumänien,Zug,2019,0
+Beschäftigte,Rumänien,Zug,2020,0
+Beschäftigte,Rumänien,Zug,2021,0
+Beschäftigte,Rumänien,Zug,2022,4
+Beschäftigte,Rumänien,Zug,2023,11
+Beschäftigte,Rumänien,Zug,2024,12
+Beschäftigte,Rumänien,Fribourg / Freiburg,2014,0
+Beschäftigte,Rumänien,Fribourg / Freiburg,2015,0
+Beschäftigte,Rumänien,Fribourg / Freiburg,2016,0
+Beschäftigte,Rumänien,Fribourg / Freiburg,2017,0
+Beschäftigte,Rumänien,Fribourg / Freiburg,2018,0
+Beschäftigte,Rumänien,Fribourg / Freiburg,2019,0
+Beschäftigte,Rumänien,Fribourg / Freiburg,2020,0
+Beschäftigte,Rumänien,Fribourg / Freiburg,2021,0
+Beschäftigte,Rumänien,Fribourg / Freiburg,2022,0
+Beschäftigte,Rumänien,Fribourg / Freiburg,2023,0
+Beschäftigte,Rumänien,Fribourg / Freiburg,2024,0
+Beschäftigte,Rumänien,Solothurn,2014,0
+Beschäftigte,Rumänien,Solothurn,2015,0
+Beschäftigte,Rumänien,Solothurn,2016,0
+Beschäftigte,Rumänien,Solothurn,2017,0
+Beschäftigte,Rumänien,Solothurn,2018,0
+Beschäftigte,Rumänien,Solothurn,2019,0
+Beschäftigte,Rumänien,Solothurn,2020,0
+Beschäftigte,Rumänien,Solothurn,2021,0
+Beschäftigte,Rumänien,Solothurn,2022,0
+Beschäftigte,Rumänien,Solothurn,2023,0
+Beschäftigte,Rumänien,Solothurn,2024,0
+Beschäftigte,Rumänien,Basel-Stadt,2014,0
+Beschäftigte,Rumänien,Basel-Stadt,2015,0
+Beschäftigte,Rumänien,Basel-Stadt,2016,0
+Beschäftigte,Rumänien,Basel-Stadt,2017,0
+Beschäftigte,Rumänien,Basel-Stadt,2018,
+Beschäftigte,Rumänien,Basel-Stadt,2019,0
+Beschäftigte,Rumänien,Basel-Stadt,2020,0
+Beschäftigte,Rumänien,Basel-Stadt,2021,0
+Beschäftigte,Rumänien,Basel-Stadt,2022,0
+Beschäftigte,Rumänien,Basel-Stadt,2023,0
+Beschäftigte,Rumänien,Basel-Stadt,2024,0
+Beschäftigte,Rumänien,Basel-Landschaft,2014,0
+Beschäftigte,Rumänien,Basel-Landschaft,2015,0
+Beschäftigte,Rumänien,Basel-Landschaft,2016,0
+Beschäftigte,Rumänien,Basel-Landschaft,2017,0
+Beschäftigte,Rumänien,Basel-Landschaft,2018,0
+Beschäftigte,Rumänien,Basel-Landschaft,2019,0
+Beschäftigte,Rumänien,Basel-Landschaft,2020,0
+Beschäftigte,Rumänien,Basel-Landschaft,2021,0
+Beschäftigte,Rumänien,Basel-Landschaft,2022,0
+Beschäftigte,Rumänien,Basel-Landschaft,2023,0
+Beschäftigte,Rumänien,Basel-Landschaft,2024,0
+Beschäftigte,Rumänien,Schaffhausen,2014,0
+Beschäftigte,Rumänien,Schaffhausen,2015,0
+Beschäftigte,Rumänien,Schaffhausen,2016,0
+Beschäftigte,Rumänien,Schaffhausen,2017,0
+Beschäftigte,Rumänien,Schaffhausen,2018,0
+Beschäftigte,Rumänien,Schaffhausen,2019,0
+Beschäftigte,Rumänien,Schaffhausen,2020,0
+Beschäftigte,Rumänien,Schaffhausen,2021,0
+Beschäftigte,Rumänien,Schaffhausen,2022,0
+Beschäftigte,Rumänien,Schaffhausen,2023,0
+Beschäftigte,Rumänien,Schaffhausen,2024,0
+Beschäftigte,Rumänien,Appenzell Ausserrhoden,2014,0
+Beschäftigte,Rumänien,Appenzell Ausserrhoden,2015,0
+Beschäftigte,Rumänien,Appenzell Ausserrhoden,2016,0
+Beschäftigte,Rumänien,Appenzell Ausserrhoden,2017,0
+Beschäftigte,Rumänien,Appenzell Ausserrhoden,2018,0
+Beschäftigte,Rumänien,Appenzell Ausserrhoden,2019,0
+Beschäftigte,Rumänien,Appenzell Ausserrhoden,2020,0
+Beschäftigte,Rumänien,Appenzell Ausserrhoden,2021,0
+Beschäftigte,Rumänien,Appenzell Ausserrhoden,2022,0
+Beschäftigte,Rumänien,Appenzell Ausserrhoden,2023,0
+Beschäftigte,Rumänien,Appenzell Ausserrhoden,2024,0
+Beschäftigte,Rumänien,Appenzell Innerrhoden,2014,0
+Beschäftigte,Rumänien,Appenzell Innerrhoden,2015,0
+Beschäftigte,Rumänien,Appenzell Innerrhoden,2016,0
+Beschäftigte,Rumänien,Appenzell Innerrhoden,2017,0
+Beschäftigte,Rumänien,Appenzell Innerrhoden,2018,0
+Beschäftigte,Rumänien,Appenzell Innerrhoden,2019,0
+Beschäftigte,Rumänien,Appenzell Innerrhoden,2020,0
+Beschäftigte,Rumänien,Appenzell Innerrhoden,2021,0
+Beschäftigte,Rumänien,Appenzell Innerrhoden,2022,0
+Beschäftigte,Rumänien,Appenzell Innerrhoden,2023,0
+Beschäftigte,Rumänien,Appenzell Innerrhoden,2024,0
+Beschäftigte,Rumänien,St. Gallen,2014,0
+Beschäftigte,Rumänien,St. Gallen,2015,0
+Beschäftigte,Rumänien,St. Gallen,2016,0
+Beschäftigte,Rumänien,St. Gallen,2017,0
+Beschäftigte,Rumänien,St. Gallen,2018,0
+Beschäftigte,Rumänien,St. Gallen,2019,0
+Beschäftigte,Rumänien,St. Gallen,2020,0
+Beschäftigte,Rumänien,St. Gallen,2021,0
+Beschäftigte,Rumänien,St. Gallen,2022,0
+Beschäftigte,Rumänien,St. Gallen,2023,0
+Beschäftigte,Rumänien,St. Gallen,2024,0
+Beschäftigte,Rumänien,Graubünden / Grigioni / Grischun,2014,0
+Beschäftigte,Rumänien,Graubünden / Grigioni / Grischun,2015,0
+Beschäftigte,Rumänien,Graubünden / Grigioni / Grischun,2016,0
+Beschäftigte,Rumänien,Graubünden / Grigioni / Grischun,2017,0
+Beschäftigte,Rumänien,Graubünden / Grigioni / Grischun,2018,0
+Beschäftigte,Rumänien,Graubünden / Grigioni / Grischun,2019,0
+Beschäftigte,Rumänien,Graubünden / Grigioni / Grischun,2020,0
+Beschäftigte,Rumänien,Graubünden / Grigioni / Grischun,2021,0
+Beschäftigte,Rumänien,Graubünden / Grigioni / Grischun,2022,0
+Beschäftigte,Rumänien,Graubünden / Grigioni / Grischun,2023,0
+Beschäftigte,Rumänien,Graubünden / Grigioni / Grischun,2024,0
+Beschäftigte,Rumänien,Aargau,2014,0
+Beschäftigte,Rumänien,Aargau,2015,0
+Beschäftigte,Rumänien,Aargau,2016,0
+Beschäftigte,Rumänien,Aargau,2017,0
+Beschäftigte,Rumänien,Aargau,2018,0
+Beschäftigte,Rumänien,Aargau,2019,0
+Beschäftigte,Rumänien,Aargau,2020,0
+Beschäftigte,Rumänien,Aargau,2021,0
+Beschäftigte,Rumänien,Aargau,2022,0
+Beschäftigte,Rumänien,Aargau,2023,0
+Beschäftigte,Rumänien,Aargau,2024,0
+Beschäftigte,Rumänien,Thurgau,2014,0
+Beschäftigte,Rumänien,Thurgau,2015,0
+Beschäftigte,Rumänien,Thurgau,2016,0
+Beschäftigte,Rumänien,Thurgau,2017,0
+Beschäftigte,Rumänien,Thurgau,2018,0
+Beschäftigte,Rumänien,Thurgau,2019,0
+Beschäftigte,Rumänien,Thurgau,2020,0
+Beschäftigte,Rumänien,Thurgau,2021,0
+Beschäftigte,Rumänien,Thurgau,2022,0
+Beschäftigte,Rumänien,Thurgau,2023,0
+Beschäftigte,Rumänien,Thurgau,2024,0
+Beschäftigte,Rumänien,Ticino,2014,
+Beschäftigte,Rumänien,Ticino,2015,30
+Beschäftigte,Rumänien,Ticino,2016,0
+Beschäftigte,Rumänien,Ticino,2017,
+Beschäftigte,Rumänien,Ticino,2018,0
+Beschäftigte,Rumänien,Ticino,2019,5
+Beschäftigte,Rumänien,Ticino,2020,0
+Beschäftigte,Rumänien,Ticino,2021,0
+Beschäftigte,Rumänien,Ticino,2022,0
+Beschäftigte,Rumänien,Ticino,2023,0
+Beschäftigte,Rumänien,Ticino,2024,0
+Beschäftigte,Rumänien,Vaud,2014,0
+Beschäftigte,Rumänien,Vaud,2015,0
+Beschäftigte,Rumänien,Vaud,2016,0
+Beschäftigte,Rumänien,Vaud,2017,0
+Beschäftigte,Rumänien,Vaud,2018,
+Beschäftigte,Rumänien,Vaud,2019,50
+Beschäftigte,Rumänien,Vaud,2020,47
+Beschäftigte,Rumänien,Vaud,2021,0
+Beschäftigte,Rumänien,Vaud,2022,0
+Beschäftigte,Rumänien,Vaud,2023,0
+Beschäftigte,Rumänien,Vaud,2024,0
+Beschäftigte,Rumänien,Valais / Wallis,2014,0
+Beschäftigte,Rumänien,Valais / Wallis,2015,0
+Beschäftigte,Rumänien,Valais / Wallis,2016,0
+Beschäftigte,Rumänien,Valais / Wallis,2017,0
+Beschäftigte,Rumänien,Valais / Wallis,2018,0
+Beschäftigte,Rumänien,Valais / Wallis,2019,0
+Beschäftigte,Rumänien,Valais / Wallis,2020,0
+Beschäftigte,Rumänien,Valais / Wallis,2021,0
+Beschäftigte,Rumänien,Valais / Wallis,2022,0
+Beschäftigte,Rumänien,Valais / Wallis,2023,0
+Beschäftigte,Rumänien,Valais / Wallis,2024,0
+Beschäftigte,Rumänien,Neuchâtel,2014,0
+Beschäftigte,Rumänien,Neuchâtel,2015,0
+Beschäftigte,Rumänien,Neuchâtel,2016,0
+Beschäftigte,Rumänien,Neuchâtel,2017,0
+Beschäftigte,Rumänien,Neuchâtel,2018,0
+Beschäftigte,Rumänien,Neuchâtel,2019,0
+Beschäftigte,Rumänien,Neuchâtel,2020,0
+Beschäftigte,Rumänien,Neuchâtel,2021,0
+Beschäftigte,Rumänien,Neuchâtel,2022,0
+Beschäftigte,Rumänien,Neuchâtel,2023,0
+Beschäftigte,Rumänien,Neuchâtel,2024,0
+Beschäftigte,Rumänien,Genève,2014,0
+Beschäftigte,Rumänien,Genève,2015,0
+Beschäftigte,Rumänien,Genève,2016,0
+Beschäftigte,Rumänien,Genève,2017,0
+Beschäftigte,Rumänien,Genève,2018,0
+Beschäftigte,Rumänien,Genève,2019,0
+Beschäftigte,Rumänien,Genève,2020,0
+Beschäftigte,Rumänien,Genève,2021,0
+Beschäftigte,Rumänien,Genève,2022,0
+Beschäftigte,Rumänien,Genève,2023,0
+Beschäftigte,Rumänien,Genève,2024,0
+Beschäftigte,Rumänien,Jura,2014,0
+Beschäftigte,Rumänien,Jura,2015,0
+Beschäftigte,Rumänien,Jura,2016,0
+Beschäftigte,Rumänien,Jura,2017,0
+Beschäftigte,Rumänien,Jura,2018,0
+Beschäftigte,Rumänien,Jura,2019,0
+Beschäftigte,Rumänien,Jura,2020,0
+Beschäftigte,Rumänien,Jura,2021,0
+Beschäftigte,Rumänien,Jura,2022,0
+Beschäftigte,Rumänien,Jura,2023,0
+Beschäftigte,Rumänien,Jura,2024,0

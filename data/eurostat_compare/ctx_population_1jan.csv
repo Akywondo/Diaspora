@@ -1,0 +1,328 @@
+dataset,freq,indic_de,geo,geo_label,year,value,flag
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),1990,696706,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),1991,309918,b
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),1992,965712,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),1993,868894,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),1994,607730,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),1995,587552,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),1996,539584,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),1997,443286,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),1998,423443,b
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),1999,778199,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2000,689677,be
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2001,325512,b
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2002,1437212,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2003,1620807,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2004,1457501,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2005,1289498,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2006,1182252,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2007,1280359,b
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2008,1030804,b
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2009,556529,
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2010,586472,b
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2011,640316,b
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2012,486974,b
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2013,435647,be
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2014,660097,be
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2015,1362545,bep
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2016,807875,e
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2017,950849,be
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2018,1282214,be
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2019,1350272,bep
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2020,143479,be
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2021,1440687,be
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2022,3440705,be
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2023,2973047,bep
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2024,2489162,ep
+demo_gind,A,CNMIGRAT,EU27_2020,European Union - 27 countries (from 2020),2025,2058461,ep
+demo_gind,A,CNMIGRAT,RO,Romania,1990,-86781,
+demo_gind,A,CNMIGRAT,RO,Romania,1991,-405754,
+demo_gind,A,CNMIGRAT,RO,Romania,1992,-28040,
+demo_gind,A,CNMIGRAT,RO,Romania,1993,-17177,
+demo_gind,A,CNMIGRAT,RO,Romania,1994,-16268,
+demo_gind,A,CNMIGRAT,RO,Romania,1995,-21217,
+demo_gind,A,CNMIGRAT,RO,Romania,1996,-19473,
+demo_gind,A,CNMIGRAT,RO,Romania,1997,-13345,
+demo_gind,A,CNMIGRAT,RO,Romania,1998,-5629,
+demo_gind,A,CNMIGRAT,RO,Romania,1999,-2516,
+demo_gind,A,CNMIGRAT,RO,Romania,2000,-3729,
+demo_gind,A,CNMIGRAT,RO,Romania,2001,-557739,
+demo_gind,A,CNMIGRAT,RO,Romania,2002,-146837,
+demo_gind,A,CNMIGRAT,RO,Romania,2003,-52251,
+demo_gind,A,CNMIGRAT,RO,Romania,2004,-96159,
+demo_gind,A,CNMIGRAT,RO,Romania,2005,-84257,
+demo_gind,A,CNMIGRAT,RO,Romania,2006,-87902,
+demo_gind,A,CNMIGRAT,RO,Romania,2007,-457806,
+demo_gind,A,CNMIGRAT,RO,Romania,2008,-163868,
+demo_gind,A,CNMIGRAT,RO,Romania,2009,-110782,
+demo_gind,A,CNMIGRAT,RO,Romania,2010,-48100,
+demo_gind,A,CNMIGRAT,RO,Romania,2011,-47866,
+demo_gind,A,CNMIGRAT,RO,Romania,2012,-21487,
+demo_gind,A,CNMIGRAT,RO,Romania,2013,-13887,be
+demo_gind,A,CNMIGRAT,RO,Romania,2014,-20439,e
+demo_gind,A,CNMIGRAT,RO,Romania,2015,-49615,bep
+demo_gind,A,CNMIGRAT,RO,Romania,2016,-64005,
+demo_gind,A,CNMIGRAT,RO,Romania,2017,-58737,
+demo_gind,A,CNMIGRAT,RO,Romania,2018,-57856,
+demo_gind,A,CNMIGRAT,RO,Romania,2019,-25451,e
+demo_gind,A,CNMIGRAT,RO,Romania,2020,-25954,e
+demo_gind,A,CNMIGRAT,RO,Romania,2021,-16228,e
+demo_gind,A,CNMIGRAT,RO,Romania,2022,102622,e
+demo_gind,A,CNMIGRAT,RO,Romania,2023,96331,e
+demo_gind,A,CNMIGRAT,RO,Romania,2024,76513,e
+demo_gind,A,CNMIGRAT,RO,Romania,2025,102249,ep
+demo_gind,A,CNMIGRAT,CH,Switzerland,1990,63138,
+demo_gind,A,CNMIGRAT,CH,Switzerland,1991,62014,
+demo_gind,A,CNMIGRAT,CH,Switzerland,1992,40583,
+demo_gind,A,CNMIGRAT,CH,Switzerland,1993,39361,
+demo_gind,A,CNMIGRAT,CH,Switzerland,1994,29457,
+demo_gind,A,CNMIGRAT,CH,Switzerland,1995,24519,
+demo_gind,A,CNMIGRAT,CH,Switzerland,1996,-1378,
+demo_gind,A,CNMIGRAT,CH,Switzerland,1997,-2626,
+demo_gind,A,CNMIGRAT,CH,Switzerland,1998,10692,
+demo_gind,A,CNMIGRAT,CH,Switzerland,1999,25002,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2000,23681,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2001,40531,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2002,47596,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2003,41517,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2004,38052,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2005,32247,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2006,36523,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2007,71350,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2008,92904,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2009,68140,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2010,60565,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2011,65811,b
+demo_gind,A,CNMIGRAT,CH,Switzerland,2012,66407,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2013,82801,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2014,76686,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2015,70507,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2016,69505,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2017,44170,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2018,39634,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2019,43114,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2020,54548,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2021,50039,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2022,68648,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2023,138671,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2024,82457,
+demo_gind,A,CNMIGRAT,CH,Switzerland,2025,67010,p
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),1990,418030739,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),1991,419504036,b
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),1992,420413536,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),1993,421912578,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),1994,423104986,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),1995,423960534,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),1996,424641798,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),1997,425273491,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),1998,427482962,b
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),1999,427998269,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2000,428473834,be
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2001,429240746,b
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2002,429728905,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2003,431246056,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2004,432878129,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2005,434585887,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2006,436041018,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2007,437514477,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2008,439074280,b
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2009,440467898,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2010,441160594,b
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2011,440526112,b
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2012,441280191,b
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2013,441739935,b
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2014,442235565,be
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2015,442883289,e
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2016,443954935,e
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2017,444609939,be
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2018,445227547,e
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2019,446060538,
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2020,446923963,e
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2021,445767723,b
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2022,446177571,be
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2023,448268023,be
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2024,450054483,ep
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2025,451284558,ep
+demo_gind,A,JAN,EU27_2020,European Union - 27 countries (from 2020),2026,451990314,ep
+demo_gind,A,JAN,RO,Romania,1990,23211395,
+demo_gind,A,JAN,RO,Romania,1991,23192274,
+demo_gind,A,JAN,RO,Romania,1992,22810035,
+demo_gind,A,JAN,RO,Romania,1993,22778533,
+demo_gind,A,JAN,RO,Romania,1994,22748027,
+demo_gind,A,JAN,RO,Romania,1995,22712394,
+demo_gind,A,JAN,RO,Romania,1996,22656145,
+demo_gind,A,JAN,RO,Romania,1997,22581862,
+demo_gind,A,JAN,RO,Romania,1998,22526093,
+demo_gind,A,JAN,RO,Romania,1999,22488595,
+demo_gind,A,JAN,RO,Romania,2000,22455485,
+demo_gind,A,JAN,RO,Romania,2001,22430457,
+demo_gind,A,JAN,RO,Romania,2002,21833483,
+demo_gind,A,JAN,RO,Romania,2003,21627509,
+demo_gind,A,JAN,RO,Romania,2004,21521142,
+demo_gind,A,JAN,RO,Romania,2005,21382354,
+demo_gind,A,JAN,RO,Romania,2006,21257016,
+demo_gind,A,JAN,RO,Romania,2007,21130503,
+demo_gind,A,JAN,RO,Romania,2008,20635460,
+demo_gind,A,JAN,RO,Romania,2009,20440290,
+demo_gind,A,JAN,RO,Romania,2010,20294683,
+demo_gind,A,JAN,RO,Romania,2011,20199059,
+demo_gind,A,JAN,RO,Romania,2012,20095996,
+demo_gind,A,JAN,RO,Romania,2013,20020074,b
+demo_gind,A,JAN,RO,Romania,2014,19947311,e
+demo_gind,A,JAN,RO,Romania,2015,19870647,e
+demo_gind,A,JAN,RO,Romania,2016,19760585,
+demo_gind,A,JAN,RO,Romania,2017,19643949,
+demo_gind,A,JAN,RO,Romania,2018,19533481,
+demo_gind,A,JAN,RO,Romania,2019,19414458,
+demo_gind,A,JAN,RO,Romania,2020,19328838,e
+demo_gind,A,JAN,RO,Romania,2021,19201662,
+demo_gind,A,JAN,RO,Romania,2022,19043098,e
+demo_gind,A,JAN,RO,Romania,2023,19055228,e
+demo_gind,A,JAN,RO,Romania,2024,19067576,e
+demo_gind,A,JAN,RO,Romania,2025,19043151,e
+demo_gind,A,JAN,RO,Romania,2026,19041322,e
+demo_gind,A,JAN,CH,Switzerland,1990,6673850,
+demo_gind,A,JAN,CH,Switzerland,1991,6757188,
+demo_gind,A,JAN,CH,Switzerland,1992,6842768,
+demo_gind,A,JAN,CH,Switzerland,1993,6907959,
+demo_gind,A,JAN,CH,Switzerland,1994,6968570,
+demo_gind,A,JAN,CH,Switzerland,1995,7019019,
+demo_gind,A,JAN,CH,Switzerland,1996,7062354,
+demo_gind,A,JAN,CH,Switzerland,1997,7081346,
+demo_gind,A,JAN,CH,Switzerland,1998,7096465,
+demo_gind,A,JAN,CH,Switzerland,1999,7123537,
+demo_gind,A,JAN,CH,Switzerland,2000,7164444,
+demo_gind,A,JAN,CH,Switzerland,2001,7204055,
+demo_gind,A,JAN,CH,Switzerland,2002,7255653,
+demo_gind,A,JAN,CH,Switzerland,2003,7313853,
+demo_gind,A,JAN,CH,Switzerland,2004,7364148,
+demo_gind,A,JAN,CH,Switzerland,2005,7415102,
+demo_gind,A,JAN,CH,Switzerland,2006,7459128,
+demo_gind,A,JAN,CH,Switzerland,2007,7508739,
+demo_gind,A,JAN,CH,Switzerland,2008,7593494,
+demo_gind,A,JAN,CH,Switzerland,2009,7701856,
+demo_gind,A,JAN,CH,Switzerland,2010,7785806,
+demo_gind,A,JAN,CH,Switzerland,2011,7870134,b
+demo_gind,A,JAN,CH,Switzerland,2012,7954662,
+demo_gind,A,JAN,CH,Switzerland,2013,8039060,
+demo_gind,A,JAN,CH,Switzerland,2014,8139631,
+demo_gind,A,JAN,CH,Switzerland,2015,8237666,
+demo_gind,A,JAN,CH,Switzerland,2016,8327126,
+demo_gind,A,JAN,CH,Switzerland,2017,8419550,
+demo_gind,A,JAN,CH,Switzerland,2018,8484130,
+demo_gind,A,JAN,CH,Switzerland,2019,8544527,
+demo_gind,A,JAN,CH,Switzerland,2020,8606033,
+demo_gind,A,JAN,CH,Switzerland,2021,8670300,
+demo_gind,A,JAN,CH,Switzerland,2022,8738791,
+demo_gind,A,JAN,CH,Switzerland,2023,8815385,
+demo_gind,A,JAN,CH,Switzerland,2024,8962258,
+demo_gind,A,JAN,CH,Switzerland,2025,9051029,
+demo_gind,A,JAN,CH,Switzerland,2026,9124288,p
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),1990,770593,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),1991,599582,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),1992,533330,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),1993,323514,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),1994,247819,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),1995,93712,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),1996,92109,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),1997,130263,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),1998,91864,b
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),1999,87622,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2000,220697,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2001,162647,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2002,79939,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2003,11266,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2004,250257,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2005,165633,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2006,291207,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2007,279444,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2008,362814,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2009,280627,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2010,259211,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2011,139569,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2012,-24206,b
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2013,-116969,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2014,-12373,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2015,-290899,bep
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2016,-155760,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2017,-333241,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2018,-449223,be
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2019,-486847,bep
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2020,-1115455,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2021,-1208839,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2022,-1274662,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2023,-1186587,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2024,-1259087,
+demo_gind,A,NATGROW,EU27_2020,European Union - 27 countries (from 2020),2025,-1352705,p
+demo_gind,A,NATGROW,RO,Romania,1990,67660,
+demo_gind,A,NATGROW,RO,Romania,1991,23515,
+demo_gind,A,NATGROW,RO,Romania,1992,-3462,
+demo_gind,A,NATGROW,RO,Romania,1993,-13329,
+demo_gind,A,NATGROW,RO,Romania,1994,-19365,
+demo_gind,A,NATGROW,RO,Romania,1995,-35032,
+demo_gind,A,NATGROW,RO,Romania,1996,-54810,
+demo_gind,A,NATGROW,RO,Romania,1997,-42424,
+demo_gind,A,NATGROW,RO,Romania,1998,-31869,
+demo_gind,A,NATGROW,RO,Romania,1999,-30594,
+demo_gind,A,NATGROW,RO,Romania,2000,-21299,
+demo_gind,A,NATGROW,RO,Romania,2001,-39235,
+demo_gind,A,NATGROW,RO,Romania,2002,-59137,
+demo_gind,A,NATGROW,RO,Romania,2003,-54116,
+demo_gind,A,NATGROW,RO,Romania,2004,-42629,
+demo_gind,A,NATGROW,RO,Romania,2005,-41081,
+demo_gind,A,NATGROW,RO,Romania,2006,-38611,
+demo_gind,A,NATGROW,RO,Romania,2007,-37237,
+demo_gind,A,NATGROW,RO,Romania,2008,-31302,
+demo_gind,A,NATGROW,RO,Romania,2009,-34825,
+demo_gind,A,NATGROW,RO,Romania,2010,-47524,
+demo_gind,A,NATGROW,RO,Romania,2011,-55197,
+demo_gind,A,NATGROW,RO,Romania,2012,-54435,
+demo_gind,A,NATGROW,RO,Romania,2013,-58876,
+demo_gind,A,NATGROW,RO,Romania,2014,-56225,
+demo_gind,A,NATGROW,RO,Romania,2015,-60447,bep
+demo_gind,A,NATGROW,RO,Romania,2016,-52631,
+demo_gind,A,NATGROW,RO,Romania,2017,-51731,
+demo_gind,A,NATGROW,RO,Romania,2018,-61167,
+demo_gind,A,NATGROW,RO,Romania,2019,-60169,
+demo_gind,A,NATGROW,RO,Romania,2020,-101222,
+demo_gind,A,NATGROW,RO,Romania,2021,-142336,
+demo_gind,A,NATGROW,RO,Romania,2022,-90492,
+demo_gind,A,NATGROW,RO,Romania,2023,-83983,
+demo_gind,A,NATGROW,RO,Romania,2024,-100938,
+demo_gind,A,NATGROW,RO,Romania,2025,-104078,p
+demo_gind,A,NATGROW,CH,Switzerland,1990,20200,
+demo_gind,A,NATGROW,CH,Switzerland,1991,23566,
+demo_gind,A,NATGROW,CH,Switzerland,1992,24608,
+demo_gind,A,NATGROW,CH,Switzerland,1993,21250,
+demo_gind,A,NATGROW,CH,Switzerland,1994,20992,
+demo_gind,A,NATGROW,CH,Switzerland,1995,18816,
+demo_gind,A,NATGROW,CH,Switzerland,1996,20370,
+demo_gind,A,NATGROW,CH,Switzerland,1997,17745,
+demo_gind,A,NATGROW,CH,Switzerland,1998,16380,
+demo_gind,A,NATGROW,CH,Switzerland,1999,15905,
+demo_gind,A,NATGROW,CH,Switzerland,2000,15930,
+demo_gind,A,NATGROW,CH,Switzerland,2001,11067,
+demo_gind,A,NATGROW,CH,Switzerland,2002,10604,
+demo_gind,A,NATGROW,CH,Switzerland,2003,8778,
+demo_gind,A,NATGROW,CH,Switzerland,2004,12902,
+demo_gind,A,NATGROW,CH,Switzerland,2005,11779,
+demo_gind,A,NATGROW,CH,Switzerland,2006,13088,
+demo_gind,A,NATGROW,CH,Switzerland,2007,13405,
+demo_gind,A,NATGROW,CH,Switzerland,2008,15458,
+demo_gind,A,NATGROW,CH,Switzerland,2009,15810,
+demo_gind,A,NATGROW,CH,Switzerland,2010,17641,
+demo_gind,A,NATGROW,CH,Switzerland,2011,18717,
+demo_gind,A,NATGROW,CH,Switzerland,2012,17991,
+demo_gind,A,NATGROW,CH,Switzerland,2013,17770,
+demo_gind,A,NATGROW,CH,Switzerland,2014,21349,
+demo_gind,A,NATGROW,CH,Switzerland,2015,18953,
+demo_gind,A,NATGROW,CH,Switzerland,2016,22919,
+demo_gind,A,NATGROW,CH,Switzerland,2017,20410,
+demo_gind,A,NATGROW,CH,Switzerland,2018,20763,
+demo_gind,A,NATGROW,CH,Switzerland,2019,18392,
+demo_gind,A,NATGROW,CH,Switzerland,2020,9719,
+demo_gind,A,NATGROW,CH,Switzerland,2021,18452,
+demo_gind,A,NATGROW,CH,Switzerland,2022,7946,
+demo_gind,A,NATGROW,CH,Switzerland,2023,8202,
+demo_gind,A,NATGROW,CH,Switzerland,2024,6314,
+demo_gind,A,NATGROW,CH,Switzerland,2025,6249,

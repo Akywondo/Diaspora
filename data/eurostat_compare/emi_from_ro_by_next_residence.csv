@@ -1,0 +1,2322 @@
+dataset,freq,partner,partner_label,agedef,age,unit,sex,geo,geo_label,year,value,flag
+migr_emi3nxt,A,EUR,Europe,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,EU27_2007,European Union - 27 countries (2007-2013),REACH,TOTAL,NR,T,RO,Romania,2008,297415,
+migr_emi3nxt,A,EU27_2007,European Union - 27 countries (2007-2013),REACH,TOTAL,NR,T,RO,Romania,2009,238908,
+migr_emi3nxt,A,EU27_2007,European Union - 27 countries (2007-2013),REACH,TOTAL,NR,T,RO,Romania,2010,192180,
+migr_emi3nxt,A,EU27_2007,European Union - 27 countries (2007-2013),REACH,TOTAL,NR,T,RO,Romania,2011,188252,
+migr_emi3nxt,A,EU27_2007,European Union - 27 countries (2007-2013),REACH,TOTAL,NR,T,RO,Romania,2012,162067,
+migr_emi3nxt,A,EU27_2007,European Union - 27 countries (2007-2013),COMPLET,TOTAL,NR,T,RO,Romania,2008,297415,
+migr_emi3nxt,A,EU27_2007,European Union - 27 countries (2007-2013),COMPLET,TOTAL,NR,T,RO,Romania,2009,238908,
+migr_emi3nxt,A,EU27_2007,European Union - 27 countries (2007-2013),COMPLET,TOTAL,NR,T,RO,Romania,2010,192180,
+migr_emi3nxt,A,EU27_2007,European Union - 27 countries (2007-2013),COMPLET,TOTAL,NR,T,RO,Romania,2011,188252,
+migr_emi3nxt,A,EU27_2007,European Union - 27 countries (2007-2013),COMPLET,TOTAL,NR,T,RO,Romania,2012,162067,
+migr_emi3nxt,A,BE,Belgium,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BE,Belgium,REACH,TOTAL,NR,T,RO,Romania,2021,12513,
+migr_emi3nxt,A,BE,Belgium,REACH,TOTAL,NR,T,RO,Romania,2022,12788,e
+migr_emi3nxt,A,BE,Belgium,REACH,TOTAL,NR,T,RO,Romania,2023,5055,e
+migr_emi3nxt,A,BE,Belgium,REACH,TOTAL,NR,T,RO,Romania,2024,18845,e
+migr_emi3nxt,A,BE,Belgium,COMPLET,TOTAL,NR,T,RO,Romania,2021,12513,
+migr_emi3nxt,A,BE,Belgium,COMPLET,TOTAL,NR,T,RO,Romania,2022,12788,e
+migr_emi3nxt,A,BE,Belgium,COMPLET,TOTAL,NR,T,RO,Romania,2023,5055,e
+migr_emi3nxt,A,BE,Belgium,COMPLET,TOTAL,NR,T,RO,Romania,2024,18845,e
+migr_emi3nxt,A,BG,Bulgaria,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BG,Bulgaria,REACH,TOTAL,NR,T,RO,Romania,2021,614,
+migr_emi3nxt,A,BG,Bulgaria,REACH,TOTAL,NR,T,RO,Romania,2022,432,e
+migr_emi3nxt,A,BG,Bulgaria,REACH,TOTAL,NR,T,RO,Romania,2023,575,e
+migr_emi3nxt,A,BG,Bulgaria,REACH,TOTAL,NR,T,RO,Romania,2024,595,e
+migr_emi3nxt,A,BG,Bulgaria,COMPLET,TOTAL,NR,T,RO,Romania,2021,614,
+migr_emi3nxt,A,BG,Bulgaria,COMPLET,TOTAL,NR,T,RO,Romania,2022,432,e
+migr_emi3nxt,A,BG,Bulgaria,COMPLET,TOTAL,NR,T,RO,Romania,2023,575,e
+migr_emi3nxt,A,BG,Bulgaria,COMPLET,TOTAL,NR,T,RO,Romania,2024,595,e
+migr_emi3nxt,A,CZ,Czechia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CZ,Czechia,REACH,TOTAL,NR,T,RO,Romania,2021,544,
+migr_emi3nxt,A,CZ,Czechia,REACH,TOTAL,NR,T,RO,Romania,2022,563,e
+migr_emi3nxt,A,CZ,Czechia,REACH,TOTAL,NR,T,RO,Romania,2023,890,e
+migr_emi3nxt,A,CZ,Czechia,REACH,TOTAL,NR,T,RO,Romania,2024,402,e
+migr_emi3nxt,A,CZ,Czechia,COMPLET,TOTAL,NR,T,RO,Romania,2021,544,
+migr_emi3nxt,A,CZ,Czechia,COMPLET,TOTAL,NR,T,RO,Romania,2022,563,e
+migr_emi3nxt,A,CZ,Czechia,COMPLET,TOTAL,NR,T,RO,Romania,2023,890,e
+migr_emi3nxt,A,CZ,Czechia,COMPLET,TOTAL,NR,T,RO,Romania,2024,402,e
+migr_emi3nxt,A,DK,Denmark,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,DK,Denmark,REACH,TOTAL,NR,T,RO,Romania,2021,5223,
+migr_emi3nxt,A,DK,Denmark,REACH,TOTAL,NR,T,RO,Romania,2022,5945,e
+migr_emi3nxt,A,DK,Denmark,REACH,TOTAL,NR,T,RO,Romania,2023,4656,e
+migr_emi3nxt,A,DK,Denmark,REACH,TOTAL,NR,T,RO,Romania,2024,4014,e
+migr_emi3nxt,A,DK,Denmark,COMPLET,TOTAL,NR,T,RO,Romania,2021,5223,
+migr_emi3nxt,A,DK,Denmark,COMPLET,TOTAL,NR,T,RO,Romania,2022,5945,e
+migr_emi3nxt,A,DK,Denmark,COMPLET,TOTAL,NR,T,RO,Romania,2023,4656,e
+migr_emi3nxt,A,DK,Denmark,COMPLET,TOTAL,NR,T,RO,Romania,2024,4014,e
+migr_emi3nxt,A,DE,Germany,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,DE,Germany,REACH,TOTAL,NR,T,RO,Romania,2021,43354,
+migr_emi3nxt,A,DE,Germany,REACH,TOTAL,NR,T,RO,Romania,2022,44900,e
+migr_emi3nxt,A,DE,Germany,REACH,TOTAL,NR,T,RO,Romania,2023,35000,e
+migr_emi3nxt,A,DE,Germany,REACH,TOTAL,NR,T,RO,Romania,2024,64325,e
+migr_emi3nxt,A,DE,Germany,COMPLET,TOTAL,NR,T,RO,Romania,2021,43354,
+migr_emi3nxt,A,DE,Germany,COMPLET,TOTAL,NR,T,RO,Romania,2022,44900,e
+migr_emi3nxt,A,DE,Germany,COMPLET,TOTAL,NR,T,RO,Romania,2023,35000,e
+migr_emi3nxt,A,DE,Germany,COMPLET,TOTAL,NR,T,RO,Romania,2024,64325,e
+migr_emi3nxt,A,EE,Estonia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,EE,Estonia,REACH,TOTAL,NR,T,RO,Romania,2021,47,
+migr_emi3nxt,A,EE,Estonia,REACH,TOTAL,NR,T,RO,Romania,2022,49,e
+migr_emi3nxt,A,EE,Estonia,REACH,TOTAL,NR,T,RO,Romania,2023,48,e
+migr_emi3nxt,A,EE,Estonia,REACH,TOTAL,NR,T,RO,Romania,2024,16,e
+migr_emi3nxt,A,EE,Estonia,COMPLET,TOTAL,NR,T,RO,Romania,2021,47,
+migr_emi3nxt,A,EE,Estonia,COMPLET,TOTAL,NR,T,RO,Romania,2022,49,e
+migr_emi3nxt,A,EE,Estonia,COMPLET,TOTAL,NR,T,RO,Romania,2023,48,e
+migr_emi3nxt,A,EE,Estonia,COMPLET,TOTAL,NR,T,RO,Romania,2024,16,e
+migr_emi3nxt,A,IE,Ireland,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,IE,Ireland,REACH,TOTAL,NR,T,RO,Romania,2021,544,
+migr_emi3nxt,A,IE,Ireland,REACH,TOTAL,NR,T,RO,Romania,2022,581,e
+migr_emi3nxt,A,IE,Ireland,REACH,TOTAL,NR,T,RO,Romania,2023,562,e
+migr_emi3nxt,A,IE,Ireland,REACH,TOTAL,NR,T,RO,Romania,2024,613,e
+migr_emi3nxt,A,IE,Ireland,COMPLET,TOTAL,NR,T,RO,Romania,2021,544,
+migr_emi3nxt,A,IE,Ireland,COMPLET,TOTAL,NR,T,RO,Romania,2022,581,e
+migr_emi3nxt,A,IE,Ireland,COMPLET,TOTAL,NR,T,RO,Romania,2023,562,e
+migr_emi3nxt,A,IE,Ireland,COMPLET,TOTAL,NR,T,RO,Romania,2024,613,e
+migr_emi3nxt,A,EL,Greece,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,EL,Greece,REACH,TOTAL,NR,T,RO,Romania,2021,805,
+migr_emi3nxt,A,EL,Greece,REACH,TOTAL,NR,T,RO,Romania,2022,813,e
+migr_emi3nxt,A,EL,Greece,REACH,TOTAL,NR,T,RO,Romania,2023,809,e
+migr_emi3nxt,A,EL,Greece,REACH,TOTAL,NR,T,RO,Romania,2024,721,e
+migr_emi3nxt,A,EL,Greece,COMPLET,TOTAL,NR,T,RO,Romania,2021,805,
+migr_emi3nxt,A,EL,Greece,COMPLET,TOTAL,NR,T,RO,Romania,2022,813,e
+migr_emi3nxt,A,EL,Greece,COMPLET,TOTAL,NR,T,RO,Romania,2023,809,e
+migr_emi3nxt,A,EL,Greece,COMPLET,TOTAL,NR,T,RO,Romania,2024,721,e
+migr_emi3nxt,A,ES,Spain,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,ES,Spain,REACH,TOTAL,NR,T,RO,Romania,2021,15727,
+migr_emi3nxt,A,ES,Spain,REACH,TOTAL,NR,T,RO,Romania,2022,29429,e
+migr_emi3nxt,A,ES,Spain,REACH,TOTAL,NR,T,RO,Romania,2023,40000,e
+migr_emi3nxt,A,ES,Spain,REACH,TOTAL,NR,T,RO,Romania,2024,35747,e
+migr_emi3nxt,A,ES,Spain,COMPLET,TOTAL,NR,T,RO,Romania,2021,15727,
+migr_emi3nxt,A,ES,Spain,COMPLET,TOTAL,NR,T,RO,Romania,2022,29429,e
+migr_emi3nxt,A,ES,Spain,COMPLET,TOTAL,NR,T,RO,Romania,2023,40000,e
+migr_emi3nxt,A,ES,Spain,COMPLET,TOTAL,NR,T,RO,Romania,2024,35747,e
+migr_emi3nxt,A,FR,France,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,FR,France,REACH,TOTAL,NR,T,RO,Romania,2021,4793,
+migr_emi3nxt,A,FR,France,REACH,TOTAL,NR,T,RO,Romania,2022,4838,e
+migr_emi3nxt,A,FR,France,REACH,TOTAL,NR,T,RO,Romania,2023,3347,e
+migr_emi3nxt,A,FR,France,REACH,TOTAL,NR,T,RO,Romania,2024,2764,e
+migr_emi3nxt,A,FR,France,COMPLET,TOTAL,NR,T,RO,Romania,2021,4793,
+migr_emi3nxt,A,FR,France,COMPLET,TOTAL,NR,T,RO,Romania,2022,4838,e
+migr_emi3nxt,A,FR,France,COMPLET,TOTAL,NR,T,RO,Romania,2023,3347,e
+migr_emi3nxt,A,FR,France,COMPLET,TOTAL,NR,T,RO,Romania,2024,2764,e
+migr_emi3nxt,A,HR,Croatia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,HR,Croatia,REACH,TOTAL,NR,T,RO,Romania,2021,131,
+migr_emi3nxt,A,HR,Croatia,REACH,TOTAL,NR,T,RO,Romania,2022,88,e
+migr_emi3nxt,A,HR,Croatia,REACH,TOTAL,NR,T,RO,Romania,2023,100,e
+migr_emi3nxt,A,HR,Croatia,REACH,TOTAL,NR,T,RO,Romania,2024,143,e
+migr_emi3nxt,A,HR,Croatia,COMPLET,TOTAL,NR,T,RO,Romania,2021,131,
+migr_emi3nxt,A,HR,Croatia,COMPLET,TOTAL,NR,T,RO,Romania,2022,88,e
+migr_emi3nxt,A,HR,Croatia,COMPLET,TOTAL,NR,T,RO,Romania,2023,100,e
+migr_emi3nxt,A,HR,Croatia,COMPLET,TOTAL,NR,T,RO,Romania,2024,143,e
+migr_emi3nxt,A,IT,Italy,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,IT,Italy,REACH,TOTAL,NR,T,RO,Romania,2021,27044,
+migr_emi3nxt,A,IT,Italy,REACH,TOTAL,NR,T,RO,Romania,2022,28291,e
+migr_emi3nxt,A,IT,Italy,REACH,TOTAL,NR,T,RO,Romania,2023,24061,e
+migr_emi3nxt,A,IT,Italy,REACH,TOTAL,NR,T,RO,Romania,2024,19220,e
+migr_emi3nxt,A,IT,Italy,COMPLET,TOTAL,NR,T,RO,Romania,2021,27044,
+migr_emi3nxt,A,IT,Italy,COMPLET,TOTAL,NR,T,RO,Romania,2022,28291,e
+migr_emi3nxt,A,IT,Italy,COMPLET,TOTAL,NR,T,RO,Romania,2023,24061,e
+migr_emi3nxt,A,IT,Italy,COMPLET,TOTAL,NR,T,RO,Romania,2024,19220,e
+migr_emi3nxt,A,CY,Cyprus,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CY,Cyprus,REACH,TOTAL,NR,T,RO,Romania,2021,160,
+migr_emi3nxt,A,CY,Cyprus,REACH,TOTAL,NR,T,RO,Romania,2022,262,e
+migr_emi3nxt,A,CY,Cyprus,REACH,TOTAL,NR,T,RO,Romania,2023,211,e
+migr_emi3nxt,A,CY,Cyprus,REACH,TOTAL,NR,T,RO,Romania,2024,217,e
+migr_emi3nxt,A,CY,Cyprus,COMPLET,TOTAL,NR,T,RO,Romania,2021,160,
+migr_emi3nxt,A,CY,Cyprus,COMPLET,TOTAL,NR,T,RO,Romania,2022,262,e
+migr_emi3nxt,A,CY,Cyprus,COMPLET,TOTAL,NR,T,RO,Romania,2023,211,e
+migr_emi3nxt,A,CY,Cyprus,COMPLET,TOTAL,NR,T,RO,Romania,2024,217,e
+migr_emi3nxt,A,LV,Latvia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,LV,Latvia,REACH,TOTAL,NR,T,RO,Romania,2021,32,
+migr_emi3nxt,A,LV,Latvia,REACH,TOTAL,NR,T,RO,Romania,2022,32,e
+migr_emi3nxt,A,LV,Latvia,REACH,TOTAL,NR,T,RO,Romania,2023,32,e
+migr_emi3nxt,A,LV,Latvia,REACH,TOTAL,NR,T,RO,Romania,2024,29,e
+migr_emi3nxt,A,LV,Latvia,COMPLET,TOTAL,NR,T,RO,Romania,2021,32,
+migr_emi3nxt,A,LV,Latvia,COMPLET,TOTAL,NR,T,RO,Romania,2022,32,e
+migr_emi3nxt,A,LV,Latvia,COMPLET,TOTAL,NR,T,RO,Romania,2023,32,e
+migr_emi3nxt,A,LV,Latvia,COMPLET,TOTAL,NR,T,RO,Romania,2024,29,e
+migr_emi3nxt,A,LT,Lithuania,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,LT,Lithuania,REACH,TOTAL,NR,T,RO,Romania,2021,44,
+migr_emi3nxt,A,LT,Lithuania,REACH,TOTAL,NR,T,RO,Romania,2022,66,e
+migr_emi3nxt,A,LT,Lithuania,REACH,TOTAL,NR,T,RO,Romania,2023,55,e
+migr_emi3nxt,A,LT,Lithuania,REACH,TOTAL,NR,T,RO,Romania,2024,42,e
+migr_emi3nxt,A,LT,Lithuania,COMPLET,TOTAL,NR,T,RO,Romania,2021,44,
+migr_emi3nxt,A,LT,Lithuania,COMPLET,TOTAL,NR,T,RO,Romania,2022,66,e
+migr_emi3nxt,A,LT,Lithuania,COMPLET,TOTAL,NR,T,RO,Romania,2023,55,e
+migr_emi3nxt,A,LT,Lithuania,COMPLET,TOTAL,NR,T,RO,Romania,2024,42,e
+migr_emi3nxt,A,LU,Luxembourg,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,LU,Luxembourg,REACH,TOTAL,NR,T,RO,Romania,2021,769,
+migr_emi3nxt,A,LU,Luxembourg,REACH,TOTAL,NR,T,RO,Romania,2022,776,e
+migr_emi3nxt,A,LU,Luxembourg,REACH,TOTAL,NR,T,RO,Romania,2023,292,e
+migr_emi3nxt,A,LU,Luxembourg,REACH,TOTAL,NR,T,RO,Romania,2024,88,e
+migr_emi3nxt,A,LU,Luxembourg,COMPLET,TOTAL,NR,T,RO,Romania,2021,769,
+migr_emi3nxt,A,LU,Luxembourg,COMPLET,TOTAL,NR,T,RO,Romania,2022,776,e
+migr_emi3nxt,A,LU,Luxembourg,COMPLET,TOTAL,NR,T,RO,Romania,2023,292,e
+migr_emi3nxt,A,LU,Luxembourg,COMPLET,TOTAL,NR,T,RO,Romania,2024,88,e
+migr_emi3nxt,A,HU,Hungary,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,HU,Hungary,REACH,TOTAL,NR,T,RO,Romania,2021,543,
+migr_emi3nxt,A,HU,Hungary,REACH,TOTAL,NR,T,RO,Romania,2022,818,e
+migr_emi3nxt,A,HU,Hungary,REACH,TOTAL,NR,T,RO,Romania,2023,977,e
+migr_emi3nxt,A,HU,Hungary,REACH,TOTAL,NR,T,RO,Romania,2024,677,e
+migr_emi3nxt,A,HU,Hungary,COMPLET,TOTAL,NR,T,RO,Romania,2021,543,
+migr_emi3nxt,A,HU,Hungary,COMPLET,TOTAL,NR,T,RO,Romania,2022,818,e
+migr_emi3nxt,A,HU,Hungary,COMPLET,TOTAL,NR,T,RO,Romania,2023,977,e
+migr_emi3nxt,A,HU,Hungary,COMPLET,TOTAL,NR,T,RO,Romania,2024,677,e
+migr_emi3nxt,A,MT,Malta,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MT,Malta,REACH,TOTAL,NR,T,RO,Romania,2021,18,
+migr_emi3nxt,A,MT,Malta,REACH,TOTAL,NR,T,RO,Romania,2022,18,e
+migr_emi3nxt,A,MT,Malta,REACH,TOTAL,NR,T,RO,Romania,2023,18,e
+migr_emi3nxt,A,MT,Malta,REACH,TOTAL,NR,T,RO,Romania,2024,13,e
+migr_emi3nxt,A,MT,Malta,COMPLET,TOTAL,NR,T,RO,Romania,2021,18,
+migr_emi3nxt,A,MT,Malta,COMPLET,TOTAL,NR,T,RO,Romania,2022,18,e
+migr_emi3nxt,A,MT,Malta,COMPLET,TOTAL,NR,T,RO,Romania,2023,18,e
+migr_emi3nxt,A,MT,Malta,COMPLET,TOTAL,NR,T,RO,Romania,2024,13,e
+migr_emi3nxt,A,NL,Netherlands,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,NL,Netherlands,REACH,TOTAL,NR,T,RO,Romania,2021,6314,
+migr_emi3nxt,A,NL,Netherlands,REACH,TOTAL,NR,T,RO,Romania,2022,7267,e
+migr_emi3nxt,A,NL,Netherlands,REACH,TOTAL,NR,T,RO,Romania,2023,6791,e
+migr_emi3nxt,A,NL,Netherlands,REACH,TOTAL,NR,T,RO,Romania,2024,12522,e
+migr_emi3nxt,A,NL,Netherlands,COMPLET,TOTAL,NR,T,RO,Romania,2021,6314,
+migr_emi3nxt,A,NL,Netherlands,COMPLET,TOTAL,NR,T,RO,Romania,2022,7267,e
+migr_emi3nxt,A,NL,Netherlands,COMPLET,TOTAL,NR,T,RO,Romania,2023,6791,e
+migr_emi3nxt,A,NL,Netherlands,COMPLET,TOTAL,NR,T,RO,Romania,2024,12522,e
+migr_emi3nxt,A,AT,Austria,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AT,Austria,REACH,TOTAL,NR,T,RO,Romania,2021,12134,
+migr_emi3nxt,A,AT,Austria,REACH,TOTAL,NR,T,RO,Romania,2022,14495,e
+migr_emi3nxt,A,AT,Austria,REACH,TOTAL,NR,T,RO,Romania,2023,13315,e
+migr_emi3nxt,A,AT,Austria,REACH,TOTAL,NR,T,RO,Romania,2024,16120,e
+migr_emi3nxt,A,AT,Austria,COMPLET,TOTAL,NR,T,RO,Romania,2021,12134,
+migr_emi3nxt,A,AT,Austria,COMPLET,TOTAL,NR,T,RO,Romania,2022,14495,e
+migr_emi3nxt,A,AT,Austria,COMPLET,TOTAL,NR,T,RO,Romania,2023,13315,e
+migr_emi3nxt,A,AT,Austria,COMPLET,TOTAL,NR,T,RO,Romania,2024,16120,e
+migr_emi3nxt,A,PL,Poland,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PL,Poland,REACH,TOTAL,NR,T,RO,Romania,2021,402,
+migr_emi3nxt,A,PL,Poland,REACH,TOTAL,NR,T,RO,Romania,2022,307,e
+migr_emi3nxt,A,PL,Poland,REACH,TOTAL,NR,T,RO,Romania,2023,354,e
+migr_emi3nxt,A,PL,Poland,REACH,TOTAL,NR,T,RO,Romania,2024,416,e
+migr_emi3nxt,A,PL,Poland,COMPLET,TOTAL,NR,T,RO,Romania,2021,402,
+migr_emi3nxt,A,PL,Poland,COMPLET,TOTAL,NR,T,RO,Romania,2022,307,e
+migr_emi3nxt,A,PL,Poland,COMPLET,TOTAL,NR,T,RO,Romania,2023,354,e
+migr_emi3nxt,A,PL,Poland,COMPLET,TOTAL,NR,T,RO,Romania,2024,416,e
+migr_emi3nxt,A,PT,Portugal,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PT,Portugal,REACH,TOTAL,NR,T,RO,Romania,2021,1290,
+migr_emi3nxt,A,PT,Portugal,REACH,TOTAL,NR,T,RO,Romania,2022,575,e
+migr_emi3nxt,A,PT,Portugal,REACH,TOTAL,NR,T,RO,Romania,2023,933,e
+migr_emi3nxt,A,PT,Portugal,REACH,TOTAL,NR,T,RO,Romania,2024,409,e
+migr_emi3nxt,A,PT,Portugal,COMPLET,TOTAL,NR,T,RO,Romania,2021,1290,
+migr_emi3nxt,A,PT,Portugal,COMPLET,TOTAL,NR,T,RO,Romania,2022,575,e
+migr_emi3nxt,A,PT,Portugal,COMPLET,TOTAL,NR,T,RO,Romania,2023,933,e
+migr_emi3nxt,A,PT,Portugal,COMPLET,TOTAL,NR,T,RO,Romania,2024,409,e
+migr_emi3nxt,A,RO,Romania,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,RO,Romania,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,RO,Romania,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,RO,Romania,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,RO,Romania,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,RO,Romania,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,RO,Romania,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,RO,Romania,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,RO,Romania,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,SI,Slovenia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SI,Slovenia,REACH,TOTAL,NR,T,RO,Romania,2021,74,
+migr_emi3nxt,A,SI,Slovenia,REACH,TOTAL,NR,T,RO,Romania,2022,26,e
+migr_emi3nxt,A,SI,Slovenia,REACH,TOTAL,NR,T,RO,Romania,2023,50,e
+migr_emi3nxt,A,SI,Slovenia,REACH,TOTAL,NR,T,RO,Romania,2024,63,e
+migr_emi3nxt,A,SI,Slovenia,COMPLET,TOTAL,NR,T,RO,Romania,2021,74,
+migr_emi3nxt,A,SI,Slovenia,COMPLET,TOTAL,NR,T,RO,Romania,2022,26,e
+migr_emi3nxt,A,SI,Slovenia,COMPLET,TOTAL,NR,T,RO,Romania,2023,50,e
+migr_emi3nxt,A,SI,Slovenia,COMPLET,TOTAL,NR,T,RO,Romania,2024,63,e
+migr_emi3nxt,A,SK,Slovakia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SK,Slovakia,REACH,TOTAL,NR,T,RO,Romania,2021,127,
+migr_emi3nxt,A,SK,Slovakia,REACH,TOTAL,NR,T,RO,Romania,2022,114,e
+migr_emi3nxt,A,SK,Slovakia,REACH,TOTAL,NR,T,RO,Romania,2023,63,e
+migr_emi3nxt,A,SK,Slovakia,REACH,TOTAL,NR,T,RO,Romania,2024,76,e
+migr_emi3nxt,A,SK,Slovakia,COMPLET,TOTAL,NR,T,RO,Romania,2021,127,
+migr_emi3nxt,A,SK,Slovakia,COMPLET,TOTAL,NR,T,RO,Romania,2022,114,e
+migr_emi3nxt,A,SK,Slovakia,COMPLET,TOTAL,NR,T,RO,Romania,2023,63,e
+migr_emi3nxt,A,SK,Slovakia,COMPLET,TOTAL,NR,T,RO,Romania,2024,76,e
+migr_emi3nxt,A,FI,Finland,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,FI,Finland,REACH,TOTAL,NR,T,RO,Romania,2021,581,
+migr_emi3nxt,A,FI,Finland,REACH,TOTAL,NR,T,RO,Romania,2022,131,e
+migr_emi3nxt,A,FI,Finland,REACH,TOTAL,NR,T,RO,Romania,2023,383,e
+migr_emi3nxt,A,FI,Finland,REACH,TOTAL,NR,T,RO,Romania,2024,361,e
+migr_emi3nxt,A,FI,Finland,COMPLET,TOTAL,NR,T,RO,Romania,2021,581,
+migr_emi3nxt,A,FI,Finland,COMPLET,TOTAL,NR,T,RO,Romania,2022,131,e
+migr_emi3nxt,A,FI,Finland,COMPLET,TOTAL,NR,T,RO,Romania,2023,383,e
+migr_emi3nxt,A,FI,Finland,COMPLET,TOTAL,NR,T,RO,Romania,2024,361,e
+migr_emi3nxt,A,SE,Sweden,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SE,Sweden,REACH,TOTAL,NR,T,RO,Romania,2021,1573,
+migr_emi3nxt,A,SE,Sweden,REACH,TOTAL,NR,T,RO,Romania,2022,2352,e
+migr_emi3nxt,A,SE,Sweden,REACH,TOTAL,NR,T,RO,Romania,2023,1963,e
+migr_emi3nxt,A,SE,Sweden,REACH,TOTAL,NR,T,RO,Romania,2024,1586,e
+migr_emi3nxt,A,SE,Sweden,COMPLET,TOTAL,NR,T,RO,Romania,2021,1573,
+migr_emi3nxt,A,SE,Sweden,COMPLET,TOTAL,NR,T,RO,Romania,2022,2352,e
+migr_emi3nxt,A,SE,Sweden,COMPLET,TOTAL,NR,T,RO,Romania,2023,1963,e
+migr_emi3nxt,A,SE,Sweden,COMPLET,TOTAL,NR,T,RO,Romania,2024,1586,e
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2013,136173,e
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2014,132682,e
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2015,133423,e
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2016,144536,
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2017,168698,e
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2018,170441,e
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2019,172064,e
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2020,125035,
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2021,135400,
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2022,155956,e
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2023,140540,e
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2024,180024,e
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2020,125035,
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2021,135400,
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2022,155956,e
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2023,140540,e
+migr_emi3nxt,A,EU27_2020_FOR,EU27 countries (from 2020) except reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2024,180024,e
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2013,153423,
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2014,166682,
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2015,187835,
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2016,200010,
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2017,219729,e
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2018,206713,e
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,REACH,TOTAL,NR,T,RO,Romania,2019,209889,e
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2013,153423,
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2014,166682,
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2015,187835,
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2016,200010,
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2017,219729,e
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2018,206713,e
+migr_emi3nxt,A,EU28_FOR,EU28 countries (2013-2020) except reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2019,209889,e
+migr_emi3nxt,A,IS,Iceland,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,IS,Iceland,REACH,TOTAL,NR,T,RO,Romania,2021,614,
+migr_emi3nxt,A,IS,Iceland,REACH,TOTAL,NR,T,RO,Romania,2022,1026,e
+migr_emi3nxt,A,IS,Iceland,REACH,TOTAL,NR,T,RO,Romania,2023,9,e
+migr_emi3nxt,A,IS,Iceland,REACH,TOTAL,NR,T,RO,Romania,2024,1082,e
+migr_emi3nxt,A,IS,Iceland,COMPLET,TOTAL,NR,T,RO,Romania,2021,614,
+migr_emi3nxt,A,IS,Iceland,COMPLET,TOTAL,NR,T,RO,Romania,2022,1026,e
+migr_emi3nxt,A,IS,Iceland,COMPLET,TOTAL,NR,T,RO,Romania,2023,9,e
+migr_emi3nxt,A,IS,Iceland,COMPLET,TOTAL,NR,T,RO,Romania,2024,1082,e
+migr_emi3nxt,A,LI,Liechtenstein,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,LI,Liechtenstein,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,LI,Liechtenstein,REACH,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,LI,Liechtenstein,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,LI,Liechtenstein,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,LI,Liechtenstein,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,LI,Liechtenstein,COMPLET,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,LI,Liechtenstein,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,LI,Liechtenstein,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,NO,Norway,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,NO,Norway,REACH,TOTAL,NR,T,RO,Romania,2021,1356,
+migr_emi3nxt,A,NO,Norway,REACH,TOTAL,NR,T,RO,Romania,2022,1595,e
+migr_emi3nxt,A,NO,Norway,REACH,TOTAL,NR,T,RO,Romania,2023,170,e
+migr_emi3nxt,A,NO,Norway,REACH,TOTAL,NR,T,RO,Romania,2024,1161,e
+migr_emi3nxt,A,NO,Norway,COMPLET,TOTAL,NR,T,RO,Romania,2021,1356,
+migr_emi3nxt,A,NO,Norway,COMPLET,TOTAL,NR,T,RO,Romania,2022,1595,e
+migr_emi3nxt,A,NO,Norway,COMPLET,TOTAL,NR,T,RO,Romania,2023,170,e
+migr_emi3nxt,A,NO,Norway,COMPLET,TOTAL,NR,T,RO,Romania,2024,1161,e
+migr_emi3nxt,A,CH,Switzerland,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CH,Switzerland,REACH,TOTAL,NR,T,RO,Romania,2021,2169,
+migr_emi3nxt,A,CH,Switzerland,REACH,TOTAL,NR,T,RO,Romania,2022,560,e
+migr_emi3nxt,A,CH,Switzerland,REACH,TOTAL,NR,T,RO,Romania,2023,615,e
+migr_emi3nxt,A,CH,Switzerland,REACH,TOTAL,NR,T,RO,Romania,2024,548,e
+migr_emi3nxt,A,CH,Switzerland,COMPLET,TOTAL,NR,T,RO,Romania,2021,2169,
+migr_emi3nxt,A,CH,Switzerland,COMPLET,TOTAL,NR,T,RO,Romania,2022,560,e
+migr_emi3nxt,A,CH,Switzerland,COMPLET,TOTAL,NR,T,RO,Romania,2023,615,e
+migr_emi3nxt,A,CH,Switzerland,COMPLET,TOTAL,NR,T,RO,Romania,2024,548,e
+migr_emi3nxt,A,UK,United Kingdom,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,UK,United Kingdom,REACH,TOTAL,NR,T,RO,Romania,2019,37825,e
+migr_emi3nxt,A,UK,United Kingdom,REACH,TOTAL,NR,T,RO,Romania,2021,22920,
+migr_emi3nxt,A,UK,United Kingdom,REACH,TOTAL,NR,T,RO,Romania,2022,18256,e
+migr_emi3nxt,A,UK,United Kingdom,REACH,TOTAL,NR,T,RO,Romania,2023,18256,e
+migr_emi3nxt,A,UK,United Kingdom,REACH,TOTAL,NR,T,RO,Romania,2024,9000,e
+migr_emi3nxt,A,UK,United Kingdom,COMPLET,TOTAL,NR,T,RO,Romania,2019,37825,e
+migr_emi3nxt,A,UK,United Kingdom,COMPLET,TOTAL,NR,T,RO,Romania,2021,22920,
+migr_emi3nxt,A,UK,United Kingdom,COMPLET,TOTAL,NR,T,RO,Romania,2022,18256,e
+migr_emi3nxt,A,UK,United Kingdom,COMPLET,TOTAL,NR,T,RO,Romania,2023,18256,e
+migr_emi3nxt,A,UK,United Kingdom,COMPLET,TOTAL,NR,T,RO,Romania,2024,9000,e
+migr_emi3nxt,A,BA,Bosnia and Herzegovina,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BA,Bosnia and Herzegovina,REACH,TOTAL,NR,T,RO,Romania,2021,113,
+migr_emi3nxt,A,BA,Bosnia and Herzegovina,REACH,TOTAL,NR,T,RO,Romania,2022,35,e
+migr_emi3nxt,A,BA,Bosnia and Herzegovina,REACH,TOTAL,NR,T,RO,Romania,2023,84,e
+migr_emi3nxt,A,BA,Bosnia and Herzegovina,REACH,TOTAL,NR,T,RO,Romania,2024,14,e
+migr_emi3nxt,A,BA,Bosnia and Herzegovina,COMPLET,TOTAL,NR,T,RO,Romania,2021,113,
+migr_emi3nxt,A,BA,Bosnia and Herzegovina,COMPLET,TOTAL,NR,T,RO,Romania,2022,35,e
+migr_emi3nxt,A,BA,Bosnia and Herzegovina,COMPLET,TOTAL,NR,T,RO,Romania,2023,84,e
+migr_emi3nxt,A,BA,Bosnia and Herzegovina,COMPLET,TOTAL,NR,T,RO,Romania,2024,14,e
+migr_emi3nxt,A,ME,Montenegro,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,ME,Montenegro,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,ME,Montenegro,REACH,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,ME,Montenegro,REACH,TOTAL,NR,T,RO,Romania,2023,52,e
+migr_emi3nxt,A,ME,Montenegro,REACH,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,ME,Montenegro,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,ME,Montenegro,COMPLET,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,ME,Montenegro,COMPLET,TOTAL,NR,T,RO,Romania,2023,52,e
+migr_emi3nxt,A,ME,Montenegro,COMPLET,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,MD,Moldova,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MD,Moldova,REACH,TOTAL,NR,T,RO,Romania,2021,7156,
+migr_emi3nxt,A,MD,Moldova,REACH,TOTAL,NR,T,RO,Romania,2022,5829,e
+migr_emi3nxt,A,MD,Moldova,REACH,TOTAL,NR,T,RO,Romania,2023,5488,e
+migr_emi3nxt,A,MD,Moldova,REACH,TOTAL,NR,T,RO,Romania,2024,11679,e
+migr_emi3nxt,A,MD,Moldova,COMPLET,TOTAL,NR,T,RO,Romania,2021,7156,
+migr_emi3nxt,A,MD,Moldova,COMPLET,TOTAL,NR,T,RO,Romania,2022,5829,e
+migr_emi3nxt,A,MD,Moldova,COMPLET,TOTAL,NR,T,RO,Romania,2023,5488,e
+migr_emi3nxt,A,MD,Moldova,COMPLET,TOTAL,NR,T,RO,Romania,2024,11679,e
+migr_emi3nxt,A,MK,North Macedonia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MK,North Macedonia,REACH,TOTAL,NR,T,RO,Romania,2021,146,
+migr_emi3nxt,A,MK,North Macedonia,REACH,TOTAL,NR,T,RO,Romania,2022,45,e
+migr_emi3nxt,A,MK,North Macedonia,REACH,TOTAL,NR,T,RO,Romania,2023,122,e
+migr_emi3nxt,A,MK,North Macedonia,REACH,TOTAL,NR,T,RO,Romania,2024,40,e
+migr_emi3nxt,A,MK,North Macedonia,COMPLET,TOTAL,NR,T,RO,Romania,2021,146,
+migr_emi3nxt,A,MK,North Macedonia,COMPLET,TOTAL,NR,T,RO,Romania,2022,45,e
+migr_emi3nxt,A,MK,North Macedonia,COMPLET,TOTAL,NR,T,RO,Romania,2023,122,e
+migr_emi3nxt,A,MK,North Macedonia,COMPLET,TOTAL,NR,T,RO,Romania,2024,40,e
+migr_emi3nxt,A,GE,Georgia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GE,Georgia,REACH,TOTAL,NR,T,RO,Romania,2021,103,
+migr_emi3nxt,A,GE,Georgia,REACH,TOTAL,NR,T,RO,Romania,2022,31,e
+migr_emi3nxt,A,GE,Georgia,REACH,TOTAL,NR,T,RO,Romania,2023,131,e
+migr_emi3nxt,A,GE,Georgia,REACH,TOTAL,NR,T,RO,Romania,2024,14,e
+migr_emi3nxt,A,GE,Georgia,COMPLET,TOTAL,NR,T,RO,Romania,2021,103,
+migr_emi3nxt,A,GE,Georgia,COMPLET,TOTAL,NR,T,RO,Romania,2022,31,e
+migr_emi3nxt,A,GE,Georgia,COMPLET,TOTAL,NR,T,RO,Romania,2023,131,e
+migr_emi3nxt,A,GE,Georgia,COMPLET,TOTAL,NR,T,RO,Romania,2024,14,e
+migr_emi3nxt,A,AL,Albania,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AL,Albania,REACH,TOTAL,NR,T,RO,Romania,2021,591,
+migr_emi3nxt,A,AL,Albania,REACH,TOTAL,NR,T,RO,Romania,2022,243,e
+migr_emi3nxt,A,AL,Albania,REACH,TOTAL,NR,T,RO,Romania,2023,645,e
+migr_emi3nxt,A,AL,Albania,REACH,TOTAL,NR,T,RO,Romania,2024,152,e
+migr_emi3nxt,A,AL,Albania,COMPLET,TOTAL,NR,T,RO,Romania,2021,591,
+migr_emi3nxt,A,AL,Albania,COMPLET,TOTAL,NR,T,RO,Romania,2022,243,e
+migr_emi3nxt,A,AL,Albania,COMPLET,TOTAL,NR,T,RO,Romania,2023,645,e
+migr_emi3nxt,A,AL,Albania,COMPLET,TOTAL,NR,T,RO,Romania,2024,152,e
+migr_emi3nxt,A,RS,Serbia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,RS,Serbia,REACH,TOTAL,NR,T,RO,Romania,2021,1424,
+migr_emi3nxt,A,RS,Serbia,REACH,TOTAL,NR,T,RO,Romania,2022,536,e
+migr_emi3nxt,A,RS,Serbia,REACH,TOTAL,NR,T,RO,Romania,2023,1127,e
+migr_emi3nxt,A,RS,Serbia,REACH,TOTAL,NR,T,RO,Romania,2024,255,e
+migr_emi3nxt,A,RS,Serbia,COMPLET,TOTAL,NR,T,RO,Romania,2021,1424,
+migr_emi3nxt,A,RS,Serbia,COMPLET,TOTAL,NR,T,RO,Romania,2022,536,e
+migr_emi3nxt,A,RS,Serbia,COMPLET,TOTAL,NR,T,RO,Romania,2023,1127,e
+migr_emi3nxt,A,RS,Serbia,COMPLET,TOTAL,NR,T,RO,Romania,2024,255,e
+migr_emi3nxt,A,TR,Türkiye,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TR,Türkiye,REACH,TOTAL,NR,T,RO,Romania,2021,5973,
+migr_emi3nxt,A,TR,Türkiye,REACH,TOTAL,NR,T,RO,Romania,2022,1938,e
+migr_emi3nxt,A,TR,Türkiye,REACH,TOTAL,NR,T,RO,Romania,2023,10928,e
+migr_emi3nxt,A,TR,Türkiye,REACH,TOTAL,NR,T,RO,Romania,2024,1418,e
+migr_emi3nxt,A,TR,Türkiye,COMPLET,TOTAL,NR,T,RO,Romania,2021,5973,
+migr_emi3nxt,A,TR,Türkiye,COMPLET,TOTAL,NR,T,RO,Romania,2022,1938,e
+migr_emi3nxt,A,TR,Türkiye,COMPLET,TOTAL,NR,T,RO,Romania,2023,10928,e
+migr_emi3nxt,A,TR,Türkiye,COMPLET,TOTAL,NR,T,RO,Romania,2024,1418,e
+migr_emi3nxt,A,UA,Ukraine,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,UA,Ukraine,REACH,TOTAL,NR,T,RO,Romania,2021,1245,
+migr_emi3nxt,A,UA,Ukraine,REACH,TOTAL,NR,T,RO,Romania,2022,595,e
+migr_emi3nxt,A,UA,Ukraine,REACH,TOTAL,NR,T,RO,Romania,2023,1648,e
+migr_emi3nxt,A,UA,Ukraine,REACH,TOTAL,NR,T,RO,Romania,2024,450,e
+migr_emi3nxt,A,UA,Ukraine,COMPLET,TOTAL,NR,T,RO,Romania,2021,1245,
+migr_emi3nxt,A,UA,Ukraine,COMPLET,TOTAL,NR,T,RO,Romania,2022,595,e
+migr_emi3nxt,A,UA,Ukraine,COMPLET,TOTAL,NR,T,RO,Romania,2023,1648,e
+migr_emi3nxt,A,UA,Ukraine,COMPLET,TOTAL,NR,T,RO,Romania,2024,450,e
+migr_emi3nxt,A,XK,Kosovo*,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,XK,Kosovo*,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,XK,Kosovo*,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,XK,Kosovo*,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,XK,Kosovo*,REACH,TOTAL,NR,T,RO,Romania,2024,5,e
+migr_emi3nxt,A,XK,Kosovo*,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,XK,Kosovo*,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,XK,Kosovo*,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,XK,Kosovo*,COMPLET,TOTAL,NR,T,RO,Romania,2024,5,e
+migr_emi3nxt,A,AD,Andorra,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AD,Andorra,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,AD,Andorra,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,AD,Andorra,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,AD,Andorra,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,AD,Andorra,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,AD,Andorra,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,AD,Andorra,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,AD,Andorra,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,BY,Belarus,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BY,Belarus,REACH,TOTAL,NR,T,RO,Romania,2021,63,
+migr_emi3nxt,A,BY,Belarus,REACH,TOTAL,NR,T,RO,Romania,2022,22,e
+migr_emi3nxt,A,BY,Belarus,REACH,TOTAL,NR,T,RO,Romania,2023,98,e
+migr_emi3nxt,A,BY,Belarus,REACH,TOTAL,NR,T,RO,Romania,2024,14,e
+migr_emi3nxt,A,BY,Belarus,COMPLET,TOTAL,NR,T,RO,Romania,2021,63,
+migr_emi3nxt,A,BY,Belarus,COMPLET,TOTAL,NR,T,RO,Romania,2022,22,e
+migr_emi3nxt,A,BY,Belarus,COMPLET,TOTAL,NR,T,RO,Romania,2023,98,e
+migr_emi3nxt,A,BY,Belarus,COMPLET,TOTAL,NR,T,RO,Romania,2024,14,e
+migr_emi3nxt,A,GG,Guernsey,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GG,Guernsey,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,GG,Guernsey,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GG,Guernsey,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,GG,Guernsey,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,GG,Guernsey,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,GG,Guernsey,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GG,Guernsey,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,GG,Guernsey,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,JE,Jersey,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,JE,Jersey,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,JE,Jersey,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,JE,Jersey,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,JE,Jersey,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,JE,Jersey,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,JE,Jersey,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,JE,Jersey,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,JE,Jersey,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,FO,Faroes,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,FO,Faroes,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,FO,Faroes,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,FO,Faroes,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,FO,Faroes,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,FO,Faroes,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,FO,Faroes,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,FO,Faroes,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,FO,Faroes,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,GI,Gibraltar,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GI,Gibraltar,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,GI,Gibraltar,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GI,Gibraltar,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,GI,Gibraltar,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,GI,Gibraltar,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,GI,Gibraltar,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GI,Gibraltar,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,GI,Gibraltar,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,VA,Holy See,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,VA,Holy See,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,VA,Holy See,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,VA,Holy See,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,VA,Holy See,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,VA,Holy See,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,VA,Holy See,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,VA,Holy See,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,VA,Holy See,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,IM,Isle of Man,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,IM,Isle of Man,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,IM,Isle of Man,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,IM,Isle of Man,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,IM,Isle of Man,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,IM,Isle of Man,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,IM,Isle of Man,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,IM,Isle of Man,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,IM,Isle of Man,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,MC,Monaco,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MC,Monaco,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,MC,Monaco,REACH,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,MC,Monaco,REACH,TOTAL,NR,T,RO,Romania,2023,4,e
+migr_emi3nxt,A,MC,Monaco,REACH,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,MC,Monaco,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,MC,Monaco,COMPLET,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,MC,Monaco,COMPLET,TOTAL,NR,T,RO,Romania,2023,4,e
+migr_emi3nxt,A,MC,Monaco,COMPLET,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,RU,Russia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,RU,Russia,REACH,TOTAL,NR,T,RO,Romania,2021,533,
+migr_emi3nxt,A,RU,Russia,REACH,TOTAL,NR,T,RO,Romania,2022,193,e
+migr_emi3nxt,A,RU,Russia,REACH,TOTAL,NR,T,RO,Romania,2023,584,e
+migr_emi3nxt,A,RU,Russia,REACH,TOTAL,NR,T,RO,Romania,2024,180,e
+migr_emi3nxt,A,RU,Russia,COMPLET,TOTAL,NR,T,RO,Romania,2021,533,
+migr_emi3nxt,A,RU,Russia,COMPLET,TOTAL,NR,T,RO,Romania,2022,193,e
+migr_emi3nxt,A,RU,Russia,COMPLET,TOTAL,NR,T,RO,Romania,2023,584,e
+migr_emi3nxt,A,RU,Russia,COMPLET,TOTAL,NR,T,RO,Romania,2024,180,e
+migr_emi3nxt,A,SM,San Marino,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SM,San Marino,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,SM,San Marino,REACH,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,SM,San Marino,REACH,TOTAL,NR,T,RO,Romania,2023,10,e
+migr_emi3nxt,A,SM,San Marino,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,SM,San Marino,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,SM,San Marino,COMPLET,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,SM,San Marino,COMPLET,TOTAL,NR,T,RO,Romania,2023,10,e
+migr_emi3nxt,A,SM,San Marino,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,CZ_SK,Czechoslovakia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,RS_ME,Serbia and Montenegro,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,EX_YU,Yugoslavia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,EX_SU,Soviet Union,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2013,25582,e
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2014,40189,e
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2015,61295,e
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2016,63023,
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2017,73488,e
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2018,58819,e
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2019,59115,e
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2020,56693,
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2021,80304,
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2022,46289,e
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2023,97911,e
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2024,35051,e
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2020,56693,
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2021,80304,
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2022,46289,e
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2023,97911,e
+migr_emi3nxt,A,NEU27_2020_FOR,Non-EU27 countries (from 2020) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2024,35051,e
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2013,8332,
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2014,6189,
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2015,6883,
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2016,7549,
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2017,22457,e
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2018,22547,e
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2019,21290,e
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2013,8332,
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2014,6189,
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2015,6883,
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2016,7549,
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2017,22457,e
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2018,22547,e
+migr_emi3nxt,A,NEU28_FOR,Non-EU28 countries (2013-2020) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2019,21290,e
+migr_emi3nxt,A,NEU27_2007_FOR,Non-EU27 countries (2007-2013) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2008,5381,
+migr_emi3nxt,A,NEU27_2007_FOR,Non-EU27 countries (2007-2013) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2009,7718,
+migr_emi3nxt,A,NEU27_2007_FOR,Non-EU27 countries (2007-2013) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2010,5805,
+migr_emi3nxt,A,NEU27_2007_FOR,Non-EU27 countries (2007-2013) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2011,7299,
+migr_emi3nxt,A,NEU27_2007_FOR,Non-EU27 countries (2007-2013) nor reporting country,REACH,TOTAL,NR,T,RO,Romania,2012,8119,
+migr_emi3nxt,A,NEU27_2007_FOR,Non-EU27 countries (2007-2013) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2008,5381,
+migr_emi3nxt,A,NEU27_2007_FOR,Non-EU27 countries (2007-2013) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2009,7718,
+migr_emi3nxt,A,NEU27_2007_FOR,Non-EU27 countries (2007-2013) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2010,5805,
+migr_emi3nxt,A,NEU27_2007_FOR,Non-EU27 countries (2007-2013) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2011,7299,
+migr_emi3nxt,A,NEU27_2007_FOR,Non-EU27 countries (2007-2013) nor reporting country,COMPLET,TOTAL,NR,T,RO,Romania,2012,8119,
+migr_emi3nxt,A,AFR,Africa,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AFR,Africa,REACH,TOTAL,NR,T,RO,Romania,2022,1381,e
+migr_emi3nxt,A,AFR,Africa,REACH,TOTAL,NR,T,RO,Romania,2023,6145,e
+migr_emi3nxt,A,AFR,Africa,REACH,TOTAL,NR,T,RO,Romania,2024,1520,e
+migr_emi3nxt,A,AFR,Africa,COMPLET,TOTAL,NR,T,RO,Romania,2022,1381,e
+migr_emi3nxt,A,AFR,Africa,COMPLET,TOTAL,NR,T,RO,Romania,2023,6145,e
+migr_emi3nxt,A,AFR,Africa,COMPLET,TOTAL,NR,T,RO,Romania,2024,1520,e
+migr_emi3nxt,A,AFR_C,Central Africa,REACH,TOTAL,NR,T,RO,Romania,2018,87,
+migr_emi3nxt,A,AFR_C,Central Africa,REACH,TOTAL,NR,T,RO,Romania,2022,86,e
+migr_emi3nxt,A,AFR_C,Central Africa,REACH,TOTAL,NR,T,RO,Romania,2023,435,e
+migr_emi3nxt,A,AFR_C,Central Africa,REACH,TOTAL,NR,T,RO,Romania,2024,119,e
+migr_emi3nxt,A,AFR_C,Central Africa,COMPLET,TOTAL,NR,T,RO,Romania,2022,86,e
+migr_emi3nxt,A,AFR_C,Central Africa,COMPLET,TOTAL,NR,T,RO,Romania,2023,435,e
+migr_emi3nxt,A,AFR_C,Central Africa,COMPLET,TOTAL,NR,T,RO,Romania,2024,119,e
+migr_emi3nxt,A,AO,Angola,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AO,Angola,REACH,TOTAL,NR,T,RO,Romania,2021,47,
+migr_emi3nxt,A,AO,Angola,REACH,TOTAL,NR,T,RO,Romania,2022,22,e
+migr_emi3nxt,A,AO,Angola,REACH,TOTAL,NR,T,RO,Romania,2023,64,e
+migr_emi3nxt,A,AO,Angola,REACH,TOTAL,NR,T,RO,Romania,2024,9,e
+migr_emi3nxt,A,AO,Angola,COMPLET,TOTAL,NR,T,RO,Romania,2021,47,
+migr_emi3nxt,A,AO,Angola,COMPLET,TOTAL,NR,T,RO,Romania,2022,22,e
+migr_emi3nxt,A,AO,Angola,COMPLET,TOTAL,NR,T,RO,Romania,2023,64,e
+migr_emi3nxt,A,AO,Angola,COMPLET,TOTAL,NR,T,RO,Romania,2024,9,e
+migr_emi3nxt,A,CM,Cameroon,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CM,Cameroon,REACH,TOTAL,NR,T,RO,Romania,2021,90,
+migr_emi3nxt,A,CM,Cameroon,REACH,TOTAL,NR,T,RO,Romania,2022,52,e
+migr_emi3nxt,A,CM,Cameroon,REACH,TOTAL,NR,T,RO,Romania,2023,241,e
+migr_emi3nxt,A,CM,Cameroon,REACH,TOTAL,NR,T,RO,Romania,2024,38,e
+migr_emi3nxt,A,CM,Cameroon,COMPLET,TOTAL,NR,T,RO,Romania,2021,90,
+migr_emi3nxt,A,CM,Cameroon,COMPLET,TOTAL,NR,T,RO,Romania,2022,52,e
+migr_emi3nxt,A,CM,Cameroon,COMPLET,TOTAL,NR,T,RO,Romania,2023,241,e
+migr_emi3nxt,A,CM,Cameroon,COMPLET,TOTAL,NR,T,RO,Romania,2024,38,e
+migr_emi3nxt,A,CF,Central African Republic,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CF,Central African Republic,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,CF,Central African Republic,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,CF,Central African Republic,REACH,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,CF,Central African Republic,REACH,TOTAL,NR,T,RO,Romania,2024,5,e
+migr_emi3nxt,A,CF,Central African Republic,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,CF,Central African Republic,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,CF,Central African Republic,COMPLET,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,CF,Central African Republic,COMPLET,TOTAL,NR,T,RO,Romania,2024,5,e
+migr_emi3nxt,A,TD,Chad,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TD,Chad,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,TD,Chad,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,TD,Chad,REACH,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,TD,Chad,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,TD,Chad,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,TD,Chad,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,TD,Chad,COMPLET,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,TD,Chad,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,CG,Congo,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CG,Congo,REACH,TOTAL,NR,T,RO,Romania,2021,23,
+migr_emi3nxt,A,CG,Congo,REACH,TOTAL,NR,T,RO,Romania,2022,4,e
+migr_emi3nxt,A,CG,Congo,REACH,TOTAL,NR,T,RO,Romania,2023,47,e
+migr_emi3nxt,A,CG,Congo,REACH,TOTAL,NR,T,RO,Romania,2024,13,e
+migr_emi3nxt,A,CG,Congo,COMPLET,TOTAL,NR,T,RO,Romania,2021,23,
+migr_emi3nxt,A,CG,Congo,COMPLET,TOTAL,NR,T,RO,Romania,2022,4,e
+migr_emi3nxt,A,CG,Congo,COMPLET,TOTAL,NR,T,RO,Romania,2023,47,e
+migr_emi3nxt,A,CG,Congo,COMPLET,TOTAL,NR,T,RO,Romania,2024,13,e
+migr_emi3nxt,A,CD,Democratic Republic of the Congo,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CD,Democratic Republic of the Congo,REACH,TOTAL,NR,T,RO,Romania,2021,18,
+migr_emi3nxt,A,CD,Democratic Republic of the Congo,REACH,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,CD,Democratic Republic of the Congo,REACH,TOTAL,NR,T,RO,Romania,2023,42,e
+migr_emi3nxt,A,CD,Democratic Republic of the Congo,REACH,TOTAL,NR,T,RO,Romania,2024,38,e
+migr_emi3nxt,A,CD,Democratic Republic of the Congo,COMPLET,TOTAL,NR,T,RO,Romania,2021,18,
+migr_emi3nxt,A,CD,Democratic Republic of the Congo,COMPLET,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,CD,Democratic Republic of the Congo,COMPLET,TOTAL,NR,T,RO,Romania,2023,42,e
+migr_emi3nxt,A,CD,Democratic Republic of the Congo,COMPLET,TOTAL,NR,T,RO,Romania,2024,38,e
+migr_emi3nxt,A,GQ,Equatorial Guinea,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GQ,Equatorial Guinea,REACH,TOTAL,NR,T,RO,Romania,2021,3,
+migr_emi3nxt,A,GQ,Equatorial Guinea,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GQ,Equatorial Guinea,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,GQ,Equatorial Guinea,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,GQ,Equatorial Guinea,COMPLET,TOTAL,NR,T,RO,Romania,2021,3,
+migr_emi3nxt,A,GQ,Equatorial Guinea,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GQ,Equatorial Guinea,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,GQ,Equatorial Guinea,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,GA,Gabon,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GA,Gabon,REACH,TOTAL,NR,T,RO,Romania,2021,5,
+migr_emi3nxt,A,GA,Gabon,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GA,Gabon,REACH,TOTAL,NR,T,RO,Romania,2023,11,e
+migr_emi3nxt,A,GA,Gabon,REACH,TOTAL,NR,T,RO,Romania,2024,6,e
+migr_emi3nxt,A,GA,Gabon,COMPLET,TOTAL,NR,T,RO,Romania,2021,5,
+migr_emi3nxt,A,GA,Gabon,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GA,Gabon,COMPLET,TOTAL,NR,T,RO,Romania,2023,11,e
+migr_emi3nxt,A,GA,Gabon,COMPLET,TOTAL,NR,T,RO,Romania,2024,6,e
+migr_emi3nxt,A,ST,São Tomé and Príncipe,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,ST,São Tomé and Príncipe,REACH,TOTAL,NR,T,RO,Romania,2021,13,
+migr_emi3nxt,A,ST,São Tomé and Príncipe,REACH,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,ST,São Tomé and Príncipe,REACH,TOTAL,NR,T,RO,Romania,2023,13,e
+migr_emi3nxt,A,ST,São Tomé and Príncipe,REACH,TOTAL,NR,T,RO,Romania,2024,6,e
+migr_emi3nxt,A,ST,São Tomé and Príncipe,COMPLET,TOTAL,NR,T,RO,Romania,2021,13,
+migr_emi3nxt,A,ST,São Tomé and Príncipe,COMPLET,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,ST,São Tomé and Príncipe,COMPLET,TOTAL,NR,T,RO,Romania,2023,13,e
+migr_emi3nxt,A,ST,São Tomé and Príncipe,COMPLET,TOTAL,NR,T,RO,Romania,2024,6,e
+migr_emi3nxt,A,AFR_E,Eastern Africa,REACH,TOTAL,NR,T,RO,Romania,2018,85,
+migr_emi3nxt,A,AFR_E,Eastern Africa,REACH,TOTAL,NR,T,RO,Romania,2022,113,e
+migr_emi3nxt,A,AFR_E,Eastern Africa,REACH,TOTAL,NR,T,RO,Romania,2023,525,e
+migr_emi3nxt,A,AFR_E,Eastern Africa,REACH,TOTAL,NR,T,RO,Romania,2024,81,e
+migr_emi3nxt,A,AFR_E,Eastern Africa,COMPLET,TOTAL,NR,T,RO,Romania,2022,113,e
+migr_emi3nxt,A,AFR_E,Eastern Africa,COMPLET,TOTAL,NR,T,RO,Romania,2023,525,e
+migr_emi3nxt,A,AFR_E,Eastern Africa,COMPLET,TOTAL,NR,T,RO,Romania,2024,81,e
+migr_emi3nxt,A,BI,Burundi,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BI,Burundi,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,BI,Burundi,REACH,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,BI,Burundi,REACH,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,BI,Burundi,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,BI,Burundi,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,BI,Burundi,COMPLET,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,BI,Burundi,COMPLET,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,BI,Burundi,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,KM,Comoros,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,KM,Comoros,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,KM,Comoros,REACH,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,KM,Comoros,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,KM,Comoros,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,KM,Comoros,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,KM,Comoros,COMPLET,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,KM,Comoros,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,KM,Comoros,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,DJ,Djibouti,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,DJ,Djibouti,REACH,TOTAL,NR,T,RO,Romania,2021,10,
+migr_emi3nxt,A,DJ,Djibouti,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,DJ,Djibouti,REACH,TOTAL,NR,T,RO,Romania,2023,8,e
+migr_emi3nxt,A,DJ,Djibouti,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,DJ,Djibouti,COMPLET,TOTAL,NR,T,RO,Romania,2021,10,
+migr_emi3nxt,A,DJ,Djibouti,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,DJ,Djibouti,COMPLET,TOTAL,NR,T,RO,Romania,2023,8,e
+migr_emi3nxt,A,DJ,Djibouti,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,ER,Eritrea,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,ER,Eritrea,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,ER,Eritrea,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,ER,Eritrea,REACH,TOTAL,NR,T,RO,Romania,2023,3,e
+migr_emi3nxt,A,ER,Eritrea,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,ER,Eritrea,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,ER,Eritrea,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,ER,Eritrea,COMPLET,TOTAL,NR,T,RO,Romania,2023,3,e
+migr_emi3nxt,A,ER,Eritrea,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,ET,Ethiopia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,ET,Ethiopia,REACH,TOTAL,NR,T,RO,Romania,2021,125,
+migr_emi3nxt,A,ET,Ethiopia,REACH,TOTAL,NR,T,RO,Romania,2022,42,e
+migr_emi3nxt,A,ET,Ethiopia,REACH,TOTAL,NR,T,RO,Romania,2023,187,e
+migr_emi3nxt,A,ET,Ethiopia,REACH,TOTAL,NR,T,RO,Romania,2024,29,e
+migr_emi3nxt,A,ET,Ethiopia,COMPLET,TOTAL,NR,T,RO,Romania,2021,125,
+migr_emi3nxt,A,ET,Ethiopia,COMPLET,TOTAL,NR,T,RO,Romania,2022,42,e
+migr_emi3nxt,A,ET,Ethiopia,COMPLET,TOTAL,NR,T,RO,Romania,2023,187,e
+migr_emi3nxt,A,ET,Ethiopia,COMPLET,TOTAL,NR,T,RO,Romania,2024,29,e
+migr_emi3nxt,A,KE,Kenya,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,KE,Kenya,REACH,TOTAL,NR,T,RO,Romania,2021,26,
+migr_emi3nxt,A,KE,Kenya,REACH,TOTAL,NR,T,RO,Romania,2022,9,e
+migr_emi3nxt,A,KE,Kenya,REACH,TOTAL,NR,T,RO,Romania,2023,87,e
+migr_emi3nxt,A,KE,Kenya,REACH,TOTAL,NR,T,RO,Romania,2024,15,e
+migr_emi3nxt,A,KE,Kenya,COMPLET,TOTAL,NR,T,RO,Romania,2021,26,
+migr_emi3nxt,A,KE,Kenya,COMPLET,TOTAL,NR,T,RO,Romania,2022,9,e
+migr_emi3nxt,A,KE,Kenya,COMPLET,TOTAL,NR,T,RO,Romania,2023,87,e
+migr_emi3nxt,A,KE,Kenya,COMPLET,TOTAL,NR,T,RO,Romania,2024,15,e
+migr_emi3nxt,A,MG,Madagascar,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MG,Madagascar,REACH,TOTAL,NR,T,RO,Romania,2021,7,
+migr_emi3nxt,A,MG,Madagascar,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MG,Madagascar,REACH,TOTAL,NR,T,RO,Romania,2023,7,e
+migr_emi3nxt,A,MG,Madagascar,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,MG,Madagascar,COMPLET,TOTAL,NR,T,RO,Romania,2021,7,
+migr_emi3nxt,A,MG,Madagascar,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MG,Madagascar,COMPLET,TOTAL,NR,T,RO,Romania,2023,7,e
+migr_emi3nxt,A,MG,Madagascar,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,MW,Malawi,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MW,Malawi,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,MW,Malawi,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MW,Malawi,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,MW,Malawi,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,MW,Malawi,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,MW,Malawi,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MW,Malawi,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,MW,Malawi,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,MU,Mauritius,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MU,Mauritius,REACH,TOTAL,NR,T,RO,Romania,2021,11,
+migr_emi3nxt,A,MU,Mauritius,REACH,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,MU,Mauritius,REACH,TOTAL,NR,T,RO,Romania,2023,21,e
+migr_emi3nxt,A,MU,Mauritius,REACH,TOTAL,NR,T,RO,Romania,2024,8,e
+migr_emi3nxt,A,MU,Mauritius,COMPLET,TOTAL,NR,T,RO,Romania,2021,11,
+migr_emi3nxt,A,MU,Mauritius,COMPLET,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,MU,Mauritius,COMPLET,TOTAL,NR,T,RO,Romania,2023,21,e
+migr_emi3nxt,A,MU,Mauritius,COMPLET,TOTAL,NR,T,RO,Romania,2024,8,e
+migr_emi3nxt,A,MZ,Mozambique,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MZ,Mozambique,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,MZ,Mozambique,REACH,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,MZ,Mozambique,REACH,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,MZ,Mozambique,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,MZ,Mozambique,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,MZ,Mozambique,COMPLET,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,MZ,Mozambique,COMPLET,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,MZ,Mozambique,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,RW,Rwanda,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,RW,Rwanda,REACH,TOTAL,NR,T,RO,Romania,2021,10,
+migr_emi3nxt,A,RW,Rwanda,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,RW,Rwanda,REACH,TOTAL,NR,T,RO,Romania,2023,14,e
+migr_emi3nxt,A,RW,Rwanda,REACH,TOTAL,NR,T,RO,Romania,2024,6,e
+migr_emi3nxt,A,RW,Rwanda,COMPLET,TOTAL,NR,T,RO,Romania,2021,10,
+migr_emi3nxt,A,RW,Rwanda,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,RW,Rwanda,COMPLET,TOTAL,NR,T,RO,Romania,2023,14,e
+migr_emi3nxt,A,RW,Rwanda,COMPLET,TOTAL,NR,T,RO,Romania,2024,6,e
+migr_emi3nxt,A,SC,Seychelles,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SC,Seychelles,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,SC,Seychelles,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,SC,Seychelles,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,SC,Seychelles,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,SC,Seychelles,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,SC,Seychelles,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,SC,Seychelles,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,SC,Seychelles,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,SO,Somalia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SO,Somalia,REACH,TOTAL,NR,T,RO,Romania,2021,5,
+migr_emi3nxt,A,SO,Somalia,REACH,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,SO,Somalia,REACH,TOTAL,NR,T,RO,Romania,2023,7,e
+migr_emi3nxt,A,SO,Somalia,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,SO,Somalia,COMPLET,TOTAL,NR,T,RO,Romania,2021,5,
+migr_emi3nxt,A,SO,Somalia,COMPLET,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,SO,Somalia,COMPLET,TOTAL,NR,T,RO,Romania,2023,7,e
+migr_emi3nxt,A,SO,Somalia,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,UG,Uganda,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,UG,Uganda,REACH,TOTAL,NR,T,RO,Romania,2021,25,
+migr_emi3nxt,A,UG,Uganda,REACH,TOTAL,NR,T,RO,Romania,2022,9,e
+migr_emi3nxt,A,UG,Uganda,REACH,TOTAL,NR,T,RO,Romania,2023,62,e
+migr_emi3nxt,A,UG,Uganda,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,UG,Uganda,COMPLET,TOTAL,NR,T,RO,Romania,2021,25,
+migr_emi3nxt,A,UG,Uganda,COMPLET,TOTAL,NR,T,RO,Romania,2022,9,e
+migr_emi3nxt,A,UG,Uganda,COMPLET,TOTAL,NR,T,RO,Romania,2023,62,e
+migr_emi3nxt,A,UG,Uganda,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,TZ,Tanzania,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TZ,Tanzania,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,TZ,Tanzania,REACH,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,TZ,Tanzania,REACH,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,TZ,Tanzania,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,TZ,Tanzania,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,TZ,Tanzania,COMPLET,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,TZ,Tanzania,COMPLET,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,TZ,Tanzania,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,ZM,Zambia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,ZM,Zambia,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,ZM,Zambia,REACH,TOTAL,NR,T,RO,Romania,2022,31,e
+migr_emi3nxt,A,ZM,Zambia,REACH,TOTAL,NR,T,RO,Romania,2023,104,e
+migr_emi3nxt,A,ZM,Zambia,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,ZM,Zambia,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,ZM,Zambia,COMPLET,TOTAL,NR,T,RO,Romania,2022,31,e
+migr_emi3nxt,A,ZM,Zambia,COMPLET,TOTAL,NR,T,RO,Romania,2023,104,e
+migr_emi3nxt,A,ZM,Zambia,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,ZW,Zimbabwe,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,ZW,Zimbabwe,REACH,TOTAL,NR,T,RO,Romania,2021,13,
+migr_emi3nxt,A,ZW,Zimbabwe,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,ZW,Zimbabwe,REACH,TOTAL,NR,T,RO,Romania,2023,6,e
+migr_emi3nxt,A,ZW,Zimbabwe,REACH,TOTAL,NR,T,RO,Romania,2024,11,e
+migr_emi3nxt,A,ZW,Zimbabwe,COMPLET,TOTAL,NR,T,RO,Romania,2021,13,
+migr_emi3nxt,A,ZW,Zimbabwe,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,ZW,Zimbabwe,COMPLET,TOTAL,NR,T,RO,Romania,2023,6,e
+migr_emi3nxt,A,ZW,Zimbabwe,COMPLET,TOTAL,NR,T,RO,Romania,2024,11,e
+migr_emi3nxt,A,AFR_N,Northern Africa,REACH,TOTAL,NR,T,RO,Romania,2018,717,
+migr_emi3nxt,A,AFR_N,Northern Africa,REACH,TOTAL,NR,T,RO,Romania,2022,1008,e
+migr_emi3nxt,A,AFR_N,Northern Africa,REACH,TOTAL,NR,T,RO,Romania,2023,4373,e
+migr_emi3nxt,A,AFR_N,Northern Africa,REACH,TOTAL,NR,T,RO,Romania,2024,1138,e
+migr_emi3nxt,A,AFR_N,Northern Africa,COMPLET,TOTAL,NR,T,RO,Romania,2022,1008,e
+migr_emi3nxt,A,AFR_N,Northern Africa,COMPLET,TOTAL,NR,T,RO,Romania,2023,4373,e
+migr_emi3nxt,A,AFR_N,Northern Africa,COMPLET,TOTAL,NR,T,RO,Romania,2024,1138,e
+migr_emi3nxt,A,DZ,Algeria,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,DZ,Algeria,REACH,TOTAL,NR,T,RO,Romania,2021,223,
+migr_emi3nxt,A,DZ,Algeria,REACH,TOTAL,NR,T,RO,Romania,2022,81,e
+migr_emi3nxt,A,DZ,Algeria,REACH,TOTAL,NR,T,RO,Romania,2023,460,e
+migr_emi3nxt,A,DZ,Algeria,REACH,TOTAL,NR,T,RO,Romania,2024,166,e
+migr_emi3nxt,A,DZ,Algeria,COMPLET,TOTAL,NR,T,RO,Romania,2021,223,
+migr_emi3nxt,A,DZ,Algeria,COMPLET,TOTAL,NR,T,RO,Romania,2022,81,e
+migr_emi3nxt,A,DZ,Algeria,COMPLET,TOTAL,NR,T,RO,Romania,2023,460,e
+migr_emi3nxt,A,DZ,Algeria,COMPLET,TOTAL,NR,T,RO,Romania,2024,166,e
+migr_emi3nxt,A,EG,Egypt,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,EG,Egypt,REACH,TOTAL,NR,T,RO,Romania,2021,436,
+migr_emi3nxt,A,EG,Egypt,REACH,TOTAL,NR,T,RO,Romania,2022,248,e
+migr_emi3nxt,A,EG,Egypt,REACH,TOTAL,NR,T,RO,Romania,2023,1065,e
+migr_emi3nxt,A,EG,Egypt,REACH,TOTAL,NR,T,RO,Romania,2024,148,e
+migr_emi3nxt,A,EG,Egypt,COMPLET,TOTAL,NR,T,RO,Romania,2021,436,
+migr_emi3nxt,A,EG,Egypt,COMPLET,TOTAL,NR,T,RO,Romania,2022,248,e
+migr_emi3nxt,A,EG,Egypt,COMPLET,TOTAL,NR,T,RO,Romania,2023,1065,e
+migr_emi3nxt,A,EG,Egypt,COMPLET,TOTAL,NR,T,RO,Romania,2024,148,e
+migr_emi3nxt,A,LY,Libya,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,LY,Libya,REACH,TOTAL,NR,T,RO,Romania,2021,47,
+migr_emi3nxt,A,LY,Libya,REACH,TOTAL,NR,T,RO,Romania,2022,23,e
+migr_emi3nxt,A,LY,Libya,REACH,TOTAL,NR,T,RO,Romania,2023,51,e
+migr_emi3nxt,A,LY,Libya,REACH,TOTAL,NR,T,RO,Romania,2024,10,e
+migr_emi3nxt,A,LY,Libya,COMPLET,TOTAL,NR,T,RO,Romania,2021,47,
+migr_emi3nxt,A,LY,Libya,COMPLET,TOTAL,NR,T,RO,Romania,2022,23,e
+migr_emi3nxt,A,LY,Libya,COMPLET,TOTAL,NR,T,RO,Romania,2023,51,e
+migr_emi3nxt,A,LY,Libya,COMPLET,TOTAL,NR,T,RO,Romania,2024,10,e
+migr_emi3nxt,A,MA,Morocco,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MA,Morocco,REACH,TOTAL,NR,T,RO,Romania,2021,895,
+migr_emi3nxt,A,MA,Morocco,REACH,TOTAL,NR,T,RO,Romania,2022,352,e
+migr_emi3nxt,A,MA,Morocco,REACH,TOTAL,NR,T,RO,Romania,2023,1851,e
+migr_emi3nxt,A,MA,Morocco,REACH,TOTAL,NR,T,RO,Romania,2024,613,e
+migr_emi3nxt,A,MA,Morocco,COMPLET,TOTAL,NR,T,RO,Romania,2021,895,
+migr_emi3nxt,A,MA,Morocco,COMPLET,TOTAL,NR,T,RO,Romania,2022,352,e
+migr_emi3nxt,A,MA,Morocco,COMPLET,TOTAL,NR,T,RO,Romania,2023,1851,e
+migr_emi3nxt,A,MA,Morocco,COMPLET,TOTAL,NR,T,RO,Romania,2024,613,e
+migr_emi3nxt,A,SS,South Sudan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SS,South Sudan,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,SS,South Sudan,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,SS,South Sudan,REACH,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,SS,South Sudan,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,SS,South Sudan,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,SS,South Sudan,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,SS,South Sudan,COMPLET,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,SS,South Sudan,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,SD,Sudan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SD,Sudan,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,SD,Sudan,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SD,Sudan,REACH,TOTAL,NR,T,RO,Romania,2023,239,e
+migr_emi3nxt,A,SD,Sudan,REACH,TOTAL,NR,T,RO,Romania,2024,28,e
+migr_emi3nxt,A,SD,Sudan,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,SD,Sudan,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SD,Sudan,COMPLET,TOTAL,NR,T,RO,Romania,2023,239,e
+migr_emi3nxt,A,SD,Sudan,COMPLET,TOTAL,NR,T,RO,Romania,2024,28,e
+migr_emi3nxt,A,TN,Tunisia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TN,Tunisia,REACH,TOTAL,NR,T,RO,Romania,2021,800,
+migr_emi3nxt,A,TN,Tunisia,REACH,TOTAL,NR,T,RO,Romania,2022,303,e
+migr_emi3nxt,A,TN,Tunisia,REACH,TOTAL,NR,T,RO,Romania,2023,705,e
+migr_emi3nxt,A,TN,Tunisia,REACH,TOTAL,NR,T,RO,Romania,2024,172,e
+migr_emi3nxt,A,TN,Tunisia,COMPLET,TOTAL,NR,T,RO,Romania,2021,800,
+migr_emi3nxt,A,TN,Tunisia,COMPLET,TOTAL,NR,T,RO,Romania,2022,303,e
+migr_emi3nxt,A,TN,Tunisia,COMPLET,TOTAL,NR,T,RO,Romania,2023,705,e
+migr_emi3nxt,A,TN,Tunisia,COMPLET,TOTAL,NR,T,RO,Romania,2024,172,e
+migr_emi3nxt,A,EH,Western Sahara,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,EH,Western Sahara,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,EH,Western Sahara,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,EH,Western Sahara,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,EH,Western Sahara,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,EH,Western Sahara,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,EH,Western Sahara,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,EH,Western Sahara,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,EH,Western Sahara,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,AFR_S,Southern Africa,REACH,TOTAL,NR,T,RO,Romania,2018,37,
+migr_emi3nxt,A,AFR_S,Southern Africa,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,AFR_S,Southern Africa,REACH,TOTAL,NR,T,RO,Romania,2023,17,e
+migr_emi3nxt,A,AFR_S,Southern Africa,REACH,TOTAL,NR,T,RO,Romania,2024,21,e
+migr_emi3nxt,A,AFR_S,Southern Africa,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,AFR_S,Southern Africa,COMPLET,TOTAL,NR,T,RO,Romania,2023,17,e
+migr_emi3nxt,A,AFR_S,Southern Africa,COMPLET,TOTAL,NR,T,RO,Romania,2024,21,e
+migr_emi3nxt,A,BW,Botswana,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BW,Botswana,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,BW,Botswana,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BW,Botswana,REACH,TOTAL,NR,T,RO,Romania,2023,4,e
+migr_emi3nxt,A,BW,Botswana,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,BW,Botswana,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,BW,Botswana,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BW,Botswana,COMPLET,TOTAL,NR,T,RO,Romania,2023,4,e
+migr_emi3nxt,A,BW,Botswana,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,LS,Lesotho,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,LS,Lesotho,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,LS,Lesotho,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,LS,Lesotho,REACH,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,LS,Lesotho,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,LS,Lesotho,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,LS,Lesotho,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,LS,Lesotho,COMPLET,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,LS,Lesotho,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,NA,Namibia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,NA,Namibia,REACH,TOTAL,NR,T,RO,Romania,2021,3,
+migr_emi3nxt,A,NA,Namibia,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,NA,Namibia,REACH,TOTAL,NR,T,RO,Romania,2023,4,e
+migr_emi3nxt,A,NA,Namibia,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,NA,Namibia,COMPLET,TOTAL,NR,T,RO,Romania,2021,3,
+migr_emi3nxt,A,NA,Namibia,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,NA,Namibia,COMPLET,TOTAL,NR,T,RO,Romania,2023,4,e
+migr_emi3nxt,A,NA,Namibia,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,ZA,South Africa,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,ZA,South Africa,REACH,TOTAL,NR,T,RO,Romania,2021,134,
+migr_emi3nxt,A,ZA,South Africa,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,ZA,South Africa,REACH,TOTAL,NR,T,RO,Romania,2023,6,e
+migr_emi3nxt,A,ZA,South Africa,REACH,TOTAL,NR,T,RO,Romania,2024,20,e
+migr_emi3nxt,A,ZA,South Africa,COMPLET,TOTAL,NR,T,RO,Romania,2021,134,
+migr_emi3nxt,A,ZA,South Africa,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,ZA,South Africa,COMPLET,TOTAL,NR,T,RO,Romania,2023,6,e
+migr_emi3nxt,A,ZA,South Africa,COMPLET,TOTAL,NR,T,RO,Romania,2024,20,e
+migr_emi3nxt,A,SZ,Eswatini,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SZ,Eswatini,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,SZ,Eswatini,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SZ,Eswatini,REACH,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,SZ,Eswatini,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,SZ,Eswatini,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,SZ,Eswatini,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SZ,Eswatini,COMPLET,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,SZ,Eswatini,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,AFR_W,Western Africa,REACH,TOTAL,NR,T,RO,Romania,2018,193,
+migr_emi3nxt,A,AFR_W,Western Africa,REACH,TOTAL,NR,T,RO,Romania,2022,173,e
+migr_emi3nxt,A,AFR_W,Western Africa,REACH,TOTAL,NR,T,RO,Romania,2023,795,e
+migr_emi3nxt,A,AFR_W,Western Africa,REACH,TOTAL,NR,T,RO,Romania,2024,161,e
+migr_emi3nxt,A,AFR_W,Western Africa,COMPLET,TOTAL,NR,T,RO,Romania,2022,173,e
+migr_emi3nxt,A,AFR_W,Western Africa,COMPLET,TOTAL,NR,T,RO,Romania,2023,795,e
+migr_emi3nxt,A,AFR_W,Western Africa,COMPLET,TOTAL,NR,T,RO,Romania,2024,161,e
+migr_emi3nxt,A,BJ,Benin,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BJ,Benin,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BJ,Benin,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,BJ,Benin,REACH,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,BJ,Benin,REACH,TOTAL,NR,T,RO,Romania,2024,8,e
+migr_emi3nxt,A,BJ,Benin,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BJ,Benin,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,BJ,Benin,COMPLET,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,BJ,Benin,COMPLET,TOTAL,NR,T,RO,Romania,2024,8,e
+migr_emi3nxt,A,BF,Burkina Faso,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BF,Burkina Faso,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,BF,Burkina Faso,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BF,Burkina Faso,REACH,TOTAL,NR,T,RO,Romania,2023,7,e
+migr_emi3nxt,A,BF,Burkina Faso,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,BF,Burkina Faso,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,BF,Burkina Faso,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BF,Burkina Faso,COMPLET,TOTAL,NR,T,RO,Romania,2023,7,e
+migr_emi3nxt,A,BF,Burkina Faso,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,CV,Cabo Verde,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CV,Cabo Verde,REACH,TOTAL,NR,T,RO,Romania,2021,2,
+migr_emi3nxt,A,CV,Cabo Verde,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,CV,Cabo Verde,REACH,TOTAL,NR,T,RO,Romania,2023,3,e
+migr_emi3nxt,A,CV,Cabo Verde,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,CV,Cabo Verde,COMPLET,TOTAL,NR,T,RO,Romania,2021,2,
+migr_emi3nxt,A,CV,Cabo Verde,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,CV,Cabo Verde,COMPLET,TOTAL,NR,T,RO,Romania,2023,3,e
+migr_emi3nxt,A,CV,Cabo Verde,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,CI,Côte d’Ivoire,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CI,Côte d’Ivoire,REACH,TOTAL,NR,T,RO,Romania,2021,17,
+migr_emi3nxt,A,CI,Côte d’Ivoire,REACH,TOTAL,NR,T,RO,Romania,2022,7,e
+migr_emi3nxt,A,CI,Côte d’Ivoire,REACH,TOTAL,NR,T,RO,Romania,2023,23,e
+migr_emi3nxt,A,CI,Côte d’Ivoire,REACH,TOTAL,NR,T,RO,Romania,2024,5,e
+migr_emi3nxt,A,CI,Côte d’Ivoire,COMPLET,TOTAL,NR,T,RO,Romania,2021,17,
+migr_emi3nxt,A,CI,Côte d’Ivoire,COMPLET,TOTAL,NR,T,RO,Romania,2022,7,e
+migr_emi3nxt,A,CI,Côte d’Ivoire,COMPLET,TOTAL,NR,T,RO,Romania,2023,23,e
+migr_emi3nxt,A,CI,Côte d’Ivoire,COMPLET,TOTAL,NR,T,RO,Romania,2024,5,e
+migr_emi3nxt,A,GM,"Gambia, The",REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GM,"Gambia, The",REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,GM,"Gambia, The",REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,GM,"Gambia, The",REACH,TOTAL,NR,T,RO,Romania,2023,7,e
+migr_emi3nxt,A,GM,"Gambia, The",REACH,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,GM,"Gambia, The",COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,GM,"Gambia, The",COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,GM,"Gambia, The",COMPLET,TOTAL,NR,T,RO,Romania,2023,7,e
+migr_emi3nxt,A,GM,"Gambia, The",COMPLET,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,GH,Ghana,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GH,Ghana,REACH,TOTAL,NR,T,RO,Romania,2021,33,
+migr_emi3nxt,A,GH,Ghana,REACH,TOTAL,NR,T,RO,Romania,2022,18,e
+migr_emi3nxt,A,GH,Ghana,REACH,TOTAL,NR,T,RO,Romania,2023,149,e
+migr_emi3nxt,A,GH,Ghana,REACH,TOTAL,NR,T,RO,Romania,2024,8,e
+migr_emi3nxt,A,GH,Ghana,COMPLET,TOTAL,NR,T,RO,Romania,2021,33,
+migr_emi3nxt,A,GH,Ghana,COMPLET,TOTAL,NR,T,RO,Romania,2022,18,e
+migr_emi3nxt,A,GH,Ghana,COMPLET,TOTAL,NR,T,RO,Romania,2023,149,e
+migr_emi3nxt,A,GH,Ghana,COMPLET,TOTAL,NR,T,RO,Romania,2024,8,e
+migr_emi3nxt,A,GN,Guinea,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GN,Guinea,REACH,TOTAL,NR,T,RO,Romania,2021,42,
+migr_emi3nxt,A,GN,Guinea,REACH,TOTAL,NR,T,RO,Romania,2022,13,e
+migr_emi3nxt,A,GN,Guinea,REACH,TOTAL,NR,T,RO,Romania,2023,146,e
+migr_emi3nxt,A,GN,Guinea,REACH,TOTAL,NR,T,RO,Romania,2024,50,e
+migr_emi3nxt,A,GN,Guinea,COMPLET,TOTAL,NR,T,RO,Romania,2021,42,
+migr_emi3nxt,A,GN,Guinea,COMPLET,TOTAL,NR,T,RO,Romania,2022,13,e
+migr_emi3nxt,A,GN,Guinea,COMPLET,TOTAL,NR,T,RO,Romania,2023,146,e
+migr_emi3nxt,A,GN,Guinea,COMPLET,TOTAL,NR,T,RO,Romania,2024,50,e
+migr_emi3nxt,A,GW,Guinea-Bissau,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GW,Guinea-Bissau,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,GW,Guinea-Bissau,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,GW,Guinea-Bissau,REACH,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,GW,Guinea-Bissau,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,GW,Guinea-Bissau,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,GW,Guinea-Bissau,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,GW,Guinea-Bissau,COMPLET,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,GW,Guinea-Bissau,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,LR,Liberia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,LR,Liberia,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,LR,Liberia,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,LR,Liberia,REACH,TOTAL,NR,T,RO,Romania,2023,3,e
+migr_emi3nxt,A,LR,Liberia,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,LR,Liberia,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,LR,Liberia,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,LR,Liberia,COMPLET,TOTAL,NR,T,RO,Romania,2023,3,e
+migr_emi3nxt,A,LR,Liberia,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,ML,Mali,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,ML,Mali,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,ML,Mali,REACH,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,ML,Mali,REACH,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,ML,Mali,REACH,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,ML,Mali,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,ML,Mali,COMPLET,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,ML,Mali,COMPLET,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,ML,Mali,COMPLET,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,MR,Mauritania,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MR,Mauritania,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,MR,Mauritania,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,MR,Mauritania,REACH,TOTAL,NR,T,RO,Romania,2023,6,e
+migr_emi3nxt,A,MR,Mauritania,REACH,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,MR,Mauritania,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,MR,Mauritania,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,MR,Mauritania,COMPLET,TOTAL,NR,T,RO,Romania,2023,6,e
+migr_emi3nxt,A,MR,Mauritania,COMPLET,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,NE,Niger,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,NE,Niger,REACH,TOTAL,NR,T,RO,Romania,2021,2,
+migr_emi3nxt,A,NE,Niger,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,NE,Niger,REACH,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,NE,Niger,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,NE,Niger,COMPLET,TOTAL,NR,T,RO,Romania,2021,2,
+migr_emi3nxt,A,NE,Niger,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,NE,Niger,COMPLET,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,NE,Niger,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,NG,Nigeria,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,NG,Nigeria,REACH,TOTAL,NR,T,RO,Romania,2021,314,
+migr_emi3nxt,A,NG,Nigeria,REACH,TOTAL,NR,T,RO,Romania,2022,112,e
+migr_emi3nxt,A,NG,Nigeria,REACH,TOTAL,NR,T,RO,Romania,2023,389,e
+migr_emi3nxt,A,NG,Nigeria,REACH,TOTAL,NR,T,RO,Romania,2024,69,e
+migr_emi3nxt,A,NG,Nigeria,COMPLET,TOTAL,NR,T,RO,Romania,2021,314,
+migr_emi3nxt,A,NG,Nigeria,COMPLET,TOTAL,NR,T,RO,Romania,2022,112,e
+migr_emi3nxt,A,NG,Nigeria,COMPLET,TOTAL,NR,T,RO,Romania,2023,389,e
+migr_emi3nxt,A,NG,Nigeria,COMPLET,TOTAL,NR,T,RO,Romania,2024,69,e
+migr_emi3nxt,A,SH,"Saint Helena, Ascension and Tristan da Cunha",REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SH,"Saint Helena, Ascension and Tristan da Cunha",REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,SH,"Saint Helena, Ascension and Tristan da Cunha",REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SH,"Saint Helena, Ascension and Tristan da Cunha",REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,SH,"Saint Helena, Ascension and Tristan da Cunha",REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,SH,"Saint Helena, Ascension and Tristan da Cunha",COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,SH,"Saint Helena, Ascension and Tristan da Cunha",COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SH,"Saint Helena, Ascension and Tristan da Cunha",COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,SH,"Saint Helena, Ascension and Tristan da Cunha",COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,SN,Senegal,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SN,Senegal,REACH,TOTAL,NR,T,RO,Romania,2021,19,
+migr_emi3nxt,A,SN,Senegal,REACH,TOTAL,NR,T,RO,Romania,2022,8,e
+migr_emi3nxt,A,SN,Senegal,REACH,TOTAL,NR,T,RO,Romania,2023,30,e
+migr_emi3nxt,A,SN,Senegal,REACH,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,SN,Senegal,COMPLET,TOTAL,NR,T,RO,Romania,2021,19,
+migr_emi3nxt,A,SN,Senegal,COMPLET,TOTAL,NR,T,RO,Romania,2022,8,e
+migr_emi3nxt,A,SN,Senegal,COMPLET,TOTAL,NR,T,RO,Romania,2023,30,e
+migr_emi3nxt,A,SN,Senegal,COMPLET,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,SL,Sierra Leone,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SL,Sierra Leone,REACH,TOTAL,NR,T,RO,Romania,2021,2,
+migr_emi3nxt,A,SL,Sierra Leone,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SL,Sierra Leone,REACH,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,SL,Sierra Leone,REACH,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,SL,Sierra Leone,COMPLET,TOTAL,NR,T,RO,Romania,2021,2,
+migr_emi3nxt,A,SL,Sierra Leone,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SL,Sierra Leone,COMPLET,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,SL,Sierra Leone,COMPLET,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,TG,Togo,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TG,Togo,REACH,TOTAL,NR,T,RO,Romania,2021,3,
+migr_emi3nxt,A,TG,Togo,REACH,TOTAL,NR,T,RO,Romania,2022,6,e
+migr_emi3nxt,A,TG,Togo,REACH,TOTAL,NR,T,RO,Romania,2023,8,e
+migr_emi3nxt,A,TG,Togo,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,TG,Togo,COMPLET,TOTAL,NR,T,RO,Romania,2021,3,
+migr_emi3nxt,A,TG,Togo,COMPLET,TOTAL,NR,T,RO,Romania,2022,6,e
+migr_emi3nxt,A,TG,Togo,COMPLET,TOTAL,NR,T,RO,Romania,2023,8,e
+migr_emi3nxt,A,TG,Togo,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,AME,America,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AME,America,REACH,TOTAL,NR,T,RO,Romania,2022,3959,e
+migr_emi3nxt,A,AME,America,REACH,TOTAL,NR,T,RO,Romania,2023,5035,e
+migr_emi3nxt,A,AME,America,REACH,TOTAL,NR,T,RO,Romania,2024,2696,e
+migr_emi3nxt,A,AME,America,COMPLET,TOTAL,NR,T,RO,Romania,2022,3959,e
+migr_emi3nxt,A,AME,America,COMPLET,TOTAL,NR,T,RO,Romania,2023,5035,e
+migr_emi3nxt,A,AME,America,COMPLET,TOTAL,NR,T,RO,Romania,2024,2696,e
+migr_emi3nxt,A,AME_N,Northern America,REACH,TOTAL,NR,T,RO,Romania,2018,2907,
+migr_emi3nxt,A,AME_N,Northern America,REACH,TOTAL,NR,T,RO,Romania,2022,3637,e
+migr_emi3nxt,A,AME_N,Northern America,REACH,TOTAL,NR,T,RO,Romania,2023,3830,e
+migr_emi3nxt,A,AME_N,Northern America,REACH,TOTAL,NR,T,RO,Romania,2024,2387,e
+migr_emi3nxt,A,AME_N,Northern America,COMPLET,TOTAL,NR,T,RO,Romania,2022,3637,e
+migr_emi3nxt,A,AME_N,Northern America,COMPLET,TOTAL,NR,T,RO,Romania,2023,3830,e
+migr_emi3nxt,A,AME_N,Northern America,COMPLET,TOTAL,NR,T,RO,Romania,2024,2387,e
+migr_emi3nxt,A,BM,Bermuda,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BM,Bermuda,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BM,Bermuda,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BM,Bermuda,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,BM,Bermuda,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,BM,Bermuda,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BM,Bermuda,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BM,Bermuda,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,BM,Bermuda,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,CA,Canada,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CA,Canada,REACH,TOTAL,NR,T,RO,Romania,2021,1470,
+migr_emi3nxt,A,CA,Canada,REACH,TOTAL,NR,T,RO,Romania,2022,2063,e
+migr_emi3nxt,A,CA,Canada,REACH,TOTAL,NR,T,RO,Romania,2023,1501,e
+migr_emi3nxt,A,CA,Canada,REACH,TOTAL,NR,T,RO,Romania,2024,1130,e
+migr_emi3nxt,A,CA,Canada,COMPLET,TOTAL,NR,T,RO,Romania,2021,1470,
+migr_emi3nxt,A,CA,Canada,COMPLET,TOTAL,NR,T,RO,Romania,2022,2063,e
+migr_emi3nxt,A,CA,Canada,COMPLET,TOTAL,NR,T,RO,Romania,2023,1501,e
+migr_emi3nxt,A,CA,Canada,COMPLET,TOTAL,NR,T,RO,Romania,2024,1130,e
+migr_emi3nxt,A,GL,Greenland,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GL,Greenland,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,GL,Greenland,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GL,Greenland,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,GL,Greenland,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,GL,Greenland,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,GL,Greenland,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GL,Greenland,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,GL,Greenland,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,PM,Saint Pierre and Miquelon,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PM,Saint Pierre and Miquelon,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,PM,Saint Pierre and Miquelon,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,PM,Saint Pierre and Miquelon,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,PM,Saint Pierre and Miquelon,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,PM,Saint Pierre and Miquelon,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,PM,Saint Pierre and Miquelon,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,PM,Saint Pierre and Miquelon,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,PM,Saint Pierre and Miquelon,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,US,United States,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,US,United States,REACH,TOTAL,NR,T,RO,Romania,2021,2827,
+migr_emi3nxt,A,US,United States,REACH,TOTAL,NR,T,RO,Romania,2022,1574,e
+migr_emi3nxt,A,US,United States,REACH,TOTAL,NR,T,RO,Romania,2023,2329,e
+migr_emi3nxt,A,US,United States,REACH,TOTAL,NR,T,RO,Romania,2024,1257,e
+migr_emi3nxt,A,US,United States,COMPLET,TOTAL,NR,T,RO,Romania,2021,2827,
+migr_emi3nxt,A,US,United States,COMPLET,TOTAL,NR,T,RO,Romania,2022,1574,e
+migr_emi3nxt,A,US,United States,COMPLET,TOTAL,NR,T,RO,Romania,2023,2329,e
+migr_emi3nxt,A,US,United States,COMPLET,TOTAL,NR,T,RO,Romania,2024,1257,e
+migr_emi3nxt,A,CRB,Caribbean,REACH,TOTAL,NR,T,RO,Romania,2018,37,
+migr_emi3nxt,A,CRB,Caribbean,REACH,TOTAL,NR,T,RO,Romania,2022,34,e
+migr_emi3nxt,A,CRB,Caribbean,REACH,TOTAL,NR,T,RO,Romania,2023,193,e
+migr_emi3nxt,A,CRB,Caribbean,REACH,TOTAL,NR,T,RO,Romania,2024,47,e
+migr_emi3nxt,A,CRB,Caribbean,COMPLET,TOTAL,NR,T,RO,Romania,2022,34,e
+migr_emi3nxt,A,CRB,Caribbean,COMPLET,TOTAL,NR,T,RO,Romania,2023,193,e
+migr_emi3nxt,A,CRB,Caribbean,COMPLET,TOTAL,NR,T,RO,Romania,2024,47,e
+migr_emi3nxt,A,AI,Anguilla,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AI,Anguilla,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,AI,Anguilla,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,AI,Anguilla,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,AI,Anguilla,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,AI,Anguilla,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,AI,Anguilla,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,AI,Anguilla,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,AI,Anguilla,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,AG,Antigua and Barbuda,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AG,Antigua and Barbuda,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,AG,Antigua and Barbuda,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,AG,Antigua and Barbuda,REACH,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,AG,Antigua and Barbuda,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,AG,Antigua and Barbuda,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,AG,Antigua and Barbuda,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,AG,Antigua and Barbuda,COMPLET,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,AG,Antigua and Barbuda,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,AW,Aruba,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AW,Aruba,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,AW,Aruba,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,AW,Aruba,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,AW,Aruba,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,AW,Aruba,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,AW,Aruba,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,AW,Aruba,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,AW,Aruba,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,BS,Bahamas,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BS,Bahamas,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BS,Bahamas,REACH,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,BS,Bahamas,REACH,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,BS,Bahamas,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,BS,Bahamas,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BS,Bahamas,COMPLET,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,BS,Bahamas,COMPLET,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,BS,Bahamas,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,BB,Barbados,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BB,Barbados,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,BB,Barbados,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,BB,Barbados,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,BB,Barbados,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,BB,Barbados,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,BB,Barbados,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,BB,Barbados,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,BB,Barbados,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,BQ,"Bonaire, Saint Eustatius and Saba",REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BQ,"Bonaire, Saint Eustatius and Saba",REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BQ,"Bonaire, Saint Eustatius and Saba",REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BQ,"Bonaire, Saint Eustatius and Saba",REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,BQ,"Bonaire, Saint Eustatius and Saba",REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,BQ,"Bonaire, Saint Eustatius and Saba",COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BQ,"Bonaire, Saint Eustatius and Saba",COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BQ,"Bonaire, Saint Eustatius and Saba",COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,BQ,"Bonaire, Saint Eustatius and Saba",COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,VG,British Virgin Islands,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,VG,British Virgin Islands,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,VG,British Virgin Islands,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,VG,British Virgin Islands,REACH,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,VG,British Virgin Islands,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,VG,British Virgin Islands,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,VG,British Virgin Islands,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,VG,British Virgin Islands,COMPLET,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,VG,British Virgin Islands,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,KY,Cayman Islands,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,KY,Cayman Islands,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,KY,Cayman Islands,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,KY,Cayman Islands,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,KY,Cayman Islands,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,KY,Cayman Islands,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,KY,Cayman Islands,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,KY,Cayman Islands,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,KY,Cayman Islands,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,CU,Cuba,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CU,Cuba,REACH,TOTAL,NR,T,RO,Romania,2021,61,
+migr_emi3nxt,A,CU,Cuba,REACH,TOTAL,NR,T,RO,Romania,2022,16,e
+migr_emi3nxt,A,CU,Cuba,REACH,TOTAL,NR,T,RO,Romania,2023,106,e
+migr_emi3nxt,A,CU,Cuba,REACH,TOTAL,NR,T,RO,Romania,2024,18,e
+migr_emi3nxt,A,CU,Cuba,COMPLET,TOTAL,NR,T,RO,Romania,2021,61,
+migr_emi3nxt,A,CU,Cuba,COMPLET,TOTAL,NR,T,RO,Romania,2022,16,e
+migr_emi3nxt,A,CU,Cuba,COMPLET,TOTAL,NR,T,RO,Romania,2023,106,e
+migr_emi3nxt,A,CU,Cuba,COMPLET,TOTAL,NR,T,RO,Romania,2024,18,e
+migr_emi3nxt,A,CW,Curaçao,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CW,Curaçao,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,CW,Curaçao,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,CW,Curaçao,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,CW,Curaçao,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,CW,Curaçao,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,CW,Curaçao,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,CW,Curaçao,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,CW,Curaçao,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,DM,Dominica,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,DM,Dominica,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,DM,Dominica,REACH,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,DM,Dominica,REACH,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,DM,Dominica,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,DM,Dominica,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,DM,Dominica,COMPLET,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,DM,Dominica,COMPLET,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,DM,Dominica,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,DO,Dominican Republic,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,DO,Dominican Republic,REACH,TOTAL,NR,T,RO,Romania,2021,7,
+migr_emi3nxt,A,DO,Dominican Republic,REACH,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,DO,Dominican Republic,REACH,TOTAL,NR,T,RO,Romania,2023,35,e
+migr_emi3nxt,A,DO,Dominican Republic,REACH,TOTAL,NR,T,RO,Romania,2024,7,e
+migr_emi3nxt,A,DO,Dominican Republic,COMPLET,TOTAL,NR,T,RO,Romania,2021,7,
+migr_emi3nxt,A,DO,Dominican Republic,COMPLET,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,DO,Dominican Republic,COMPLET,TOTAL,NR,T,RO,Romania,2023,35,e
+migr_emi3nxt,A,DO,Dominican Republic,COMPLET,TOTAL,NR,T,RO,Romania,2024,7,e
+migr_emi3nxt,A,GD,Grenada,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GD,Grenada,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,GD,Grenada,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GD,Grenada,REACH,TOTAL,NR,T,RO,Romania,2023,6,e
+migr_emi3nxt,A,GD,Grenada,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,GD,Grenada,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,GD,Grenada,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GD,Grenada,COMPLET,TOTAL,NR,T,RO,Romania,2023,6,e
+migr_emi3nxt,A,GD,Grenada,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,HT,Haiti,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,HT,Haiti,REACH,TOTAL,NR,T,RO,Romania,2021,2,
+migr_emi3nxt,A,HT,Haiti,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,HT,Haiti,REACH,TOTAL,NR,T,RO,Romania,2023,16,e
+migr_emi3nxt,A,HT,Haiti,REACH,TOTAL,NR,T,RO,Romania,2024,13,e
+migr_emi3nxt,A,HT,Haiti,COMPLET,TOTAL,NR,T,RO,Romania,2021,2,
+migr_emi3nxt,A,HT,Haiti,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,HT,Haiti,COMPLET,TOTAL,NR,T,RO,Romania,2023,16,e
+migr_emi3nxt,A,HT,Haiti,COMPLET,TOTAL,NR,T,RO,Romania,2024,13,e
+migr_emi3nxt,A,JM,Jamaica,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,JM,Jamaica,REACH,TOTAL,NR,T,RO,Romania,2021,2,
+migr_emi3nxt,A,JM,Jamaica,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,JM,Jamaica,REACH,TOTAL,NR,T,RO,Romania,2023,3,e
+migr_emi3nxt,A,JM,Jamaica,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,JM,Jamaica,COMPLET,TOTAL,NR,T,RO,Romania,2021,2,
+migr_emi3nxt,A,JM,Jamaica,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,JM,Jamaica,COMPLET,TOTAL,NR,T,RO,Romania,2023,3,e
+migr_emi3nxt,A,JM,Jamaica,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,MS,Montserrat,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MS,Montserrat,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,MS,Montserrat,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MS,Montserrat,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,MS,Montserrat,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,MS,Montserrat,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,MS,Montserrat,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MS,Montserrat,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,MS,Montserrat,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,AN,Netherlands Antilles,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AN,Netherlands Antilles,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,AN,Netherlands Antilles,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,AN,Netherlands Antilles,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,AN,Netherlands Antilles,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,AN,Netherlands Antilles,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,AN,Netherlands Antilles,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,AN,Netherlands Antilles,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,AN,Netherlands Antilles,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,BL,Saint Barthélemy,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BL,Saint Barthélemy,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BL,Saint Barthélemy,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BL,Saint Barthélemy,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,BL,Saint Barthélemy,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,BL,Saint Barthélemy,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BL,Saint Barthélemy,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BL,Saint Barthélemy,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,BL,Saint Barthélemy,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,KN,Saint Kitts and Nevis,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,KN,Saint Kitts and Nevis,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,KN,Saint Kitts and Nevis,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,KN,Saint Kitts and Nevis,REACH,TOTAL,NR,T,RO,Romania,2023,4,e
+migr_emi3nxt,A,KN,Saint Kitts and Nevis,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,KN,Saint Kitts and Nevis,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,KN,Saint Kitts and Nevis,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,KN,Saint Kitts and Nevis,COMPLET,TOTAL,NR,T,RO,Romania,2023,4,e
+migr_emi3nxt,A,KN,Saint Kitts and Nevis,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,LC,Saint Lucia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,LC,Saint Lucia,REACH,TOTAL,NR,T,RO,Romania,2021,2,
+migr_emi3nxt,A,LC,Saint Lucia,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,LC,Saint Lucia,REACH,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,LC,Saint Lucia,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,LC,Saint Lucia,COMPLET,TOTAL,NR,T,RO,Romania,2021,2,
+migr_emi3nxt,A,LC,Saint Lucia,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,LC,Saint Lucia,COMPLET,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,LC,Saint Lucia,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,VC,Saint Vincent and the Grenadines,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,VC,Saint Vincent and the Grenadines,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,VC,Saint Vincent and the Grenadines,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,VC,Saint Vincent and the Grenadines,REACH,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,VC,Saint Vincent and the Grenadines,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,VC,Saint Vincent and the Grenadines,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,VC,Saint Vincent and the Grenadines,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,VC,Saint Vincent and the Grenadines,COMPLET,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,VC,Saint Vincent and the Grenadines,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,SX,Sint Maarten,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SX,Sint Maarten,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,SX,Sint Maarten,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SX,Sint Maarten,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,SX,Sint Maarten,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,SX,Sint Maarten,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,SX,Sint Maarten,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SX,Sint Maarten,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,SX,Sint Maarten,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,TT,Trinidad and Tobago,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TT,Trinidad and Tobago,REACH,TOTAL,NR,T,RO,Romania,2021,3,
+migr_emi3nxt,A,TT,Trinidad and Tobago,REACH,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,TT,Trinidad and Tobago,REACH,TOTAL,NR,T,RO,Romania,2023,7,e
+migr_emi3nxt,A,TT,Trinidad and Tobago,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,TT,Trinidad and Tobago,COMPLET,TOTAL,NR,T,RO,Romania,2021,3,
+migr_emi3nxt,A,TT,Trinidad and Tobago,COMPLET,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,TT,Trinidad and Tobago,COMPLET,TOTAL,NR,T,RO,Romania,2023,7,e
+migr_emi3nxt,A,TT,Trinidad and Tobago,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,TC,Turks and Caicos Islands,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TC,Turks and Caicos Islands,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,TC,Turks and Caicos Islands,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,TC,Turks and Caicos Islands,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,TC,Turks and Caicos Islands,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,TC,Turks and Caicos Islands,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,TC,Turks and Caicos Islands,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,TC,Turks and Caicos Islands,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,TC,Turks and Caicos Islands,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,AME_C,Central America,REACH,TOTAL,NR,T,RO,Romania,2018,60,
+migr_emi3nxt,A,AME_C,Central America,REACH,TOTAL,NR,T,RO,Romania,2022,67,e
+migr_emi3nxt,A,AME_C,Central America,REACH,TOTAL,NR,T,RO,Romania,2023,201,e
+migr_emi3nxt,A,AME_C,Central America,REACH,TOTAL,NR,T,RO,Romania,2024,85,e
+migr_emi3nxt,A,AME_C,Central America,COMPLET,TOTAL,NR,T,RO,Romania,2022,67,e
+migr_emi3nxt,A,AME_C,Central America,COMPLET,TOTAL,NR,T,RO,Romania,2023,201,e
+migr_emi3nxt,A,AME_C,Central America,COMPLET,TOTAL,NR,T,RO,Romania,2024,85,e
+migr_emi3nxt,A,BZ,Belize,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BZ,Belize,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,BZ,Belize,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,BZ,Belize,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,BZ,Belize,REACH,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,BZ,Belize,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,BZ,Belize,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,BZ,Belize,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,BZ,Belize,COMPLET,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,CR,Costa Rica,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CR,Costa Rica,REACH,TOTAL,NR,T,RO,Romania,2021,17,
+migr_emi3nxt,A,CR,Costa Rica,REACH,TOTAL,NR,T,RO,Romania,2022,4,e
+migr_emi3nxt,A,CR,Costa Rica,REACH,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,CR,Costa Rica,REACH,TOTAL,NR,T,RO,Romania,2024,6,e
+migr_emi3nxt,A,CR,Costa Rica,COMPLET,TOTAL,NR,T,RO,Romania,2021,17,
+migr_emi3nxt,A,CR,Costa Rica,COMPLET,TOTAL,NR,T,RO,Romania,2022,4,e
+migr_emi3nxt,A,CR,Costa Rica,COMPLET,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,CR,Costa Rica,COMPLET,TOTAL,NR,T,RO,Romania,2024,6,e
+migr_emi3nxt,A,SV,El Salvador,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SV,El Salvador,REACH,TOTAL,NR,T,RO,Romania,2021,8,
+migr_emi3nxt,A,SV,El Salvador,REACH,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,SV,El Salvador,REACH,TOTAL,NR,T,RO,Romania,2023,9,e
+migr_emi3nxt,A,SV,El Salvador,REACH,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,SV,El Salvador,COMPLET,TOTAL,NR,T,RO,Romania,2021,8,
+migr_emi3nxt,A,SV,El Salvador,COMPLET,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,SV,El Salvador,COMPLET,TOTAL,NR,T,RO,Romania,2023,9,e
+migr_emi3nxt,A,SV,El Salvador,COMPLET,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,GT,Guatemala,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GT,Guatemala,REACH,TOTAL,NR,T,RO,Romania,2021,19,
+migr_emi3nxt,A,GT,Guatemala,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,GT,Guatemala,REACH,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,GT,Guatemala,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,GT,Guatemala,COMPLET,TOTAL,NR,T,RO,Romania,2021,19,
+migr_emi3nxt,A,GT,Guatemala,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,GT,Guatemala,COMPLET,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,GT,Guatemala,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,HN,Honduras,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,HN,Honduras,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,HN,Honduras,REACH,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,HN,Honduras,REACH,TOTAL,NR,T,RO,Romania,2023,25,e
+migr_emi3nxt,A,HN,Honduras,REACH,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,HN,Honduras,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,HN,Honduras,COMPLET,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,HN,Honduras,COMPLET,TOTAL,NR,T,RO,Romania,2023,25,e
+migr_emi3nxt,A,HN,Honduras,COMPLET,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,MX,Mexico,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MX,Mexico,REACH,TOTAL,NR,T,RO,Romania,2021,149,
+migr_emi3nxt,A,MX,Mexico,REACH,TOTAL,NR,T,RO,Romania,2022,49,e
+migr_emi3nxt,A,MX,Mexico,REACH,TOTAL,NR,T,RO,Romania,2023,129,e
+migr_emi3nxt,A,MX,Mexico,REACH,TOTAL,NR,T,RO,Romania,2024,59,e
+migr_emi3nxt,A,MX,Mexico,COMPLET,TOTAL,NR,T,RO,Romania,2021,149,
+migr_emi3nxt,A,MX,Mexico,COMPLET,TOTAL,NR,T,RO,Romania,2022,49,e
+migr_emi3nxt,A,MX,Mexico,COMPLET,TOTAL,NR,T,RO,Romania,2023,129,e
+migr_emi3nxt,A,MX,Mexico,COMPLET,TOTAL,NR,T,RO,Romania,2024,59,e
+migr_emi3nxt,A,NI,Nicaragua,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,NI,Nicaragua,REACH,TOTAL,NR,T,RO,Romania,2021,3,
+migr_emi3nxt,A,NI,Nicaragua,REACH,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,NI,Nicaragua,REACH,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,NI,Nicaragua,REACH,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,NI,Nicaragua,COMPLET,TOTAL,NR,T,RO,Romania,2021,3,
+migr_emi3nxt,A,NI,Nicaragua,COMPLET,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,NI,Nicaragua,COMPLET,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,NI,Nicaragua,COMPLET,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,PA,Panama,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PA,Panama,REACH,TOTAL,NR,T,RO,Romania,2021,10,
+migr_emi3nxt,A,PA,Panama,REACH,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,PA,Panama,REACH,TOTAL,NR,T,RO,Romania,2023,9,e
+migr_emi3nxt,A,PA,Panama,REACH,TOTAL,NR,T,RO,Romania,2024,5,e
+migr_emi3nxt,A,PA,Panama,COMPLET,TOTAL,NR,T,RO,Romania,2021,10,
+migr_emi3nxt,A,PA,Panama,COMPLET,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,PA,Panama,COMPLET,TOTAL,NR,T,RO,Romania,2023,9,e
+migr_emi3nxt,A,PA,Panama,COMPLET,TOTAL,NR,T,RO,Romania,2024,5,e
+migr_emi3nxt,A,AME_S,South America,REACH,TOTAL,NR,T,RO,Romania,2018,202,
+migr_emi3nxt,A,AME_S,South America,REACH,TOTAL,NR,T,RO,Romania,2022,221,e
+migr_emi3nxt,A,AME_S,South America,REACH,TOTAL,NR,T,RO,Romania,2023,811,e
+migr_emi3nxt,A,AME_S,South America,REACH,TOTAL,NR,T,RO,Romania,2024,177,e
+migr_emi3nxt,A,AME_S,South America,COMPLET,TOTAL,NR,T,RO,Romania,2022,221,e
+migr_emi3nxt,A,AME_S,South America,COMPLET,TOTAL,NR,T,RO,Romania,2023,811,e
+migr_emi3nxt,A,AME_S,South America,COMPLET,TOTAL,NR,T,RO,Romania,2024,177,e
+migr_emi3nxt,A,AR,Argentina,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AR,Argentina,REACH,TOTAL,NR,T,RO,Romania,2021,52,
+migr_emi3nxt,A,AR,Argentina,REACH,TOTAL,NR,T,RO,Romania,2022,15,e
+migr_emi3nxt,A,AR,Argentina,REACH,TOTAL,NR,T,RO,Romania,2023,54,e
+migr_emi3nxt,A,AR,Argentina,REACH,TOTAL,NR,T,RO,Romania,2024,19,e
+migr_emi3nxt,A,AR,Argentina,COMPLET,TOTAL,NR,T,RO,Romania,2021,52,
+migr_emi3nxt,A,AR,Argentina,COMPLET,TOTAL,NR,T,RO,Romania,2022,15,e
+migr_emi3nxt,A,AR,Argentina,COMPLET,TOTAL,NR,T,RO,Romania,2023,54,e
+migr_emi3nxt,A,AR,Argentina,COMPLET,TOTAL,NR,T,RO,Romania,2024,19,e
+migr_emi3nxt,A,BO,Bolivia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BO,Bolivia,REACH,TOTAL,NR,T,RO,Romania,2021,10,
+migr_emi3nxt,A,BO,Bolivia,REACH,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,BO,Bolivia,REACH,TOTAL,NR,T,RO,Romania,2023,8,e
+migr_emi3nxt,A,BO,Bolivia,REACH,TOTAL,NR,T,RO,Romania,2024,6,e
+migr_emi3nxt,A,BO,Bolivia,COMPLET,TOTAL,NR,T,RO,Romania,2021,10,
+migr_emi3nxt,A,BO,Bolivia,COMPLET,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,BO,Bolivia,COMPLET,TOTAL,NR,T,RO,Romania,2023,8,e
+migr_emi3nxt,A,BO,Bolivia,COMPLET,TOTAL,NR,T,RO,Romania,2024,6,e
+migr_emi3nxt,A,BR,Brazil,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BR,Brazil,REACH,TOTAL,NR,T,RO,Romania,2021,273,
+migr_emi3nxt,A,BR,Brazil,REACH,TOTAL,NR,T,RO,Romania,2022,92,e
+migr_emi3nxt,A,BR,Brazil,REACH,TOTAL,NR,T,RO,Romania,2023,293,e
+migr_emi3nxt,A,BR,Brazil,REACH,TOTAL,NR,T,RO,Romania,2024,62,e
+migr_emi3nxt,A,BR,Brazil,COMPLET,TOTAL,NR,T,RO,Romania,2021,273,
+migr_emi3nxt,A,BR,Brazil,COMPLET,TOTAL,NR,T,RO,Romania,2022,92,e
+migr_emi3nxt,A,BR,Brazil,COMPLET,TOTAL,NR,T,RO,Romania,2023,293,e
+migr_emi3nxt,A,BR,Brazil,COMPLET,TOTAL,NR,T,RO,Romania,2024,62,e
+migr_emi3nxt,A,CL,Chile,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CL,Chile,REACH,TOTAL,NR,T,RO,Romania,2021,28,
+migr_emi3nxt,A,CL,Chile,REACH,TOTAL,NR,T,RO,Romania,2022,16,e
+migr_emi3nxt,A,CL,Chile,REACH,TOTAL,NR,T,RO,Romania,2023,42,e
+migr_emi3nxt,A,CL,Chile,REACH,TOTAL,NR,T,RO,Romania,2024,13,e
+migr_emi3nxt,A,CL,Chile,COMPLET,TOTAL,NR,T,RO,Romania,2021,28,
+migr_emi3nxt,A,CL,Chile,COMPLET,TOTAL,NR,T,RO,Romania,2022,16,e
+migr_emi3nxt,A,CL,Chile,COMPLET,TOTAL,NR,T,RO,Romania,2023,42,e
+migr_emi3nxt,A,CL,Chile,COMPLET,TOTAL,NR,T,RO,Romania,2024,13,e
+migr_emi3nxt,A,CO,Colombia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CO,Colombia,REACH,TOTAL,NR,T,RO,Romania,2021,100,
+migr_emi3nxt,A,CO,Colombia,REACH,TOTAL,NR,T,RO,Romania,2022,25,e
+migr_emi3nxt,A,CO,Colombia,REACH,TOTAL,NR,T,RO,Romania,2023,188,e
+migr_emi3nxt,A,CO,Colombia,REACH,TOTAL,NR,T,RO,Romania,2024,23,e
+migr_emi3nxt,A,CO,Colombia,COMPLET,TOTAL,NR,T,RO,Romania,2021,100,
+migr_emi3nxt,A,CO,Colombia,COMPLET,TOTAL,NR,T,RO,Romania,2022,25,e
+migr_emi3nxt,A,CO,Colombia,COMPLET,TOTAL,NR,T,RO,Romania,2023,188,e
+migr_emi3nxt,A,CO,Colombia,COMPLET,TOTAL,NR,T,RO,Romania,2024,23,e
+migr_emi3nxt,A,EC,Ecuador,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,EC,Ecuador,REACH,TOTAL,NR,T,RO,Romania,2021,31,
+migr_emi3nxt,A,EC,Ecuador,REACH,TOTAL,NR,T,RO,Romania,2022,8,e
+migr_emi3nxt,A,EC,Ecuador,REACH,TOTAL,NR,T,RO,Romania,2023,47,e
+migr_emi3nxt,A,EC,Ecuador,REACH,TOTAL,NR,T,RO,Romania,2024,11,e
+migr_emi3nxt,A,EC,Ecuador,COMPLET,TOTAL,NR,T,RO,Romania,2021,31,
+migr_emi3nxt,A,EC,Ecuador,COMPLET,TOTAL,NR,T,RO,Romania,2022,8,e
+migr_emi3nxt,A,EC,Ecuador,COMPLET,TOTAL,NR,T,RO,Romania,2023,47,e
+migr_emi3nxt,A,EC,Ecuador,COMPLET,TOTAL,NR,T,RO,Romania,2024,11,e
+migr_emi3nxt,A,FK,Falkland Islands,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,FK,Falkland Islands,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,FK,Falkland Islands,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,FK,Falkland Islands,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,FK,Falkland Islands,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,FK,Falkland Islands,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,FK,Falkland Islands,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,FK,Falkland Islands,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,FK,Falkland Islands,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,GY,Guyana,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,GY,Guyana,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,GY,Guyana,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GY,Guyana,REACH,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,GY,Guyana,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,GY,Guyana,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,GY,Guyana,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,GY,Guyana,COMPLET,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,GY,Guyana,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,PY,Paraguay,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PY,Paraguay,REACH,TOTAL,NR,T,RO,Romania,2021,9,
+migr_emi3nxt,A,PY,Paraguay,REACH,TOTAL,NR,T,RO,Romania,2022,4,e
+migr_emi3nxt,A,PY,Paraguay,REACH,TOTAL,NR,T,RO,Romania,2023,9,e
+migr_emi3nxt,A,PY,Paraguay,REACH,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,PY,Paraguay,COMPLET,TOTAL,NR,T,RO,Romania,2021,9,
+migr_emi3nxt,A,PY,Paraguay,COMPLET,TOTAL,NR,T,RO,Romania,2022,4,e
+migr_emi3nxt,A,PY,Paraguay,COMPLET,TOTAL,NR,T,RO,Romania,2023,9,e
+migr_emi3nxt,A,PY,Paraguay,COMPLET,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,PE,Peru,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PE,Peru,REACH,TOTAL,NR,T,RO,Romania,2021,54,
+migr_emi3nxt,A,PE,Peru,REACH,TOTAL,NR,T,RO,Romania,2022,16,e
+migr_emi3nxt,A,PE,Peru,REACH,TOTAL,NR,T,RO,Romania,2023,73,e
+migr_emi3nxt,A,PE,Peru,REACH,TOTAL,NR,T,RO,Romania,2024,25,e
+migr_emi3nxt,A,PE,Peru,COMPLET,TOTAL,NR,T,RO,Romania,2021,54,
+migr_emi3nxt,A,PE,Peru,COMPLET,TOTAL,NR,T,RO,Romania,2022,16,e
+migr_emi3nxt,A,PE,Peru,COMPLET,TOTAL,NR,T,RO,Romania,2023,73,e
+migr_emi3nxt,A,PE,Peru,COMPLET,TOTAL,NR,T,RO,Romania,2024,25,e
+migr_emi3nxt,A,SR,Suriname,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SR,Suriname,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,SR,Suriname,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SR,Suriname,REACH,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,SR,Suriname,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,SR,Suriname,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,SR,Suriname,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SR,Suriname,COMPLET,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,SR,Suriname,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,UY,Uruguay,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,UY,Uruguay,REACH,TOTAL,NR,T,RO,Romania,2021,12,
+migr_emi3nxt,A,UY,Uruguay,REACH,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,UY,Uruguay,REACH,TOTAL,NR,T,RO,Romania,2023,9,e
+migr_emi3nxt,A,UY,Uruguay,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,UY,Uruguay,COMPLET,TOTAL,NR,T,RO,Romania,2021,12,
+migr_emi3nxt,A,UY,Uruguay,COMPLET,TOTAL,NR,T,RO,Romania,2022,5,e
+migr_emi3nxt,A,UY,Uruguay,COMPLET,TOTAL,NR,T,RO,Romania,2023,9,e
+migr_emi3nxt,A,UY,Uruguay,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,VE,Venezuela,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,VE,Venezuela,REACH,TOTAL,NR,T,RO,Romania,2021,115,
+migr_emi3nxt,A,VE,Venezuela,REACH,TOTAL,NR,T,RO,Romania,2022,38,e
+migr_emi3nxt,A,VE,Venezuela,REACH,TOTAL,NR,T,RO,Romania,2023,84,e
+migr_emi3nxt,A,VE,Venezuela,REACH,TOTAL,NR,T,RO,Romania,2024,12,e
+migr_emi3nxt,A,VE,Venezuela,COMPLET,TOTAL,NR,T,RO,Romania,2021,115,
+migr_emi3nxt,A,VE,Venezuela,COMPLET,TOTAL,NR,T,RO,Romania,2022,38,e
+migr_emi3nxt,A,VE,Venezuela,COMPLET,TOTAL,NR,T,RO,Romania,2023,84,e
+migr_emi3nxt,A,VE,Venezuela,COMPLET,TOTAL,NR,T,RO,Romania,2024,12,e
+migr_emi3nxt,A,ASI,Asia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,ASI,Asia,REACH,TOTAL,NR,T,RO,Romania,2022,9709,e
+migr_emi3nxt,A,ASI,Asia,REACH,TOTAL,NR,T,RO,Romania,2023,46608,e
+migr_emi3nxt,A,ASI,Asia,REACH,TOTAL,NR,T,RO,Romania,2024,4625,e
+migr_emi3nxt,A,ASI,Asia,COMPLET,TOTAL,NR,T,RO,Romania,2022,9709,e
+migr_emi3nxt,A,ASI,Asia,COMPLET,TOTAL,NR,T,RO,Romania,2023,46608,e
+migr_emi3nxt,A,ASI,Asia,COMPLET,TOTAL,NR,T,RO,Romania,2024,4625,e
+migr_emi3nxt,A,ASI_C,Central Asia,REACH,TOTAL,NR,T,RO,Romania,2018,100,
+migr_emi3nxt,A,ASI_C,Central Asia,REACH,TOTAL,NR,T,RO,Romania,2022,199,e
+migr_emi3nxt,A,ASI_C,Central Asia,REACH,TOTAL,NR,T,RO,Romania,2023,1233,e
+migr_emi3nxt,A,ASI_C,Central Asia,REACH,TOTAL,NR,T,RO,Romania,2024,194,e
+migr_emi3nxt,A,ASI_C,Central Asia,COMPLET,TOTAL,NR,T,RO,Romania,2022,199,e
+migr_emi3nxt,A,ASI_C,Central Asia,COMPLET,TOTAL,NR,T,RO,Romania,2023,1233,e
+migr_emi3nxt,A,ASI_C,Central Asia,COMPLET,TOTAL,NR,T,RO,Romania,2024,194,e
+migr_emi3nxt,A,KZ,Kazakhstan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,KZ,Kazakhstan,REACH,TOTAL,NR,T,RO,Romania,2021,180,
+migr_emi3nxt,A,KZ,Kazakhstan,REACH,TOTAL,NR,T,RO,Romania,2022,69,e
+migr_emi3nxt,A,KZ,Kazakhstan,REACH,TOTAL,NR,T,RO,Romania,2023,165,e
+migr_emi3nxt,A,KZ,Kazakhstan,REACH,TOTAL,NR,T,RO,Romania,2024,57,e
+migr_emi3nxt,A,KZ,Kazakhstan,COMPLET,TOTAL,NR,T,RO,Romania,2021,180,
+migr_emi3nxt,A,KZ,Kazakhstan,COMPLET,TOTAL,NR,T,RO,Romania,2022,69,e
+migr_emi3nxt,A,KZ,Kazakhstan,COMPLET,TOTAL,NR,T,RO,Romania,2023,165,e
+migr_emi3nxt,A,KZ,Kazakhstan,COMPLET,TOTAL,NR,T,RO,Romania,2024,57,e
+migr_emi3nxt,A,KG,Kyrgyzstan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,KG,Kyrgyzstan,REACH,TOTAL,NR,T,RO,Romania,2021,14,
+migr_emi3nxt,A,KG,Kyrgyzstan,REACH,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,KG,Kyrgyzstan,REACH,TOTAL,NR,T,RO,Romania,2023,17,e
+migr_emi3nxt,A,KG,Kyrgyzstan,REACH,TOTAL,NR,T,RO,Romania,2024,5,e
+migr_emi3nxt,A,KG,Kyrgyzstan,COMPLET,TOTAL,NR,T,RO,Romania,2021,14,
+migr_emi3nxt,A,KG,Kyrgyzstan,COMPLET,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,KG,Kyrgyzstan,COMPLET,TOTAL,NR,T,RO,Romania,2023,17,e
+migr_emi3nxt,A,KG,Kyrgyzstan,COMPLET,TOTAL,NR,T,RO,Romania,2024,5,e
+migr_emi3nxt,A,TJ,Tajikistan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TJ,Tajikistan,REACH,TOTAL,NR,T,RO,Romania,2021,21,
+migr_emi3nxt,A,TJ,Tajikistan,REACH,TOTAL,NR,T,RO,Romania,2022,30,e
+migr_emi3nxt,A,TJ,Tajikistan,REACH,TOTAL,NR,T,RO,Romania,2023,576,e
+migr_emi3nxt,A,TJ,Tajikistan,REACH,TOTAL,NR,T,RO,Romania,2024,42,e
+migr_emi3nxt,A,TJ,Tajikistan,COMPLET,TOTAL,NR,T,RO,Romania,2021,21,
+migr_emi3nxt,A,TJ,Tajikistan,COMPLET,TOTAL,NR,T,RO,Romania,2022,30,e
+migr_emi3nxt,A,TJ,Tajikistan,COMPLET,TOTAL,NR,T,RO,Romania,2023,576,e
+migr_emi3nxt,A,TJ,Tajikistan,COMPLET,TOTAL,NR,T,RO,Romania,2024,42,e
+migr_emi3nxt,A,TM,Turkmenistan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TM,Turkmenistan,REACH,TOTAL,NR,T,RO,Romania,2021,187,
+migr_emi3nxt,A,TM,Turkmenistan,REACH,TOTAL,NR,T,RO,Romania,2022,82,e
+migr_emi3nxt,A,TM,Turkmenistan,REACH,TOTAL,NR,T,RO,Romania,2023,399,e
+migr_emi3nxt,A,TM,Turkmenistan,REACH,TOTAL,NR,T,RO,Romania,2024,85,e
+migr_emi3nxt,A,TM,Turkmenistan,COMPLET,TOTAL,NR,T,RO,Romania,2021,187,
+migr_emi3nxt,A,TM,Turkmenistan,COMPLET,TOTAL,NR,T,RO,Romania,2022,82,e
+migr_emi3nxt,A,TM,Turkmenistan,COMPLET,TOTAL,NR,T,RO,Romania,2023,399,e
+migr_emi3nxt,A,TM,Turkmenistan,COMPLET,TOTAL,NR,T,RO,Romania,2024,85,e
+migr_emi3nxt,A,UZ,Uzbekistan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,UZ,Uzbekistan,REACH,TOTAL,NR,T,RO,Romania,2021,17,
+migr_emi3nxt,A,UZ,Uzbekistan,REACH,TOTAL,NR,T,RO,Romania,2022,15,e
+migr_emi3nxt,A,UZ,Uzbekistan,REACH,TOTAL,NR,T,RO,Romania,2023,76,e
+migr_emi3nxt,A,UZ,Uzbekistan,REACH,TOTAL,NR,T,RO,Romania,2024,5,e
+migr_emi3nxt,A,UZ,Uzbekistan,COMPLET,TOTAL,NR,T,RO,Romania,2021,17,
+migr_emi3nxt,A,UZ,Uzbekistan,COMPLET,TOTAL,NR,T,RO,Romania,2022,15,e
+migr_emi3nxt,A,UZ,Uzbekistan,COMPLET,TOTAL,NR,T,RO,Romania,2023,76,e
+migr_emi3nxt,A,UZ,Uzbekistan,COMPLET,TOTAL,NR,T,RO,Romania,2024,5,e
+migr_emi3nxt,A,ASI_E,Eastern Asia,REACH,TOTAL,NR,T,RO,Romania,2018,1627,
+migr_emi3nxt,A,ASI_E,Eastern Asia,REACH,TOTAL,NR,T,RO,Romania,2022,1794,e
+migr_emi3nxt,A,ASI_E,Eastern Asia,REACH,TOTAL,NR,T,RO,Romania,2023,3910,e
+migr_emi3nxt,A,ASI_E,Eastern Asia,REACH,TOTAL,NR,T,RO,Romania,2024,945,e
+migr_emi3nxt,A,ASI_E,Eastern Asia,COMPLET,TOTAL,NR,T,RO,Romania,2022,1794,e
+migr_emi3nxt,A,ASI_E,Eastern Asia,COMPLET,TOTAL,NR,T,RO,Romania,2023,3910,e
+migr_emi3nxt,A,ASI_E,Eastern Asia,COMPLET,TOTAL,NR,T,RO,Romania,2024,945,e
+migr_emi3nxt,A,CN,China,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,CN,China,REACH,TOTAL,NR,T,RO,Romania,2021,4302,
+migr_emi3nxt,A,CN,China,REACH,TOTAL,NR,T,RO,Romania,2022,1556,e
+migr_emi3nxt,A,CN,China,REACH,TOTAL,NR,T,RO,Romania,2023,3357,e
+migr_emi3nxt,A,CN,China,REACH,TOTAL,NR,T,RO,Romania,2024,839,e
+migr_emi3nxt,A,CN,China,COMPLET,TOTAL,NR,T,RO,Romania,2021,4302,
+migr_emi3nxt,A,CN,China,COMPLET,TOTAL,NR,T,RO,Romania,2022,1556,e
+migr_emi3nxt,A,CN,China,COMPLET,TOTAL,NR,T,RO,Romania,2023,3357,e
+migr_emi3nxt,A,CN,China,COMPLET,TOTAL,NR,T,RO,Romania,2024,839,e
+migr_emi3nxt,A,JP,Japan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,JP,Japan,REACH,TOTAL,NR,T,RO,Romania,2021,341,
+migr_emi3nxt,A,JP,Japan,REACH,TOTAL,NR,T,RO,Romania,2022,145,e
+migr_emi3nxt,A,JP,Japan,REACH,TOTAL,NR,T,RO,Romania,2023,305,e
+migr_emi3nxt,A,JP,Japan,REACH,TOTAL,NR,T,RO,Romania,2024,55,e
+migr_emi3nxt,A,JP,Japan,COMPLET,TOTAL,NR,T,RO,Romania,2021,341,
+migr_emi3nxt,A,JP,Japan,COMPLET,TOTAL,NR,T,RO,Romania,2022,145,e
+migr_emi3nxt,A,JP,Japan,COMPLET,TOTAL,NR,T,RO,Romania,2023,305,e
+migr_emi3nxt,A,JP,Japan,COMPLET,TOTAL,NR,T,RO,Romania,2024,55,e
+migr_emi3nxt,A,MN,Mongolia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MN,Mongolia,REACH,TOTAL,NR,T,RO,Romania,2021,24,
+migr_emi3nxt,A,MN,Mongolia,REACH,TOTAL,NR,T,RO,Romania,2022,6,e
+migr_emi3nxt,A,MN,Mongolia,REACH,TOTAL,NR,T,RO,Romania,2023,10,e
+migr_emi3nxt,A,MN,Mongolia,REACH,TOTAL,NR,T,RO,Romania,2024,6,e
+migr_emi3nxt,A,MN,Mongolia,COMPLET,TOTAL,NR,T,RO,Romania,2021,24,
+migr_emi3nxt,A,MN,Mongolia,COMPLET,TOTAL,NR,T,RO,Romania,2022,6,e
+migr_emi3nxt,A,MN,Mongolia,COMPLET,TOTAL,NR,T,RO,Romania,2023,10,e
+migr_emi3nxt,A,MN,Mongolia,COMPLET,TOTAL,NR,T,RO,Romania,2024,6,e
+migr_emi3nxt,A,KP,North Korea,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,KP,North Korea,REACH,TOTAL,NR,T,RO,Romania,2021,5,
+migr_emi3nxt,A,KP,North Korea,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,KP,North Korea,REACH,TOTAL,NR,T,RO,Romania,2023,229,e
+migr_emi3nxt,A,KP,North Korea,REACH,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,KP,North Korea,COMPLET,TOTAL,NR,T,RO,Romania,2021,5,
+migr_emi3nxt,A,KP,North Korea,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,KP,North Korea,COMPLET,TOTAL,NR,T,RO,Romania,2023,229,e
+migr_emi3nxt,A,KP,North Korea,COMPLET,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,KR,South Korea,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,KR,South Korea,REACH,TOTAL,NR,T,RO,Romania,2021,295,
+migr_emi3nxt,A,KR,South Korea,REACH,TOTAL,NR,T,RO,Romania,2022,86,e
+migr_emi3nxt,A,KR,South Korea,REACH,TOTAL,NR,T,RO,Romania,2023,3,e
+migr_emi3nxt,A,KR,South Korea,REACH,TOTAL,NR,T,RO,Romania,2024,41,e
+migr_emi3nxt,A,KR,South Korea,COMPLET,TOTAL,NR,T,RO,Romania,2021,295,
+migr_emi3nxt,A,KR,South Korea,COMPLET,TOTAL,NR,T,RO,Romania,2022,86,e
+migr_emi3nxt,A,KR,South Korea,COMPLET,TOTAL,NR,T,RO,Romania,2023,3,e
+migr_emi3nxt,A,KR,South Korea,COMPLET,TOTAL,NR,T,RO,Romania,2024,41,e
+migr_emi3nxt,A,TW,Taiwan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TW,Taiwan,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,TW,Taiwan,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,TW,Taiwan,REACH,TOTAL,NR,T,RO,Romania,2023,6,e
+migr_emi3nxt,A,TW,Taiwan,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,TW,Taiwan,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,TW,Taiwan,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,TW,Taiwan,COMPLET,TOTAL,NR,T,RO,Romania,2023,6,e
+migr_emi3nxt,A,TW,Taiwan,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,ASI_S,Southern Asia,REACH,TOTAL,NR,T,RO,Romania,2018,999,
+migr_emi3nxt,A,ASI_S,Southern Asia,REACH,TOTAL,NR,T,RO,Romania,2022,3288,e
+migr_emi3nxt,A,ASI_S,Southern Asia,REACH,TOTAL,NR,T,RO,Romania,2023,31375,e
+migr_emi3nxt,A,ASI_S,Southern Asia,REACH,TOTAL,NR,T,RO,Romania,2024,1254,e
+migr_emi3nxt,A,ASI_S,Southern Asia,COMPLET,TOTAL,NR,T,RO,Romania,2022,3288,e
+migr_emi3nxt,A,ASI_S,Southern Asia,COMPLET,TOTAL,NR,T,RO,Romania,2023,31375,e
+migr_emi3nxt,A,ASI_S,Southern Asia,COMPLET,TOTAL,NR,T,RO,Romania,2024,1254,e
+migr_emi3nxt,A,AF,Afghanistan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AF,Afghanistan,REACH,TOTAL,NR,T,RO,Romania,2021,55,
+migr_emi3nxt,A,AF,Afghanistan,REACH,TOTAL,NR,T,RO,Romania,2022,17,e
+migr_emi3nxt,A,AF,Afghanistan,REACH,TOTAL,NR,T,RO,Romania,2023,61,e
+migr_emi3nxt,A,AF,Afghanistan,REACH,TOTAL,NR,T,RO,Romania,2024,35,e
+migr_emi3nxt,A,AF,Afghanistan,COMPLET,TOTAL,NR,T,RO,Romania,2021,55,
+migr_emi3nxt,A,AF,Afghanistan,COMPLET,TOTAL,NR,T,RO,Romania,2022,17,e
+migr_emi3nxt,A,AF,Afghanistan,COMPLET,TOTAL,NR,T,RO,Romania,2023,61,e
+migr_emi3nxt,A,AF,Afghanistan,COMPLET,TOTAL,NR,T,RO,Romania,2024,35,e
+migr_emi3nxt,A,BD,Bangladesh,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BD,Bangladesh,REACH,TOTAL,NR,T,RO,Romania,2021,250,
+migr_emi3nxt,A,BD,Bangladesh,REACH,TOTAL,NR,T,RO,Romania,2022,247,e
+migr_emi3nxt,A,BD,Bangladesh,REACH,TOTAL,NR,T,RO,Romania,2023,3367,e
+migr_emi3nxt,A,BD,Bangladesh,REACH,TOTAL,NR,T,RO,Romania,2024,165,e
+migr_emi3nxt,A,BD,Bangladesh,COMPLET,TOTAL,NR,T,RO,Romania,2021,250,
+migr_emi3nxt,A,BD,Bangladesh,COMPLET,TOTAL,NR,T,RO,Romania,2022,247,e
+migr_emi3nxt,A,BD,Bangladesh,COMPLET,TOTAL,NR,T,RO,Romania,2023,3367,e
+migr_emi3nxt,A,BD,Bangladesh,COMPLET,TOTAL,NR,T,RO,Romania,2024,165,e
+migr_emi3nxt,A,BT,Bhutan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BT,Bhutan,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BT,Bhutan,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BT,Bhutan,REACH,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,BT,Bhutan,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,BT,Bhutan,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BT,Bhutan,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BT,Bhutan,COMPLET,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,BT,Bhutan,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,IN,India,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,IN,India,REACH,TOTAL,NR,T,RO,Romania,2021,1908,
+migr_emi3nxt,A,IN,India,REACH,TOTAL,NR,T,RO,Romania,2022,941,e
+migr_emi3nxt,A,IN,India,REACH,TOTAL,NR,T,RO,Romania,2023,5474,e
+migr_emi3nxt,A,IN,India,REACH,TOTAL,NR,T,RO,Romania,2024,234,e
+migr_emi3nxt,A,IN,India,COMPLET,TOTAL,NR,T,RO,Romania,2021,1908,
+migr_emi3nxt,A,IN,India,COMPLET,TOTAL,NR,T,RO,Romania,2022,941,e
+migr_emi3nxt,A,IN,India,COMPLET,TOTAL,NR,T,RO,Romania,2023,5474,e
+migr_emi3nxt,A,IN,India,COMPLET,TOTAL,NR,T,RO,Romania,2024,234,e
+migr_emi3nxt,A,IR,Iran,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,IR,Iran,REACH,TOTAL,NR,T,RO,Romania,2021,465,
+migr_emi3nxt,A,IR,Iran,REACH,TOTAL,NR,T,RO,Romania,2022,179,e
+migr_emi3nxt,A,IR,Iran,REACH,TOTAL,NR,T,RO,Romania,2023,776,e
+migr_emi3nxt,A,IR,Iran,REACH,TOTAL,NR,T,RO,Romania,2024,207,e
+migr_emi3nxt,A,IR,Iran,COMPLET,TOTAL,NR,T,RO,Romania,2021,465,
+migr_emi3nxt,A,IR,Iran,COMPLET,TOTAL,NR,T,RO,Romania,2022,179,e
+migr_emi3nxt,A,IR,Iran,COMPLET,TOTAL,NR,T,RO,Romania,2023,776,e
+migr_emi3nxt,A,IR,Iran,COMPLET,TOTAL,NR,T,RO,Romania,2024,207,e
+migr_emi3nxt,A,MV,Maldives,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MV,Maldives,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,MV,Maldives,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MV,Maldives,REACH,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,MV,Maldives,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,MV,Maldives,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,MV,Maldives,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MV,Maldives,COMPLET,TOTAL,NR,T,RO,Romania,2023,2,e
+migr_emi3nxt,A,MV,Maldives,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,NP,Nepal,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,NP,Nepal,REACH,TOTAL,NR,T,RO,Romania,2021,2294,
+migr_emi3nxt,A,NP,Nepal,REACH,TOTAL,NR,T,RO,Romania,2022,773,e
+migr_emi3nxt,A,NP,Nepal,REACH,TOTAL,NR,T,RO,Romania,2023,11414,e
+migr_emi3nxt,A,NP,Nepal,REACH,TOTAL,NR,T,RO,Romania,2024,212,e
+migr_emi3nxt,A,NP,Nepal,COMPLET,TOTAL,NR,T,RO,Romania,2021,2294,
+migr_emi3nxt,A,NP,Nepal,COMPLET,TOTAL,NR,T,RO,Romania,2022,773,e
+migr_emi3nxt,A,NP,Nepal,COMPLET,TOTAL,NR,T,RO,Romania,2023,11414,e
+migr_emi3nxt,A,NP,Nepal,COMPLET,TOTAL,NR,T,RO,Romania,2024,212,e
+migr_emi3nxt,A,PK,Pakistan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PK,Pakistan,REACH,TOTAL,NR,T,RO,Romania,2021,581,
+migr_emi3nxt,A,PK,Pakistan,REACH,TOTAL,NR,T,RO,Romania,2022,173,e
+migr_emi3nxt,A,PK,Pakistan,REACH,TOTAL,NR,T,RO,Romania,2023,2156,e
+migr_emi3nxt,A,PK,Pakistan,REACH,TOTAL,NR,T,RO,Romania,2024,136,e
+migr_emi3nxt,A,PK,Pakistan,COMPLET,TOTAL,NR,T,RO,Romania,2021,581,
+migr_emi3nxt,A,PK,Pakistan,COMPLET,TOTAL,NR,T,RO,Romania,2022,173,e
+migr_emi3nxt,A,PK,Pakistan,COMPLET,TOTAL,NR,T,RO,Romania,2023,2156,e
+migr_emi3nxt,A,PK,Pakistan,COMPLET,TOTAL,NR,T,RO,Romania,2024,136,e
+migr_emi3nxt,A,LK,Sri Lanka,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,LK,Sri Lanka,REACH,TOTAL,NR,T,RO,Romania,2021,2421,
+migr_emi3nxt,A,LK,Sri Lanka,REACH,TOTAL,NR,T,RO,Romania,2022,958,e
+migr_emi3nxt,A,LK,Sri Lanka,REACH,TOTAL,NR,T,RO,Romania,2023,8124,e
+migr_emi3nxt,A,LK,Sri Lanka,REACH,TOTAL,NR,T,RO,Romania,2024,265,e
+migr_emi3nxt,A,LK,Sri Lanka,COMPLET,TOTAL,NR,T,RO,Romania,2021,2421,
+migr_emi3nxt,A,LK,Sri Lanka,COMPLET,TOTAL,NR,T,RO,Romania,2022,958,e
+migr_emi3nxt,A,LK,Sri Lanka,COMPLET,TOTAL,NR,T,RO,Romania,2023,8124,e
+migr_emi3nxt,A,LK,Sri Lanka,COMPLET,TOTAL,NR,T,RO,Romania,2024,265,e
+migr_emi3nxt,A,ASI_S_E,South-Eastern Asia,REACH,TOTAL,NR,T,RO,Romania,2018,498,
+migr_emi3nxt,A,ASI_S_E,South-Eastern Asia,REACH,TOTAL,NR,T,RO,Romania,2022,2231,e
+migr_emi3nxt,A,ASI_S_E,South-Eastern Asia,REACH,TOTAL,NR,T,RO,Romania,2023,4897,e
+migr_emi3nxt,A,ASI_S_E,South-Eastern Asia,REACH,TOTAL,NR,T,RO,Romania,2024,327,e
+migr_emi3nxt,A,ASI_S_E,South-Eastern Asia,COMPLET,TOTAL,NR,T,RO,Romania,2022,2231,e
+migr_emi3nxt,A,ASI_S_E,South-Eastern Asia,COMPLET,TOTAL,NR,T,RO,Romania,2023,4897,e
+migr_emi3nxt,A,ASI_S_E,South-Eastern Asia,COMPLET,TOTAL,NR,T,RO,Romania,2024,327,e
+migr_emi3nxt,A,BN,Brunei Darussalam,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BN,Brunei Darussalam,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BN,Brunei Darussalam,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BN,Brunei Darussalam,REACH,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,BN,Brunei Darussalam,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,BN,Brunei Darussalam,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,BN,Brunei Darussalam,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BN,Brunei Darussalam,COMPLET,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,BN,Brunei Darussalam,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,KH,Cambodia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,KH,Cambodia,REACH,TOTAL,NR,T,RO,Romania,2021,3,
+migr_emi3nxt,A,KH,Cambodia,REACH,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,KH,Cambodia,REACH,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,KH,Cambodia,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,KH,Cambodia,COMPLET,TOTAL,NR,T,RO,Romania,2021,3,
+migr_emi3nxt,A,KH,Cambodia,COMPLET,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,KH,Cambodia,COMPLET,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,KH,Cambodia,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,ID,Indonesia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,ID,Indonesia,REACH,TOTAL,NR,T,RO,Romania,2021,118,
+migr_emi3nxt,A,ID,Indonesia,REACH,TOTAL,NR,T,RO,Romania,2022,41,e
+migr_emi3nxt,A,ID,Indonesia,REACH,TOTAL,NR,T,RO,Romania,2023,321,e
+migr_emi3nxt,A,ID,Indonesia,REACH,TOTAL,NR,T,RO,Romania,2024,79,e
+migr_emi3nxt,A,ID,Indonesia,COMPLET,TOTAL,NR,T,RO,Romania,2021,118,
+migr_emi3nxt,A,ID,Indonesia,COMPLET,TOTAL,NR,T,RO,Romania,2022,41,e
+migr_emi3nxt,A,ID,Indonesia,COMPLET,TOTAL,NR,T,RO,Romania,2023,321,e
+migr_emi3nxt,A,ID,Indonesia,COMPLET,TOTAL,NR,T,RO,Romania,2024,79,e
+migr_emi3nxt,A,LA,Laos,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,LA,Laos,REACH,TOTAL,NR,T,RO,Romania,2021,5,
+migr_emi3nxt,A,LA,Laos,REACH,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,LA,Laos,REACH,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,LA,Laos,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,LA,Laos,COMPLET,TOTAL,NR,T,RO,Romania,2021,5,
+migr_emi3nxt,A,LA,Laos,COMPLET,TOTAL,NR,T,RO,Romania,2022,2,e
+migr_emi3nxt,A,LA,Laos,COMPLET,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,LA,Laos,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,MY,Malaysia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MY,Malaysia,REACH,TOTAL,NR,T,RO,Romania,2021,17,
+migr_emi3nxt,A,MY,Malaysia,REACH,TOTAL,NR,T,RO,Romania,2022,12,e
+migr_emi3nxt,A,MY,Malaysia,REACH,TOTAL,NR,T,RO,Romania,2023,38,e
+migr_emi3nxt,A,MY,Malaysia,REACH,TOTAL,NR,T,RO,Romania,2024,9,e
+migr_emi3nxt,A,MY,Malaysia,COMPLET,TOTAL,NR,T,RO,Romania,2021,17,
+migr_emi3nxt,A,MY,Malaysia,COMPLET,TOTAL,NR,T,RO,Romania,2022,12,e
+migr_emi3nxt,A,MY,Malaysia,COMPLET,TOTAL,NR,T,RO,Romania,2023,38,e
+migr_emi3nxt,A,MY,Malaysia,COMPLET,TOTAL,NR,T,RO,Romania,2024,9,e
+migr_emi3nxt,A,MM,Myanmar/Burma,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MM,Myanmar/Burma,REACH,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,MM,Myanmar/Burma,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MM,Myanmar/Burma,REACH,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,MM,Myanmar/Burma,REACH,TOTAL,NR,T,RO,Romania,2024,7,e
+migr_emi3nxt,A,MM,Myanmar/Burma,COMPLET,TOTAL,NR,T,RO,Romania,2021,4,
+migr_emi3nxt,A,MM,Myanmar/Burma,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MM,Myanmar/Burma,COMPLET,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,MM,Myanmar/Burma,COMPLET,TOTAL,NR,T,RO,Romania,2024,7,e
+migr_emi3nxt,A,PH,Philippines,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PH,Philippines,REACH,TOTAL,NR,T,RO,Romania,2021,1225,
+migr_emi3nxt,A,PH,Philippines,REACH,TOTAL,NR,T,RO,Romania,2022,347,e
+migr_emi3nxt,A,PH,Philippines,REACH,TOTAL,NR,T,RO,Romania,2023,1724,e
+migr_emi3nxt,A,PH,Philippines,REACH,TOTAL,NR,T,RO,Romania,2024,92,e
+migr_emi3nxt,A,PH,Philippines,COMPLET,TOTAL,NR,T,RO,Romania,2021,1225,
+migr_emi3nxt,A,PH,Philippines,COMPLET,TOTAL,NR,T,RO,Romania,2022,347,e
+migr_emi3nxt,A,PH,Philippines,COMPLET,TOTAL,NR,T,RO,Romania,2023,1724,e
+migr_emi3nxt,A,PH,Philippines,COMPLET,TOTAL,NR,T,RO,Romania,2024,92,e
+migr_emi3nxt,A,SG,Singapore,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SG,Singapore,REACH,TOTAL,NR,T,RO,Romania,2021,11,
+migr_emi3nxt,A,SG,Singapore,REACH,TOTAL,NR,T,RO,Romania,2022,12,e
+migr_emi3nxt,A,SG,Singapore,REACH,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,SG,Singapore,REACH,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,SG,Singapore,COMPLET,TOTAL,NR,T,RO,Romania,2021,11,
+migr_emi3nxt,A,SG,Singapore,COMPLET,TOTAL,NR,T,RO,Romania,2022,12,e
+migr_emi3nxt,A,SG,Singapore,COMPLET,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,SG,Singapore,COMPLET,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,TH,Thailand,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TH,Thailand,REACH,TOTAL,NR,T,RO,Romania,2021,98,
+migr_emi3nxt,A,TH,Thailand,REACH,TOTAL,NR,T,RO,Romania,2022,51,e
+migr_emi3nxt,A,TH,Thailand,REACH,TOTAL,NR,T,RO,Romania,2023,81,e
+migr_emi3nxt,A,TH,Thailand,REACH,TOTAL,NR,T,RO,Romania,2024,18,e
+migr_emi3nxt,A,TH,Thailand,COMPLET,TOTAL,NR,T,RO,Romania,2021,98,
+migr_emi3nxt,A,TH,Thailand,COMPLET,TOTAL,NR,T,RO,Romania,2022,51,e
+migr_emi3nxt,A,TH,Thailand,COMPLET,TOTAL,NR,T,RO,Romania,2023,81,e
+migr_emi3nxt,A,TH,Thailand,COMPLET,TOTAL,NR,T,RO,Romania,2024,18,e
+migr_emi3nxt,A,TL,Timor-Leste,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TL,Timor-Leste,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,TL,Timor-Leste,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,TL,Timor-Leste,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,TL,Timor-Leste,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,TL,Timor-Leste,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,TL,Timor-Leste,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,TL,Timor-Leste,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,TL,Timor-Leste,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,VN,Viet Nam,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,VN,Viet Nam,REACH,TOTAL,NR,T,RO,Romania,2021,6142,
+migr_emi3nxt,A,VN,Viet Nam,REACH,TOTAL,NR,T,RO,Romania,2022,1763,e
+migr_emi3nxt,A,VN,Viet Nam,REACH,TOTAL,NR,T,RO,Romania,2023,2706,e
+migr_emi3nxt,A,VN,Viet Nam,REACH,TOTAL,NR,T,RO,Romania,2024,116,e
+migr_emi3nxt,A,VN,Viet Nam,COMPLET,TOTAL,NR,T,RO,Romania,2021,6142,
+migr_emi3nxt,A,VN,Viet Nam,COMPLET,TOTAL,NR,T,RO,Romania,2022,1763,e
+migr_emi3nxt,A,VN,Viet Nam,COMPLET,TOTAL,NR,T,RO,Romania,2023,2706,e
+migr_emi3nxt,A,VN,Viet Nam,COMPLET,TOTAL,NR,T,RO,Romania,2024,116,e
+migr_emi3nxt,A,ASI_W,Western Asia,REACH,TOTAL,NR,T,RO,Romania,2018,3714,
+migr_emi3nxt,A,ASI_W,Western Asia,REACH,TOTAL,NR,T,RO,Romania,2022,2197,e
+migr_emi3nxt,A,ASI_W,Western Asia,REACH,TOTAL,NR,T,RO,Romania,2023,5193,e
+migr_emi3nxt,A,ASI_W,Western Asia,REACH,TOTAL,NR,T,RO,Romania,2024,1905,e
+migr_emi3nxt,A,ASI_W,Western Asia,COMPLET,TOTAL,NR,T,RO,Romania,2022,2197,e
+migr_emi3nxt,A,ASI_W,Western Asia,COMPLET,TOTAL,NR,T,RO,Romania,2023,5193,e
+migr_emi3nxt,A,ASI_W,Western Asia,COMPLET,TOTAL,NR,T,RO,Romania,2024,1905,e
+migr_emi3nxt,A,AM,Armenia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AM,Armenia,REACH,TOTAL,NR,T,RO,Romania,2021,61,
+migr_emi3nxt,A,AM,Armenia,REACH,TOTAL,NR,T,RO,Romania,2022,19,e
+migr_emi3nxt,A,AM,Armenia,REACH,TOTAL,NR,T,RO,Romania,2023,75,e
+migr_emi3nxt,A,AM,Armenia,REACH,TOTAL,NR,T,RO,Romania,2024,27,e
+migr_emi3nxt,A,AM,Armenia,COMPLET,TOTAL,NR,T,RO,Romania,2021,61,
+migr_emi3nxt,A,AM,Armenia,COMPLET,TOTAL,NR,T,RO,Romania,2022,19,e
+migr_emi3nxt,A,AM,Armenia,COMPLET,TOTAL,NR,T,RO,Romania,2023,75,e
+migr_emi3nxt,A,AM,Armenia,COMPLET,TOTAL,NR,T,RO,Romania,2024,27,e
+migr_emi3nxt,A,AZ,Azerbaijan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AZ,Azerbaijan,REACH,TOTAL,NR,T,RO,Romania,2021,65,
+migr_emi3nxt,A,AZ,Azerbaijan,REACH,TOTAL,NR,T,RO,Romania,2022,26,e
+migr_emi3nxt,A,AZ,Azerbaijan,REACH,TOTAL,NR,T,RO,Romania,2023,73,e
+migr_emi3nxt,A,AZ,Azerbaijan,REACH,TOTAL,NR,T,RO,Romania,2024,41,e
+migr_emi3nxt,A,AZ,Azerbaijan,COMPLET,TOTAL,NR,T,RO,Romania,2021,65,
+migr_emi3nxt,A,AZ,Azerbaijan,COMPLET,TOTAL,NR,T,RO,Romania,2022,26,e
+migr_emi3nxt,A,AZ,Azerbaijan,COMPLET,TOTAL,NR,T,RO,Romania,2023,73,e
+migr_emi3nxt,A,AZ,Azerbaijan,COMPLET,TOTAL,NR,T,RO,Romania,2024,41,e
+migr_emi3nxt,A,BH,Bahrain,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,BH,Bahrain,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,BH,Bahrain,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BH,Bahrain,REACH,TOTAL,NR,T,RO,Romania,2023,3,e
+migr_emi3nxt,A,BH,Bahrain,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,BH,Bahrain,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,BH,Bahrain,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,BH,Bahrain,COMPLET,TOTAL,NR,T,RO,Romania,2023,3,e
+migr_emi3nxt,A,BH,Bahrain,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,IQ,Iraq,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,IQ,Iraq,REACH,TOTAL,NR,T,RO,Romania,2021,820,
+migr_emi3nxt,A,IQ,Iraq,REACH,TOTAL,NR,T,RO,Romania,2022,289,e
+migr_emi3nxt,A,IQ,Iraq,REACH,TOTAL,NR,T,RO,Romania,2023,688,e
+migr_emi3nxt,A,IQ,Iraq,REACH,TOTAL,NR,T,RO,Romania,2024,232,e
+migr_emi3nxt,A,IQ,Iraq,COMPLET,TOTAL,NR,T,RO,Romania,2021,820,
+migr_emi3nxt,A,IQ,Iraq,COMPLET,TOTAL,NR,T,RO,Romania,2022,289,e
+migr_emi3nxt,A,IQ,Iraq,COMPLET,TOTAL,NR,T,RO,Romania,2023,688,e
+migr_emi3nxt,A,IQ,Iraq,COMPLET,TOTAL,NR,T,RO,Romania,2024,232,e
+migr_emi3nxt,A,IL,Israel,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,IL,Israel,REACH,TOTAL,NR,T,RO,Romania,2021,1268,
+migr_emi3nxt,A,IL,Israel,REACH,TOTAL,NR,T,RO,Romania,2022,761,e
+migr_emi3nxt,A,IL,Israel,REACH,TOTAL,NR,T,RO,Romania,2023,1205,e
+migr_emi3nxt,A,IL,Israel,REACH,TOTAL,NR,T,RO,Romania,2024,588,e
+migr_emi3nxt,A,IL,Israel,COMPLET,TOTAL,NR,T,RO,Romania,2021,1268,
+migr_emi3nxt,A,IL,Israel,COMPLET,TOTAL,NR,T,RO,Romania,2022,761,e
+migr_emi3nxt,A,IL,Israel,COMPLET,TOTAL,NR,T,RO,Romania,2023,1205,e
+migr_emi3nxt,A,IL,Israel,COMPLET,TOTAL,NR,T,RO,Romania,2024,588,e
+migr_emi3nxt,A,JO,Jordan,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,JO,Jordan,REACH,TOTAL,NR,T,RO,Romania,2021,468,
+migr_emi3nxt,A,JO,Jordan,REACH,TOTAL,NR,T,RO,Romania,2022,185,e
+migr_emi3nxt,A,JO,Jordan,REACH,TOTAL,NR,T,RO,Romania,2023,535,e
+migr_emi3nxt,A,JO,Jordan,REACH,TOTAL,NR,T,RO,Romania,2024,153,e
+migr_emi3nxt,A,JO,Jordan,COMPLET,TOTAL,NR,T,RO,Romania,2021,468,
+migr_emi3nxt,A,JO,Jordan,COMPLET,TOTAL,NR,T,RO,Romania,2022,185,e
+migr_emi3nxt,A,JO,Jordan,COMPLET,TOTAL,NR,T,RO,Romania,2023,535,e
+migr_emi3nxt,A,JO,Jordan,COMPLET,TOTAL,NR,T,RO,Romania,2024,153,e
+migr_emi3nxt,A,KW,Kuwait,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,KW,Kuwait,REACH,TOTAL,NR,T,RO,Romania,2021,12,
+migr_emi3nxt,A,KW,Kuwait,REACH,TOTAL,NR,T,RO,Romania,2022,4,e
+migr_emi3nxt,A,KW,Kuwait,REACH,TOTAL,NR,T,RO,Romania,2023,8,e
+migr_emi3nxt,A,KW,Kuwait,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,KW,Kuwait,COMPLET,TOTAL,NR,T,RO,Romania,2021,12,
+migr_emi3nxt,A,KW,Kuwait,COMPLET,TOTAL,NR,T,RO,Romania,2022,4,e
+migr_emi3nxt,A,KW,Kuwait,COMPLET,TOTAL,NR,T,RO,Romania,2023,8,e
+migr_emi3nxt,A,KW,Kuwait,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,LB,Lebanon,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,LB,Lebanon,REACH,TOTAL,NR,T,RO,Romania,2021,526,
+migr_emi3nxt,A,LB,Lebanon,REACH,TOTAL,NR,T,RO,Romania,2022,201,e
+migr_emi3nxt,A,LB,Lebanon,REACH,TOTAL,NR,T,RO,Romania,2023,821,e
+migr_emi3nxt,A,LB,Lebanon,REACH,TOTAL,NR,T,RO,Romania,2024,179,e
+migr_emi3nxt,A,LB,Lebanon,COMPLET,TOTAL,NR,T,RO,Romania,2021,526,
+migr_emi3nxt,A,LB,Lebanon,COMPLET,TOTAL,NR,T,RO,Romania,2022,201,e
+migr_emi3nxt,A,LB,Lebanon,COMPLET,TOTAL,NR,T,RO,Romania,2023,821,e
+migr_emi3nxt,A,LB,Lebanon,COMPLET,TOTAL,NR,T,RO,Romania,2024,179,e
+migr_emi3nxt,A,PS,Palestine*,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PS,Palestine*,REACH,TOTAL,NR,T,RO,Romania,2021,256,
+migr_emi3nxt,A,PS,Palestine*,REACH,TOTAL,NR,T,RO,Romania,2022,119,e
+migr_emi3nxt,A,PS,Palestine*,REACH,TOTAL,NR,T,RO,Romania,2023,271,e
+migr_emi3nxt,A,PS,Palestine*,REACH,TOTAL,NR,T,RO,Romania,2024,122,e
+migr_emi3nxt,A,PS,Palestine*,COMPLET,TOTAL,NR,T,RO,Romania,2021,256,
+migr_emi3nxt,A,PS,Palestine*,COMPLET,TOTAL,NR,T,RO,Romania,2022,119,e
+migr_emi3nxt,A,PS,Palestine*,COMPLET,TOTAL,NR,T,RO,Romania,2023,271,e
+migr_emi3nxt,A,PS,Palestine*,COMPLET,TOTAL,NR,T,RO,Romania,2024,122,e
+migr_emi3nxt,A,OM,Oman,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,OM,Oman,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,OM,Oman,REACH,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,OM,Oman,REACH,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,OM,Oman,REACH,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,OM,Oman,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,OM,Oman,COMPLET,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,OM,Oman,COMPLET,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,OM,Oman,COMPLET,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,QA,Qatar,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,QA,Qatar,REACH,TOTAL,NR,T,RO,Romania,2021,17,
+migr_emi3nxt,A,QA,Qatar,REACH,TOTAL,NR,T,RO,Romania,2022,6,e
+migr_emi3nxt,A,QA,Qatar,REACH,TOTAL,NR,T,RO,Romania,2023,10,e
+migr_emi3nxt,A,QA,Qatar,REACH,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,QA,Qatar,COMPLET,TOTAL,NR,T,RO,Romania,2021,17,
+migr_emi3nxt,A,QA,Qatar,COMPLET,TOTAL,NR,T,RO,Romania,2022,6,e
+migr_emi3nxt,A,QA,Qatar,COMPLET,TOTAL,NR,T,RO,Romania,2023,10,e
+migr_emi3nxt,A,QA,Qatar,COMPLET,TOTAL,NR,T,RO,Romania,2024,4,e
+migr_emi3nxt,A,SA,Saudi Arabia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SA,Saudi Arabia,REACH,TOTAL,NR,T,RO,Romania,2021,22,
+migr_emi3nxt,A,SA,Saudi Arabia,REACH,TOTAL,NR,T,RO,Romania,2022,9,e
+migr_emi3nxt,A,SA,Saudi Arabia,REACH,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,SA,Saudi Arabia,REACH,TOTAL,NR,T,RO,Romania,2024,10,e
+migr_emi3nxt,A,SA,Saudi Arabia,COMPLET,TOTAL,NR,T,RO,Romania,2021,22,
+migr_emi3nxt,A,SA,Saudi Arabia,COMPLET,TOTAL,NR,T,RO,Romania,2022,9,e
+migr_emi3nxt,A,SA,Saudi Arabia,COMPLET,TOTAL,NR,T,RO,Romania,2023,12,e
+migr_emi3nxt,A,SA,Saudi Arabia,COMPLET,TOTAL,NR,T,RO,Romania,2024,10,e
+migr_emi3nxt,A,SY,Syria,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SY,Syria,REACH,TOTAL,NR,T,RO,Romania,2021,902,
+migr_emi3nxt,A,SY,Syria,REACH,TOTAL,NR,T,RO,Romania,2022,465,e
+migr_emi3nxt,A,SY,Syria,REACH,TOTAL,NR,T,RO,Romania,2023,1268,e
+migr_emi3nxt,A,SY,Syria,REACH,TOTAL,NR,T,RO,Romania,2024,475,e
+migr_emi3nxt,A,SY,Syria,COMPLET,TOTAL,NR,T,RO,Romania,2021,902,
+migr_emi3nxt,A,SY,Syria,COMPLET,TOTAL,NR,T,RO,Romania,2022,465,e
+migr_emi3nxt,A,SY,Syria,COMPLET,TOTAL,NR,T,RO,Romania,2023,1268,e
+migr_emi3nxt,A,SY,Syria,COMPLET,TOTAL,NR,T,RO,Romania,2024,475,e
+migr_emi3nxt,A,AE,United Arab Emirates,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AE,United Arab Emirates,REACH,TOTAL,NR,T,RO,Romania,2021,43,
+migr_emi3nxt,A,AE,United Arab Emirates,REACH,TOTAL,NR,T,RO,Romania,2022,44,e
+migr_emi3nxt,A,AE,United Arab Emirates,REACH,TOTAL,NR,T,RO,Romania,2023,44,e
+migr_emi3nxt,A,AE,United Arab Emirates,REACH,TOTAL,NR,T,RO,Romania,2024,29,e
+migr_emi3nxt,A,AE,United Arab Emirates,COMPLET,TOTAL,NR,T,RO,Romania,2021,43,
+migr_emi3nxt,A,AE,United Arab Emirates,COMPLET,TOTAL,NR,T,RO,Romania,2022,44,e
+migr_emi3nxt,A,AE,United Arab Emirates,COMPLET,TOTAL,NR,T,RO,Romania,2023,44,e
+migr_emi3nxt,A,AE,United Arab Emirates,COMPLET,TOTAL,NR,T,RO,Romania,2024,29,e
+migr_emi3nxt,A,YE,Yemen,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,YE,Yemen,REACH,TOTAL,NR,T,RO,Romania,2021,54,
+migr_emi3nxt,A,YE,Yemen,REACH,TOTAL,NR,T,RO,Romania,2022,35,e
+migr_emi3nxt,A,YE,Yemen,REACH,TOTAL,NR,T,RO,Romania,2023,48,e
+migr_emi3nxt,A,YE,Yemen,REACH,TOTAL,NR,T,RO,Romania,2024,24,e
+migr_emi3nxt,A,YE,Yemen,COMPLET,TOTAL,NR,T,RO,Romania,2021,54,
+migr_emi3nxt,A,YE,Yemen,COMPLET,TOTAL,NR,T,RO,Romania,2022,35,e
+migr_emi3nxt,A,YE,Yemen,COMPLET,TOTAL,NR,T,RO,Romania,2023,48,e
+migr_emi3nxt,A,YE,Yemen,COMPLET,TOTAL,NR,T,RO,Romania,2024,24,e
+migr_emi3nxt,A,OCE,Oceania,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,OCE,Oceania,REACH,TOTAL,NR,T,RO,Romania,2022,304,e
+migr_emi3nxt,A,OCE,Oceania,REACH,TOTAL,NR,T,RO,Romania,2023,235,e
+migr_emi3nxt,A,OCE,Oceania,REACH,TOTAL,NR,T,RO,Romania,2024,162,e
+migr_emi3nxt,A,OCE,Oceania,COMPLET,TOTAL,NR,T,RO,Romania,2022,304,e
+migr_emi3nxt,A,OCE,Oceania,COMPLET,TOTAL,NR,T,RO,Romania,2023,235,e
+migr_emi3nxt,A,OCE,Oceania,COMPLET,TOTAL,NR,T,RO,Romania,2024,162,e
+migr_emi3nxt,A,AU_NZ,Australia and New Zealand,REACH,TOTAL,NR,T,RO,Romania,2018,222,
+migr_emi3nxt,A,AU_NZ,Australia and New Zealand,REACH,TOTAL,NR,T,RO,Romania,2022,300,e
+migr_emi3nxt,A,AU_NZ,Australia and New Zealand,REACH,TOTAL,NR,T,RO,Romania,2023,220,e
+migr_emi3nxt,A,AU_NZ,Australia and New Zealand,REACH,TOTAL,NR,T,RO,Romania,2024,156,e
+migr_emi3nxt,A,AU_NZ,Australia and New Zealand,COMPLET,TOTAL,NR,T,RO,Romania,2022,300,e
+migr_emi3nxt,A,AU_NZ,Australia and New Zealand,COMPLET,TOTAL,NR,T,RO,Romania,2023,220,e
+migr_emi3nxt,A,AU_NZ,Australia and New Zealand,COMPLET,TOTAL,NR,T,RO,Romania,2024,156,e
+migr_emi3nxt,A,AU,Australia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,AU,Australia,REACH,TOTAL,NR,T,RO,Romania,2021,189,
+migr_emi3nxt,A,AU,Australia,REACH,TOTAL,NR,T,RO,Romania,2022,232,e
+migr_emi3nxt,A,AU,Australia,REACH,TOTAL,NR,T,RO,Romania,2023,168,e
+migr_emi3nxt,A,AU,Australia,REACH,TOTAL,NR,T,RO,Romania,2024,122,e
+migr_emi3nxt,A,AU,Australia,COMPLET,TOTAL,NR,T,RO,Romania,2021,189,
+migr_emi3nxt,A,AU,Australia,COMPLET,TOTAL,NR,T,RO,Romania,2022,232,e
+migr_emi3nxt,A,AU,Australia,COMPLET,TOTAL,NR,T,RO,Romania,2023,168,e
+migr_emi3nxt,A,AU,Australia,COMPLET,TOTAL,NR,T,RO,Romania,2024,122,e
+migr_emi3nxt,A,NZ,New Zealand,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,NZ,New Zealand,REACH,TOTAL,NR,T,RO,Romania,2021,44,
+migr_emi3nxt,A,NZ,New Zealand,REACH,TOTAL,NR,T,RO,Romania,2022,68,e
+migr_emi3nxt,A,NZ,New Zealand,REACH,TOTAL,NR,T,RO,Romania,2023,52,e
+migr_emi3nxt,A,NZ,New Zealand,REACH,TOTAL,NR,T,RO,Romania,2024,34,e
+migr_emi3nxt,A,NZ,New Zealand,COMPLET,TOTAL,NR,T,RO,Romania,2021,44,
+migr_emi3nxt,A,NZ,New Zealand,COMPLET,TOTAL,NR,T,RO,Romania,2022,68,e
+migr_emi3nxt,A,NZ,New Zealand,COMPLET,TOTAL,NR,T,RO,Romania,2023,52,e
+migr_emi3nxt,A,NZ,New Zealand,COMPLET,TOTAL,NR,T,RO,Romania,2024,34,e
+migr_emi3nxt,A,MEL,Melanesia,REACH,TOTAL,NR,T,RO,Romania,2018,2,
+migr_emi3nxt,A,MEL,Melanesia,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,MEL,Melanesia,REACH,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,MEL,Melanesia,REACH,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,MEL,Melanesia,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,MEL,Melanesia,COMPLET,TOTAL,NR,T,RO,Romania,2023,5,e
+migr_emi3nxt,A,MEL,Melanesia,COMPLET,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,FJ,Fiji,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,FJ,Fiji,REACH,TOTAL,NR,T,RO,Romania,2021,9,
+migr_emi3nxt,A,FJ,Fiji,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,FJ,Fiji,REACH,TOTAL,NR,T,RO,Romania,2023,4,e
+migr_emi3nxt,A,FJ,Fiji,REACH,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,FJ,Fiji,COMPLET,TOTAL,NR,T,RO,Romania,2021,9,
+migr_emi3nxt,A,FJ,Fiji,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,FJ,Fiji,COMPLET,TOTAL,NR,T,RO,Romania,2023,4,e
+migr_emi3nxt,A,FJ,Fiji,COMPLET,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,NC,New Caledonia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,NC,New Caledonia,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,NC,New Caledonia,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,NC,New Caledonia,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,NC,New Caledonia,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,NC,New Caledonia,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,NC,New Caledonia,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,NC,New Caledonia,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,NC,New Caledonia,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,PG,Papua New Guinea,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PG,Papua New Guinea,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,PG,Papua New Guinea,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,PG,Papua New Guinea,REACH,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,PG,Papua New Guinea,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,PG,Papua New Guinea,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,PG,Papua New Guinea,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,PG,Papua New Guinea,COMPLET,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,PG,Papua New Guinea,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,SB,Solomon Islands,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,SB,Solomon Islands,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,SB,Solomon Islands,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SB,Solomon Islands,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,SB,Solomon Islands,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,SB,Solomon Islands,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,SB,Solomon Islands,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,SB,Solomon Islands,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,SB,Solomon Islands,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,VU,Vanuatu,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,VU,Vanuatu,REACH,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,VU,Vanuatu,REACH,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,VU,Vanuatu,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,VU,Vanuatu,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,VU,Vanuatu,COMPLET,TOTAL,NR,T,RO,Romania,2021,1,
+migr_emi3nxt,A,VU,Vanuatu,COMPLET,TOTAL,NR,T,RO,Romania,2022,1,e
+migr_emi3nxt,A,VU,Vanuatu,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,VU,Vanuatu,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,MIC,Micronesia,REACH,TOTAL,NR,T,RO,Romania,2018,0,
+migr_emi3nxt,A,MIC,Micronesia,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MIC,Micronesia,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,MIC,Micronesia,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,MIC,Micronesia,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MIC,Micronesia,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,MIC,Micronesia,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,KI,Kiribati,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,KI,Kiribati,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,KI,Kiribati,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,KI,Kiribati,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,KI,Kiribati,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,KI,Kiribati,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,KI,Kiribati,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,KI,Kiribati,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,KI,Kiribati,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,MH,Marshall Islands,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,MH,Marshall Islands,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,MH,Marshall Islands,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MH,Marshall Islands,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,MH,Marshall Islands,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,MH,Marshall Islands,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,MH,Marshall Islands,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,MH,Marshall Islands,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,MH,Marshall Islands,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,FM,Federated States of Micronesia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,FM,Federated States of Micronesia,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,FM,Federated States of Micronesia,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,FM,Federated States of Micronesia,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,FM,Federated States of Micronesia,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,FM,Federated States of Micronesia,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,FM,Federated States of Micronesia,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,FM,Federated States of Micronesia,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,FM,Federated States of Micronesia,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,NR,Nauru,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,NR,Nauru,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,NR,Nauru,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,NR,Nauru,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,NR,Nauru,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,NR,Nauru,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,NR,Nauru,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,NR,Nauru,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,NR,Nauru,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,PW,Palau,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PW,Palau,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,PW,Palau,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,PW,Palau,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,PW,Palau,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,PW,Palau,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,PW,Palau,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,PW,Palau,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,PW,Palau,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,POL,Polynesia,REACH,TOTAL,NR,T,RO,Romania,2018,10,
+migr_emi3nxt,A,POL,Polynesia,REACH,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,POL,Polynesia,REACH,TOTAL,NR,T,RO,Romania,2023,10,e
+migr_emi3nxt,A,POL,Polynesia,REACH,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,POL,Polynesia,COMPLET,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,POL,Polynesia,COMPLET,TOTAL,NR,T,RO,Romania,2023,10,e
+migr_emi3nxt,A,POL,Polynesia,COMPLET,TOTAL,NR,T,RO,Romania,2024,3,e
+migr_emi3nxt,A,PF,French Polynesia,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PF,French Polynesia,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,PF,French Polynesia,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,PF,French Polynesia,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,PF,French Polynesia,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,PF,French Polynesia,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,PF,French Polynesia,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,PF,French Polynesia,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,PF,French Polynesia,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,PN,Pitcairn Islands,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,PN,Pitcairn Islands,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,PN,Pitcairn Islands,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,PN,Pitcairn Islands,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,PN,Pitcairn Islands,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,PN,Pitcairn Islands,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,PN,Pitcairn Islands,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,PN,Pitcairn Islands,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,PN,Pitcairn Islands,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,WS,Samoa,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,WS,Samoa,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,WS,Samoa,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,WS,Samoa,REACH,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,WS,Samoa,REACH,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,WS,Samoa,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,WS,Samoa,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,WS,Samoa,COMPLET,TOTAL,NR,T,RO,Romania,2023,1,e
+migr_emi3nxt,A,WS,Samoa,COMPLET,TOTAL,NR,T,RO,Romania,2024,1,e
+migr_emi3nxt,A,TO,Tonga,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TO,Tonga,REACH,TOTAL,NR,T,RO,Romania,2021,25,
+migr_emi3nxt,A,TO,Tonga,REACH,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,TO,Tonga,REACH,TOTAL,NR,T,RO,Romania,2023,9,e
+migr_emi3nxt,A,TO,Tonga,REACH,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,TO,Tonga,COMPLET,TOTAL,NR,T,RO,Romania,2021,25,
+migr_emi3nxt,A,TO,Tonga,COMPLET,TOTAL,NR,T,RO,Romania,2022,3,e
+migr_emi3nxt,A,TO,Tonga,COMPLET,TOTAL,NR,T,RO,Romania,2023,9,e
+migr_emi3nxt,A,TO,Tonga,COMPLET,TOTAL,NR,T,RO,Romania,2024,2,e
+migr_emi3nxt,A,TV,Tuvalu,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,TV,Tuvalu,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,TV,Tuvalu,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,TV,Tuvalu,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,TV,Tuvalu,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,TV,Tuvalu,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,TV,Tuvalu,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,TV,Tuvalu,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,TV,Tuvalu,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,WF,Wallis and Futuna,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,WF,Wallis and Futuna,REACH,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,WF,Wallis and Futuna,REACH,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,WF,Wallis and Futuna,REACH,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,WF,Wallis and Futuna,REACH,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,WF,Wallis and Futuna,COMPLET,TOTAL,NR,T,RO,Romania,2021,0,
+migr_emi3nxt,A,WF,Wallis and Futuna,COMPLET,TOTAL,NR,T,RO,Romania,2022,0,e
+migr_emi3nxt,A,WF,Wallis and Futuna,COMPLET,TOTAL,NR,T,RO,Romania,2023,0,e
+migr_emi3nxt,A,WF,Wallis and Futuna,COMPLET,TOTAL,NR,T,RO,Romania,2024,0,e
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2008,302796,b
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2009,246626,
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2010,197985,
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2011,195551,
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2012,170186,
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2013,161755,
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2014,172871,
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2015,194718,
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2016,207578,
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2017,242193,e
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2018,231661,e
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2019,233736,e
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2020,186818,e
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2021,216861,
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2022,202311,e
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2023,239244,e
+migr_emi3nxt,A,TOTAL,Total,REACH,TOTAL,NR,T,RO,Romania,2024,215191,e
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2008,302796,b
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2009,246626,
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2010,197985,
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2011,195551,
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2012,170186,
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2013,161755,
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2014,172871,
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2015,194718,
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2016,207578,
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2017,242193,e
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2018,231661,e
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2019,233736,e
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2020,186818,e
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2021,216861,
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2022,202311,e
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2023,239244,e
+migr_emi3nxt,A,TOTAL,Total,COMPLET,TOTAL,NR,T,RO,Romania,2024,215191,e
+migr_emi3nxt,A,OTH,Others,REACH,TOTAL,NR,T,RO,Romania,2018,,e
+migr_emi3nxt,A,OTH,Others,REACH,TOTAL,NR,T,RO,Romania,2023,48,e
+migr_emi3nxt,A,OTH,Others,REACH,TOTAL,NR,T,RO,Romania,2024,41,e
+migr_emi3nxt,A,OTH,Others,COMPLET,TOTAL,NR,T,RO,Romania,2023,48,e
+migr_emi3nxt,A,OTH,Others,COMPLET,TOTAL,NR,T,RO,Romania,2024,41,e
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2008,0,
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2009,0,
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2010,0,
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2011,0,
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2012,0,
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2013,0,
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2014,0,
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2016,19,
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2017,7,e
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2018,2401,e
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2019,2557,e
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2020,5090,e
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2021,1157,
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2022,66,e
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2023,793,e
+migr_emi3nxt,A,UNK,Unknown,REACH,TOTAL,NR,T,RO,Romania,2024,116,e
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2008,0,
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2009,0,
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2010,0,
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2011,0,
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2012,0,
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2013,0,
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2014,0,
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2016,19,
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2017,7,e
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2018,2401,e
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2019,2557,e
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2020,5090,e
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2021,1157,
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2022,66,e
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2023,793,e
+migr_emi3nxt,A,UNK,Unknown,COMPLET,TOTAL,NR,T,RO,Romania,2024,116,e

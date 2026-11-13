@@ -1,0 +1,4 @@
+# raw downloads from official sites are large; their URLs are recorded in each SOURCES.md
+data/*/raw/
+__pycache__/
+*.pyc
