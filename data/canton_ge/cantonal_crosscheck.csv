@@ -1,0 +1,17 @@
+canton,year,cantonal_value,cantonal_definition,bfs_value,diff_abs,diff_pct,source_url
+Genève,2010,914,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",853,61,7.15,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05_1989-2013.xlsx
+Genève,2011,1017,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",971,46,4.74,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05_1989-2013.xlsx
+Genève,2012,1129,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",1058,71,6.71,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05_1989-2013.xlsx
+Genève,2013,1235,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",1168,67,5.74,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx
+Genève,2014,1360,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",1263,97,7.68,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx
+Genève,2015,1374,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",1322,52,3.93,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx
+Genève,2016,1452,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",1421,31,2.18,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx
+Genève,2017,1632,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",1571,61,3.88,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx
+Genève,2018,1764,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",1647,117,7.1,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx
+Genève,2019,1893,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",1808,85,4.7,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx
+Genève,2020,2022,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",1961,61,3.11,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx
+Genève,2021,2133,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",2083,50,2.4,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx
+Genève,2022,2178,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",2170,8,0.37,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx
+Genève,2023,2262,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",2274,-12,-0.53,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx
+Genève,2024,2324,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",2311,13,0.56,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx
+Genève,2025,2389,"OCSTAT T 01.01.8.05 population résidante, 31 Dec, nationality Roumanie",2366,23,0.97,https://statistique.ge.ch/statistique/tel/domaines/01/01_01/T_01_01_8_05.xlsx

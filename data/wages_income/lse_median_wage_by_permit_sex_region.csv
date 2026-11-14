@@ -1,0 +1,1345 @@
+year,region,nationality_permit_group,sex,median_gross_monthly_wage_chf_standardised
+2024,Schweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,7024
+2024,Schweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6666
+2024,Schweiz,Schweizer/innen und Ausländer/innen - Total,Männer,7276
+2024,Schweiz,Schweizer/innen,Geschlecht - Total,7480
+2024,Schweiz,Schweizer/innen,Frauen,6983
+2024,Schweiz,Schweizer/innen,Männer,7920
+2024,Schweiz,Ausländer/innen,Geschlecht - Total,6235
+2024,Schweiz,Ausländer/innen,Frauen,5812
+2024,Schweiz,Ausländer/innen,Männer,6405
+2024,Schweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5184
+2024,Schweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4408
+2024,Schweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5531
+2024,Schweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5834
+2024,Schweiz,> Aufenthalter/innen (Kat. B),Frauen,5475
+2024,Schweiz,> Aufenthalter/innen (Kat. B),Männer,5971
+2024,Schweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6559
+2024,Schweiz,> Niedergelassene (Kat. C),Frauen,5954
+2024,Schweiz,> Niedergelassene (Kat. C),Männer,6813
+2024,Schweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6314
+2024,Schweiz,> Grenzgänger/innen (Kat. G),Frauen,6118
+2024,Schweiz,> Grenzgänger/innen (Kat. G),Männer,6385
+2024,Schweiz,> Andere,Geschlecht - Total,5003
+2024,Schweiz,> Andere,Frauen,4955
+2024,Schweiz,> Andere,Männer,5036
+2024,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6998
+2024,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Frauen,6902
+2024,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Männer,7052
+2024,Région lémanique,Schweizer/innen,Geschlecht - Total,7632
+2024,Région lémanique,Schweizer/innen,Frauen,7333
+2024,Région lémanique,Schweizer/innen,Männer,7919
+2024,Région lémanique,Ausländer/innen,Geschlecht - Total,6370
+2024,Région lémanique,Ausländer/innen,Frauen,6227
+2024,Région lémanique,Ausländer/innen,Männer,6431
+2024,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5440
+2024,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Frauen,4587
+2024,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Männer,5722
+2024,Région lémanique,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5897
+2024,Région lémanique,> Aufenthalter/innen (Kat. B),Frauen,5709
+2024,Région lémanique,> Aufenthalter/innen (Kat. B),Männer,5993
+2024,Région lémanique,> Niedergelassene (Kat. C),Geschlecht - Total,6599
+2024,Région lémanique,> Niedergelassene (Kat. C),Frauen,6253
+2024,Région lémanique,> Niedergelassene (Kat. C),Männer,6735
+2024,Région lémanique,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6565
+2024,Région lémanique,> Grenzgänger/innen (Kat. G),Frauen,6644
+2024,Région lémanique,> Grenzgänger/innen (Kat. G),Männer,6532
+2024,Région lémanique,> Andere,Geschlecht - Total,5490
+2024,Région lémanique,> Andere,Frauen,5560
+2024,Région lémanique,> Andere,Männer,5440
+2024,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6964
+2024,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Frauen,6548
+2024,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Männer,7257
+2024,Espace Mittelland,Schweizer/innen,Geschlecht - Total,7348
+2024,Espace Mittelland,Schweizer/innen,Frauen,6857
+2024,Espace Mittelland,Schweizer/innen,Männer,7744
+2024,Espace Mittelland,Ausländer/innen,Geschlecht - Total,5967
+2024,Espace Mittelland,Ausländer/innen,Frauen,5438
+2024,Espace Mittelland,Ausländer/innen,Männer,6212
+2024,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4964
+2024,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Frauen,4357
+2024,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Männer,5336
+2024,Espace Mittelland,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5358
+2024,Espace Mittelland,> Aufenthalter/innen (Kat. B),Frauen,5022
+2024,Espace Mittelland,> Aufenthalter/innen (Kat. B),Männer,5508
+2024,Espace Mittelland,> Niedergelassene (Kat. C),Geschlecht - Total,6276
+2024,Espace Mittelland,> Niedergelassene (Kat. C),Frauen,5649
+2024,Espace Mittelland,> Niedergelassene (Kat. C),Männer,6547
+2024,Espace Mittelland,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6194
+2024,Espace Mittelland,> Grenzgänger/innen (Kat. G),Frauen,5732
+2024,Espace Mittelland,> Grenzgänger/innen (Kat. G),Männer,6388
+2024,Espace Mittelland,> Andere,Geschlecht - Total,4813
+2024,Espace Mittelland,> Andere,Frauen,4697
+2024,Espace Mittelland,> Andere,Männer,4914
+2024,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,7156
+2024,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6848
+2024,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,7391
+2024,Nordwestschweiz,Schweizer/innen,Geschlecht - Total,7530
+2024,Nordwestschweiz,Schweizer/innen,Frauen,7014
+2024,Nordwestschweiz,Schweizer/innen,Männer,8001
+2024,Nordwestschweiz,Ausländer/innen,Geschlecht - Total,6607
+2024,Nordwestschweiz,Ausländer/innen,Frauen,6462
+2024,Nordwestschweiz,Ausländer/innen,Männer,6675
+2024,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4986
+2024,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4931
+2024,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5012
+2024,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6009
+2024,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Frauen,5953
+2024,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Männer,6032
+2024,Nordwestschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6769
+2024,Nordwestschweiz,> Niedergelassene (Kat. C),Frauen,6241
+2024,Nordwestschweiz,> Niedergelassene (Kat. C),Männer,6982
+2024,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,7062
+2024,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Frauen,7270
+2024,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Männer,6986
+2024,Nordwestschweiz,> Andere,Geschlecht - Total,5005
+2024,Nordwestschweiz,> Andere,Frauen,4894
+2024,Nordwestschweiz,> Andere,Männer,5037
+2024,Zürich,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,7502
+2024,Zürich,Schweizer/innen und Ausländer/innen - Total,Frauen,6968
+2024,Zürich,Schweizer/innen und Ausländer/innen - Total,Männer,7936
+2024,Zürich,Schweizer/innen,Geschlecht - Total,7904
+2024,Zürich,Schweizer/innen,Frauen,7249
+2024,Zürich,Schweizer/innen,Männer,8568
+2024,Zürich,Ausländer/innen,Geschlecht - Total,6650
+2024,Zürich,Ausländer/innen,Frauen,6048
+2024,Zürich,Ausländer/innen,Männer,6915
+2024,Zürich,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5838
+2024,Zürich,> Kurzaufenthalter/innen (Kat. L),Frauen,4749
+2024,Zürich,> Kurzaufenthalter/innen (Kat. L),Männer,5953
+2024,Zürich,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6286
+2024,Zürich,> Aufenthalter/innen (Kat. B),Frauen,5935
+2024,Zürich,> Aufenthalter/innen (Kat. B),Männer,6449
+2024,Zürich,> Niedergelassene (Kat. C),Geschlecht - Total,6928
+2024,Zürich,> Niedergelassene (Kat. C),Frauen,6192
+2024,Zürich,> Niedergelassene (Kat. C),Männer,7273
+2024,Zürich,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6740
+2024,Zürich,> Grenzgänger/innen (Kat. G),Frauen,5958
+2024,Zürich,> Grenzgänger/innen (Kat. G),Männer,7005
+2024,Zürich,> Andere,Geschlecht - Total,5128
+2024,Zürich,> Andere,Frauen,5062
+2024,Zürich,> Andere,Männer,5152
+2024,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6623
+2024,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6138
+2024,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6895
+2024,Ostschweiz,Schweizer/innen,Geschlecht - Total,7057
+2024,Ostschweiz,Schweizer/innen,Frauen,6533
+2024,Ostschweiz,Schweizer/innen,Männer,7446
+2024,Ostschweiz,Ausländer/innen,Geschlecht - Total,5902
+2024,Ostschweiz,Ausländer/innen,Frauen,5253
+2024,Ostschweiz,Ausländer/innen,Männer,6155
+2024,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4647
+2024,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,3992
+2024,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5173
+2024,Ostschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5440
+2024,Ostschweiz,> Aufenthalter/innen (Kat. B),Frauen,4896
+2024,Ostschweiz,> Aufenthalter/innen (Kat. B),Männer,5706
+2024,Ostschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6198
+2024,Ostschweiz,> Niedergelassene (Kat. C),Frauen,5512
+2024,Ostschweiz,> Niedergelassene (Kat. C),Männer,6520
+2024,Ostschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6407
+2024,Ostschweiz,> Grenzgänger/innen (Kat. G),Frauen,5959
+2024,Ostschweiz,> Grenzgänger/innen (Kat. G),Männer,6499
+2024,Ostschweiz,> Andere,Geschlecht - Total,4799
+2024,Ostschweiz,> Andere,Frauen,4596
+2024,Ostschweiz,> Andere,Männer,4873
+2024,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,7092
+2024,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6664
+2024,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,7398
+2024,Zentralschweiz,Schweizer/innen,Geschlecht - Total,7334
+2024,Zentralschweiz,Schweizer/innen,Frauen,6808
+2024,Zentralschweiz,Schweizer/innen,Männer,7785
+2024,Zentralschweiz,Ausländer/innen,Geschlecht - Total,6365
+2024,Zentralschweiz,Ausländer/innen,Frauen,5950
+2024,Zentralschweiz,Ausländer/innen,Männer,6500
+2024,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5417
+2024,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4481
+2024,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5705
+2024,Zentralschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6038
+2024,Zentralschweiz,> Aufenthalter/innen (Kat. B),Frauen,5890
+2024,Zentralschweiz,> Aufenthalter/innen (Kat. B),Männer,6076
+2024,Zentralschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6689
+2024,Zentralschweiz,> Niedergelassene (Kat. C),Frauen,6055
+2024,Zentralschweiz,> Niedergelassene (Kat. C),Männer,6939
+2024,Zentralschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,7626
+2024,Zentralschweiz,> Grenzgänger/innen (Kat. G),Frauen,7206
+2024,Zentralschweiz,> Grenzgänger/innen (Kat. G),Männer,7720
+2024,Zentralschweiz,> Andere,Geschlecht - Total,4511
+2024,Zentralschweiz,> Andere,Frauen,4824
+2024,Zentralschweiz,> Andere,Männer,4264
+2024,Ticino,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,5708
+2024,Ticino,Schweizer/innen und Ausländer/innen - Total,Frauen,5411
+2024,Ticino,Schweizer/innen und Ausländer/innen - Total,Männer,5872
+2024,Ticino,Schweizer/innen,Geschlecht - Total,6719
+2024,Ticino,Schweizer/innen,Frauen,6283
+2024,Ticino,Schweizer/innen,Männer,7114
+2024,Ticino,Ausländer/innen,Geschlecht - Total,5075
+2024,Ticino,Ausländer/innen,Frauen,4566
+2024,Ticino,Ausländer/innen,Männer,5315
+2024,Ticino,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4466
+2024,Ticino,> Kurzaufenthalter/innen (Kat. L),Frauen,4084
+2024,Ticino,> Kurzaufenthalter/innen (Kat. L),Männer,4803
+2024,Ticino,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5236
+2024,Ticino,> Aufenthalter/innen (Kat. B),Frauen,4771
+2024,Ticino,> Aufenthalter/innen (Kat. B),Männer,5517
+2024,Ticino,> Niedergelassene (Kat. C),Geschlecht - Total,5818
+2024,Ticino,> Niedergelassene (Kat. C),Frauen,5231
+2024,Ticino,> Niedergelassene (Kat. C),Männer,6178
+2024,Ticino,> Grenzgänger/innen (Kat. G),Geschlecht - Total,4846
+2024,Ticino,> Grenzgänger/innen (Kat. G),Frauen,4309
+2024,Ticino,> Grenzgänger/innen (Kat. G),Männer,5099
+2024,Ticino,> Andere,Geschlecht - Total,4515
+2024,Ticino,> Andere,Frauen,4428
+2024,Ticino,> Andere,Männer,4751
+2022,Schweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6788
+2022,Schweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6397
+2022,Schweiz,Schweizer/innen und Ausländer/innen - Total,Männer,7066
+2022,Schweiz,Schweizer/innen,Geschlecht - Total,7164
+2022,Schweiz,Schweizer/innen,Frauen,6649
+2022,Schweiz,Schweizer/innen,Männer,7615
+2022,Schweiz,Ausländer/innen,Geschlecht - Total,6089
+2022,Schweiz,Ausländer/innen,Frauen,5672
+2022,Schweiz,Ausländer/innen,Männer,6251
+2022,Schweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4992
+2022,Schweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4286
+2022,Schweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5295
+2022,Schweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5743
+2022,Schweiz,> Aufenthalter/innen (Kat. B),Frauen,5507
+2022,Schweiz,> Aufenthalter/innen (Kat. B),Männer,5841
+2022,Schweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6280
+2022,Schweiz,> Niedergelassene (Kat. C),Frauen,5678
+2022,Schweiz,> Niedergelassene (Kat. C),Männer,6522
+2022,Schweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6241
+2022,Schweiz,> Grenzgänger/innen (Kat. G),Frauen,6005
+2022,Schweiz,> Grenzgänger/innen (Kat. G),Männer,6330
+2022,Schweiz,> Andere,Geschlecht - Total,4805
+2022,Schweiz,> Andere,Frauen,4760
+2022,Schweiz,> Andere,Männer,4831
+2022,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6849
+2022,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Frauen,6667
+2022,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Männer,6975
+2022,Région lémanique,Schweizer/innen,Geschlecht - Total,7343
+2022,Région lémanique,Schweizer/innen,Frauen,6997
+2022,Région lémanique,Schweizer/innen,Männer,7686
+2022,Région lémanique,Ausländer/innen,Geschlecht - Total,6320
+2022,Région lémanique,Ausländer/innen,Frauen,6157
+2022,Région lémanique,Ausländer/innen,Männer,6397
+2022,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4842
+2022,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Frauen,4436
+2022,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Männer,5165
+2022,Région lémanique,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5945
+2022,Région lémanique,> Aufenthalter/innen (Kat. B),Frauen,5875
+2022,Région lémanique,> Aufenthalter/innen (Kat. B),Männer,5954
+2022,Région lémanique,> Niedergelassene (Kat. C),Geschlecht - Total,6400
+2022,Région lémanique,> Niedergelassene (Kat. C),Frauen,6029
+2022,Région lémanique,> Niedergelassene (Kat. C),Männer,6598
+2022,Région lémanique,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6572
+2022,Région lémanique,> Grenzgänger/innen (Kat. G),Frauen,6544
+2022,Région lémanique,> Grenzgänger/innen (Kat. G),Männer,6588
+2022,Région lémanique,> Andere,Geschlecht - Total,5194
+2022,Région lémanique,> Andere,Frauen,5544
+2022,Région lémanique,> Andere,Männer,5064
+2022,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6752
+2022,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Frauen,6334
+2022,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Männer,7036
+2022,Espace Mittelland,Schweizer/innen,Geschlecht - Total,7086
+2022,Espace Mittelland,Schweizer/innen,Frauen,6589
+2022,Espace Mittelland,Schweizer/innen,Männer,7461
+2022,Espace Mittelland,Ausländer/innen,Geschlecht - Total,5841
+2022,Espace Mittelland,Ausländer/innen,Frauen,5316
+2022,Espace Mittelland,Ausländer/innen,Männer,6051
+2022,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4944
+2022,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Frauen,4449
+2022,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Männer,5083
+2022,Espace Mittelland,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5207
+2022,Espace Mittelland,> Aufenthalter/innen (Kat. B),Frauen,4870
+2022,Espace Mittelland,> Aufenthalter/innen (Kat. B),Männer,5353
+2022,Espace Mittelland,> Niedergelassene (Kat. C),Geschlecht - Total,6060
+2022,Espace Mittelland,> Niedergelassene (Kat. C),Frauen,5459
+2022,Espace Mittelland,> Niedergelassene (Kat. C),Männer,6300
+2022,Espace Mittelland,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6024
+2022,Espace Mittelland,> Grenzgänger/innen (Kat. G),Frauen,5557
+2022,Espace Mittelland,> Grenzgänger/innen (Kat. G),Männer,6190
+2022,Espace Mittelland,> Andere,Geschlecht - Total,4446
+2022,Espace Mittelland,> Andere,Frauen,4316
+2022,Espace Mittelland,> Andere,Männer,4497
+2022,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6969
+2022,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6561
+2022,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,7269
+2022,Nordwestschweiz,Schweizer/innen,Geschlecht - Total,7218
+2022,Nordwestschweiz,Schweizer/innen,Frauen,6634
+2022,Nordwestschweiz,Schweizer/innen,Männer,7755
+2022,Nordwestschweiz,Ausländer/innen,Geschlecht - Total,6552
+2022,Nordwestschweiz,Ausländer/innen,Frauen,6369
+2022,Nordwestschweiz,Ausländer/innen,Männer,6624
+2022,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4880
+2022,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4462
+2022,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5052
+2022,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6075
+2022,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Frauen,6173
+2022,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Männer,6040
+2022,Nordwestschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6443
+2022,Nordwestschweiz,> Niedergelassene (Kat. C),Frauen,5989
+2022,Nordwestschweiz,> Niedergelassene (Kat. C),Männer,6602
+2022,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,7150
+2022,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Frauen,7167
+2022,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Männer,7146
+2022,Nordwestschweiz,> Andere,Geschlecht - Total,5131
+2022,Nordwestschweiz,> Andere,Frauen,4971
+2022,Nordwestschweiz,> Andere,Männer,5152
+2022,Zürich,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,7229
+2022,Zürich,Schweizer/innen und Ausländer/innen - Total,Frauen,6667
+2022,Zürich,Schweizer/innen und Ausländer/innen - Total,Männer,7692
+2022,Zürich,Schweizer/innen,Geschlecht - Total,7568
+2022,Zürich,Schweizer/innen,Frauen,6909
+2022,Zürich,Schweizer/innen,Männer,8194
+2022,Zürich,Ausländer/innen,Geschlecht - Total,6444
+2022,Zürich,Ausländer/innen,Frauen,5842
+2022,Zürich,Ausländer/innen,Männer,6717
+2022,Zürich,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5593
+2022,Zürich,> Kurzaufenthalter/innen (Kat. L),Frauen,4881
+2022,Zürich,> Kurzaufenthalter/innen (Kat. L),Männer,5672
+2022,Zürich,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6306
+2022,Zürich,> Aufenthalter/innen (Kat. B),Frauen,5958
+2022,Zürich,> Aufenthalter/innen (Kat. B),Männer,6486
+2022,Zürich,> Niedergelassene (Kat. C),Geschlecht - Total,6608
+2022,Zürich,> Niedergelassene (Kat. C),Frauen,5833
+2022,Zürich,> Niedergelassene (Kat. C),Männer,6953
+2022,Zürich,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6573
+2022,Zürich,> Grenzgänger/innen (Kat. G),Frauen,5746
+2022,Zürich,> Grenzgänger/innen (Kat. G),Männer,6926
+2022,Zürich,> Andere,Geschlecht - Total,4827
+2022,Zürich,> Andere,Frauen,4824
+2022,Zürich,> Andere,Männer,4831
+2022,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6344
+2022,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5851
+2022,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6604
+2022,Ostschweiz,Schweizer/innen,Geschlecht - Total,6702
+2022,Ostschweiz,Schweizer/innen,Frauen,6180
+2022,Ostschweiz,Schweizer/innen,Männer,7097
+2022,Ostschweiz,Ausländer/innen,Geschlecht - Total,5686
+2022,Ostschweiz,Ausländer/innen,Frauen,5013
+2022,Ostschweiz,Ausländer/innen,Männer,5910
+2022,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4587
+2022,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4125
+2022,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5011
+2022,Ostschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5242
+2022,Ostschweiz,> Aufenthalter/innen (Kat. B),Frauen,4746
+2022,Ostschweiz,> Aufenthalter/innen (Kat. B),Männer,5468
+2022,Ostschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5918
+2022,Ostschweiz,> Niedergelassene (Kat. C),Frauen,5229
+2022,Ostschweiz,> Niedergelassene (Kat. C),Männer,6163
+2022,Ostschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6190
+2022,Ostschweiz,> Grenzgänger/innen (Kat. G),Frauen,5715
+2022,Ostschweiz,> Grenzgänger/innen (Kat. G),Männer,6293
+2022,Ostschweiz,> Andere,Geschlecht - Total,4441
+2022,Ostschweiz,> Andere,Frauen,4331
+2022,Ostschweiz,> Andere,Männer,4530
+2022,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6779
+2022,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6334
+2022,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,7094
+2022,Zentralschweiz,Schweizer/innen,Geschlecht - Total,6977
+2022,Zentralschweiz,Schweizer/innen,Frauen,6468
+2022,Zentralschweiz,Schweizer/innen,Männer,7396
+2022,Zentralschweiz,Ausländer/innen,Geschlecht - Total,6156
+2022,Zentralschweiz,Ausländer/innen,Frauen,5677
+2022,Zentralschweiz,Ausländer/innen,Männer,6295
+2022,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5611
+2022,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4429
+2022,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5815
+2022,Zentralschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5883
+2022,Zentralschweiz,> Aufenthalter/innen (Kat. B),Frauen,5746
+2022,Zentralschweiz,> Aufenthalter/innen (Kat. B),Männer,5895
+2022,Zentralschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6364
+2022,Zentralschweiz,> Niedergelassene (Kat. C),Frauen,5714
+2022,Zentralschweiz,> Niedergelassene (Kat. C),Männer,6581
+2022,Zentralschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,7729
+2022,Zentralschweiz,> Grenzgänger/innen (Kat. G),Frauen,6296
+2022,Zentralschweiz,> Grenzgänger/innen (Kat. G),Männer,7936
+2022,Zentralschweiz,> Andere,Geschlecht - Total,4479
+2022,Zentralschweiz,> Andere,Frauen,4230
+2022,Zentralschweiz,> Andere,Männer,4519
+2022,Ticino,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,5590
+2022,Ticino,Schweizer/innen und Ausländer/innen - Total,Frauen,5272
+2022,Ticino,Schweizer/innen und Ausländer/innen - Total,Männer,5755
+2022,Ticino,Schweizer/innen,Geschlecht - Total,6462
+2022,Ticino,Schweizer/innen,Frauen,6086
+2022,Ticino,Schweizer/innen,Männer,6807
+2022,Ticino,Ausländer/innen,Geschlecht - Total,5000
+2022,Ticino,Ausländer/innen,Frauen,4462
+2022,Ticino,Ausländer/innen,Männer,5253
+2022,Ticino,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4198
+2022,Ticino,> Kurzaufenthalter/innen (Kat. L),Frauen,4098
+2022,Ticino,> Kurzaufenthalter/innen (Kat. L),Männer,4343
+2022,Ticino,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5117
+2022,Ticino,> Aufenthalter/innen (Kat. B),Frauen,4815
+2022,Ticino,> Aufenthalter/innen (Kat. B),Männer,5234
+2022,Ticino,> Niedergelassene (Kat. C),Geschlecht - Total,5632
+2022,Ticino,> Niedergelassene (Kat. C),Frauen,5151
+2022,Ticino,> Niedergelassene (Kat. C),Männer,6000
+2022,Ticino,> Grenzgänger/innen (Kat. G),Geschlecht - Total,4756
+2022,Ticino,> Grenzgänger/innen (Kat. G),Frauen,4139
+2022,Ticino,> Grenzgänger/innen (Kat. G),Männer,5054
+2022,Ticino,> Andere,Geschlecht - Total,4200
+2022,Ticino,> Andere,Frauen,4043
+2022,Ticino,> Andere,Männer,4218
+2020,Schweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6665
+2020,Schweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6211
+2020,Schweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6963
+2020,Schweiz,Schweizer/innen,Geschlecht - Total,6988
+2020,Schweiz,Schweizer/innen,Frauen,6429
+2020,Schweiz,Schweizer/innen,Männer,7455
+2020,Schweiz,Ausländer/innen,Geschlecht - Total,6029
+2020,Schweiz,Ausländer/innen,Frauen,5530
+2020,Schweiz,Ausländer/innen,Männer,6198
+2020,Schweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5250
+2020,Schweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4273
+2020,Schweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5524
+2020,Schweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5769
+2020,Schweiz,> Aufenthalter/innen (Kat. B),Frauen,5427
+2020,Schweiz,> Aufenthalter/innen (Kat. B),Männer,5892
+2020,Schweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6138
+2020,Schweiz,> Niedergelassene (Kat. C),Frauen,5486
+2020,Schweiz,> Niedergelassene (Kat. C),Männer,6383
+2020,Schweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6163
+2020,Schweiz,> Grenzgänger/innen (Kat. G),Frauen,5903
+2020,Schweiz,> Grenzgänger/innen (Kat. G),Männer,6250
+2020,Schweiz,> Andere,Geschlecht - Total,4552
+2020,Schweiz,> Andere,Frauen,4624
+2020,Schweiz,> Andere,Männer,4500
+2020,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6731
+2020,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Frauen,6544
+2020,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Männer,6866
+2020,Région lémanique,Schweizer/innen,Geschlecht - Total,7224
+2020,Région lémanique,Schweizer/innen,Frauen,6844
+2020,Région lémanique,Schweizer/innen,Männer,7587
+2020,Région lémanique,Ausländer/innen,Geschlecht - Total,6195
+2020,Région lémanique,Ausländer/innen,Frauen,6013
+2020,Région lémanique,Ausländer/innen,Männer,6267
+2020,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5234
+2020,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Frauen,4344
+2020,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Männer,5459
+2020,Région lémanique,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5834
+2020,Région lémanique,> Aufenthalter/innen (Kat. B),Frauen,5668
+2020,Région lémanique,> Aufenthalter/innen (Kat. B),Männer,5945
+2020,Région lémanique,> Niedergelassene (Kat. C),Geschlecht - Total,6184
+2020,Région lémanique,> Niedergelassene (Kat. C),Frauen,5798
+2020,Région lémanique,> Niedergelassene (Kat. C),Männer,6344
+2020,Région lémanique,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6499
+2020,Région lémanique,> Grenzgänger/innen (Kat. G),Frauen,6566
+2020,Région lémanique,> Grenzgänger/innen (Kat. G),Männer,6472
+2020,Région lémanique,> Andere,Geschlecht - Total,5496
+2020,Région lémanique,> Andere,Frauen,5576
+2020,Région lémanique,> Andere,Männer,5456
+2020,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6600
+2020,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Frauen,6112
+2020,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Männer,6923
+2020,Espace Mittelland,Schweizer/innen,Geschlecht - Total,6879
+2020,Espace Mittelland,Schweizer/innen,Frauen,6322
+2020,Espace Mittelland,Schweizer/innen,Männer,7308
+2020,Espace Mittelland,Ausländer/innen,Geschlecht - Total,5786
+2020,Espace Mittelland,Ausländer/innen,Frauen,5194
+2020,Espace Mittelland,Ausländer/innen,Männer,6007
+2020,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5212
+2020,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Frauen,4297
+2020,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Männer,5503
+2020,Espace Mittelland,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5274
+2020,Espace Mittelland,> Aufenthalter/innen (Kat. B),Frauen,4946
+2020,Espace Mittelland,> Aufenthalter/innen (Kat. B),Männer,5402
+2020,Espace Mittelland,> Niedergelassene (Kat. C),Geschlecht - Total,5946
+2020,Espace Mittelland,> Niedergelassene (Kat. C),Frauen,5281
+2020,Espace Mittelland,> Niedergelassene (Kat. C),Männer,6181
+2020,Espace Mittelland,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6009
+2020,Espace Mittelland,> Grenzgänger/innen (Kat. G),Frauen,5308
+2020,Espace Mittelland,> Grenzgänger/innen (Kat. G),Männer,6201
+2020,Espace Mittelland,> Andere,Geschlecht - Total,4333
+2020,Espace Mittelland,> Andere,Frauen,4219
+2020,Espace Mittelland,> Andere,Männer,4478
+2020,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6789
+2020,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6395
+2020,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,7050
+2020,Nordwestschweiz,Schweizer/innen,Geschlecht - Total,7015
+2020,Nordwestschweiz,Schweizer/innen,Frauen,6434
+2020,Nordwestschweiz,Schweizer/innen,Männer,7528
+2020,Nordwestschweiz,Ausländer/innen,Geschlecht - Total,6429
+2020,Nordwestschweiz,Ausländer/innen,Frauen,6282
+2020,Nordwestschweiz,Ausländer/innen,Männer,6480
+2020,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5531
+2020,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,5607
+2020,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5527
+2020,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6038
+2020,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Frauen,6260
+2020,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Männer,5960
+2020,Nordwestschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6292
+2020,Nordwestschweiz,> Niedergelassene (Kat. C),Frauen,5790
+2020,Nordwestschweiz,> Niedergelassene (Kat. C),Männer,6484
+2020,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6917
+2020,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Frauen,7040
+2020,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Männer,6876
+2020,Nordwestschweiz,> Andere,Geschlecht - Total,4517
+2020,Nordwestschweiz,> Andere,Frauen,5363
+2020,Nordwestschweiz,> Andere,Männer,4410
+2020,Zürich,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,7113
+2020,Zürich,Schweizer/innen und Ausländer/innen - Total,Frauen,6435
+2020,Zürich,Schweizer/innen und Ausländer/innen - Total,Männer,7659
+2020,Zürich,Schweizer/innen,Geschlecht - Total,7386
+2020,Zürich,Schweizer/innen,Frauen,6648
+2020,Zürich,Schweizer/innen,Männer,8143
+2020,Zürich,Ausländer/innen,Geschlecht - Total,6427
+2020,Zürich,Ausländer/innen,Frauen,5668
+2020,Zürich,Ausländer/innen,Männer,6766
+2020,Zürich,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,6195
+2020,Zürich,> Kurzaufenthalter/innen (Kat. L),Frauen,5397
+2020,Zürich,> Kurzaufenthalter/innen (Kat. L),Männer,6261
+2020,Zürich,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6342
+2020,Zürich,> Aufenthalter/innen (Kat. B),Frauen,5890
+2020,Zürich,> Aufenthalter/innen (Kat. B),Männer,6607
+2020,Zürich,> Niedergelassene (Kat. C),Geschlecht - Total,6468
+2020,Zürich,> Niedergelassene (Kat. C),Frauen,5604
+2020,Zürich,> Niedergelassene (Kat. C),Männer,6855
+2020,Zürich,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6590
+2020,Zürich,> Grenzgänger/innen (Kat. G),Frauen,5607
+2020,Zürich,> Grenzgänger/innen (Kat. G),Männer,6934
+2020,Zürich,> Andere,Geschlecht - Total,4310
+2020,Zürich,> Andere,Frauen,4258
+2020,Zürich,> Andere,Männer,4359
+2020,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6274
+2020,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5687
+2020,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6559
+2020,Ostschweiz,Schweizer/innen,Geschlecht - Total,6580
+2020,Ostschweiz,Schweizer/innen,Frauen,5970
+2020,Ostschweiz,Schweizer/innen,Männer,6963
+2020,Ostschweiz,Ausländer/innen,Geschlecht - Total,5720
+2020,Ostschweiz,Ausländer/innen,Frauen,4942
+2020,Ostschweiz,Ausländer/innen,Männer,5959
+2020,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4967
+2020,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,3859
+2020,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5181
+2020,Ostschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5223
+2020,Ostschweiz,> Aufenthalter/innen (Kat. B),Frauen,4613
+2020,Ostschweiz,> Aufenthalter/innen (Kat. B),Männer,5524
+2020,Ostschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5872
+2020,Ostschweiz,> Niedergelassene (Kat. C),Frauen,5076
+2020,Ostschweiz,> Niedergelassene (Kat. C),Männer,6137
+2020,Ostschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6236
+2020,Ostschweiz,> Grenzgänger/innen (Kat. G),Frauen,5807
+2020,Ostschweiz,> Grenzgänger/innen (Kat. G),Männer,6335
+2020,Ostschweiz,> Andere,Geschlecht - Total,4114
+2020,Ostschweiz,> Andere,Frauen,4344
+2020,Ostschweiz,> Andere,Männer,4044
+2020,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6585
+2020,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6117
+2020,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6880
+2020,Zentralschweiz,Schweizer/innen,Geschlecht - Total,6744
+2020,Zentralschweiz,Schweizer/innen,Frauen,6229
+2020,Zentralschweiz,Schweizer/innen,Männer,7132
+2020,Zentralschweiz,Ausländer/innen,Geschlecht - Total,6055
+2020,Zentralschweiz,Ausländer/innen,Frauen,5495
+2020,Zentralschweiz,Ausländer/innen,Männer,6204
+2020,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4969
+2020,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4194
+2020,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5444
+2020,Zentralschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5846
+2020,Zentralschweiz,> Aufenthalter/innen (Kat. B),Frauen,5568
+2020,Zentralschweiz,> Aufenthalter/innen (Kat. B),Männer,5939
+2020,Zentralschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6188
+2020,Zentralschweiz,> Niedergelassene (Kat. C),Frauen,5525
+2020,Zentralschweiz,> Niedergelassene (Kat. C),Männer,6393
+2020,Zentralschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6800
+2020,Zentralschweiz,> Grenzgänger/innen (Kat. G),Frauen,5714
+2020,Zentralschweiz,> Grenzgänger/innen (Kat. G),Männer,7175
+2020,Zentralschweiz,> Andere,Geschlecht - Total,3805
+2020,Zentralschweiz,> Andere,Frauen,4192
+2020,Zentralschweiz,> Andere,Männer,3770
+2020,Ticino,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,5546
+2020,Ticino,Schweizer/innen und Ausländer/innen - Total,Frauen,5176
+2020,Ticino,Schweizer/innen und Ausländer/innen - Total,Männer,5738
+2020,Ticino,Schweizer/innen,Geschlecht - Total,6474
+2020,Ticino,Schweizer/innen,Frauen,5998
+2020,Ticino,Schweizer/innen,Männer,6893
+2020,Ticino,Ausländer/innen,Geschlecht - Total,4910
+2020,Ticino,Ausländer/innen,Frauen,4318
+2020,Ticino,Ausländer/innen,Männer,5165
+2020,Ticino,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5609
+2020,Ticino,> Kurzaufenthalter/innen (Kat. L),Frauen,4664
+2020,Ticino,> Kurzaufenthalter/innen (Kat. L),Männer,5717
+2020,Ticino,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5152
+2020,Ticino,> Aufenthalter/innen (Kat. B),Frauen,4740
+2020,Ticino,> Aufenthalter/innen (Kat. B),Männer,5522
+2020,Ticino,> Niedergelassene (Kat. C),Geschlecht - Total,5555
+2020,Ticino,> Niedergelassene (Kat. C),Frauen,5000
+2020,Ticino,> Niedergelassene (Kat. C),Männer,5832
+2020,Ticino,> Grenzgänger/innen (Kat. G),Geschlecht - Total,4642
+2020,Ticino,> Grenzgänger/innen (Kat. G),Frauen,3960
+2020,Ticino,> Grenzgänger/innen (Kat. G),Männer,4968
+2020,Ticino,> Andere,Geschlecht - Total,4390
+2020,Ticino,> Andere,Frauen,4150
+2020,Ticino,> Andere,Männer,4390
+2018,Schweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6538
+2018,Schweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6067
+2018,Schweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6857
+2018,Schweiz,Schweizer/innen,Geschlecht - Total,6873
+2018,Schweiz,Schweizer/innen,Frauen,6281
+2018,Schweiz,Schweizer/innen,Männer,7357
+2018,Schweiz,Ausländer/innen,Geschlecht - Total,5886
+2018,Schweiz,Ausländer/innen,Frauen,5408
+2018,Schweiz,Ausländer/innen,Männer,6062
+2018,Schweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5056
+2018,Schweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4129
+2018,Schweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5242
+2018,Schweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5629
+2018,Schweiz,> Aufenthalter/innen (Kat. B),Frauen,5365
+2018,Schweiz,> Aufenthalter/innen (Kat. B),Männer,5715
+2018,Schweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5979
+2018,Schweiz,> Niedergelassene (Kat. C),Frauen,5329
+2018,Schweiz,> Niedergelassene (Kat. C),Männer,6217
+2018,Schweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6118
+2018,Schweiz,> Grenzgänger/innen (Kat. G),Frauen,5783
+2018,Schweiz,> Grenzgänger/innen (Kat. G),Männer,6248
+2018,Schweiz,> Andere,Geschlecht - Total,4790
+2018,Schweiz,> Andere,Frauen,4643
+2018,Schweiz,> Andere,Männer,4826
+2018,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6600
+2018,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Frauen,6442
+2018,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Männer,6720
+2018,Région lémanique,Schweizer/innen,Geschlecht - Total,7059
+2018,Région lémanique,Schweizer/innen,Frauen,6718
+2018,Région lémanique,Schweizer/innen,Männer,7422
+2018,Région lémanique,Ausländer/innen,Geschlecht - Total,6066
+2018,Région lémanique,Ausländer/innen,Frauen,5959
+2018,Région lémanique,Ausländer/innen,Männer,6116
+2018,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4782
+2018,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Frauen,4180
+2018,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Männer,4989
+2018,Région lémanique,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5732
+2018,Région lémanique,> Aufenthalter/innen (Kat. B),Frauen,5779
+2018,Région lémanique,> Aufenthalter/innen (Kat. B),Männer,5695
+2018,Région lémanique,> Niedergelassene (Kat. C),Geschlecht - Total,6017
+2018,Région lémanique,> Niedergelassene (Kat. C),Frauen,5706
+2018,Région lémanique,> Niedergelassene (Kat. C),Männer,6169
+2018,Région lémanique,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6426
+2018,Région lémanique,> Grenzgänger/innen (Kat. G),Frauen,6416
+2018,Région lémanique,> Grenzgänger/innen (Kat. G),Männer,6430
+2018,Région lémanique,> Andere,Geschlecht - Total,5580
+2018,Région lémanique,> Andere,Frauen,5500
+2018,Région lémanique,> Andere,Männer,5602
+2018,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6511
+2018,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Frauen,5994
+2018,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Männer,6864
+2018,Espace Mittelland,Schweizer/innen,Geschlecht - Total,6798
+2018,Espace Mittelland,Schweizer/innen,Frauen,6190
+2018,Espace Mittelland,Schweizer/innen,Männer,7235
+2018,Espace Mittelland,Ausländer/innen,Geschlecht - Total,5691
+2018,Espace Mittelland,Ausländer/innen,Frauen,5104
+2018,Espace Mittelland,Ausländer/innen,Männer,5928
+2018,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5252
+2018,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Frauen,4162
+2018,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Männer,5491
+2018,Espace Mittelland,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5308
+2018,Espace Mittelland,> Aufenthalter/innen (Kat. B),Frauen,4942
+2018,Espace Mittelland,> Aufenthalter/innen (Kat. B),Männer,5445
+2018,Espace Mittelland,> Niedergelassene (Kat. C),Geschlecht - Total,5799
+2018,Espace Mittelland,> Niedergelassene (Kat. C),Frauen,5159
+2018,Espace Mittelland,> Niedergelassene (Kat. C),Männer,6057
+2018,Espace Mittelland,> Grenzgänger/innen (Kat. G),Geschlecht - Total,5970
+2018,Espace Mittelland,> Grenzgänger/innen (Kat. G),Frauen,5184
+2018,Espace Mittelland,> Grenzgänger/innen (Kat. G),Männer,6223
+2018,Espace Mittelland,> Andere,Geschlecht - Total,4289
+2018,Espace Mittelland,> Andere,Frauen,4290
+2018,Espace Mittelland,> Andere,Männer,4289
+2018,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6714
+2018,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6251
+2018,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,7038
+2018,Nordwestschweiz,Schweizer/innen,Geschlecht - Total,6951
+2018,Nordwestschweiz,Schweizer/innen,Frauen,6294
+2018,Nordwestschweiz,Schweizer/innen,Männer,7505
+2018,Nordwestschweiz,Ausländer/innen,Geschlecht - Total,6341
+2018,Nordwestschweiz,Ausländer/innen,Frauen,6124
+2018,Nordwestschweiz,Ausländer/innen,Männer,6420
+2018,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,2417
+2018,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,2958
+2018,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,1928
+2018,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5950
+2018,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Frauen,6256
+2018,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Männer,5862
+2018,Nordwestschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6165
+2018,Nordwestschweiz,> Niedergelassene (Kat. C),Frauen,5662
+2018,Nordwestschweiz,> Niedergelassene (Kat. C),Männer,6319
+2018,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,7050
+2018,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Frauen,6848
+2018,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Männer,7111
+2018,Nordwestschweiz,> Andere,Geschlecht - Total,5753
+2018,Nordwestschweiz,> Andere,Frauen,4786
+2018,Nordwestschweiz,> Andere,Männer,5753
+2018,Zürich,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6965
+2018,Zürich,Schweizer/innen und Ausländer/innen - Total,Frauen,6293
+2018,Zürich,Schweizer/innen und Ausländer/innen - Total,Männer,7500
+2018,Zürich,Schweizer/innen,Geschlecht - Total,7285
+2018,Zürich,Schweizer/innen,Frauen,6519
+2018,Zürich,Schweizer/innen,Männer,8002
+2018,Zürich,Ausländer/innen,Geschlecht - Total,6221
+2018,Zürich,Ausländer/innen,Frauen,5506
+2018,Zürich,Ausländer/innen,Männer,6530
+2018,Zürich,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5693
+2018,Zürich,> Kurzaufenthalter/innen (Kat. L),Frauen,6684
+2018,Zürich,> Kurzaufenthalter/innen (Kat. L),Männer,5626
+2018,Zürich,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6110
+2018,Zürich,> Aufenthalter/innen (Kat. B),Frauen,5674
+2018,Zürich,> Aufenthalter/innen (Kat. B),Männer,6347
+2018,Zürich,> Niedergelassene (Kat. C),Geschlecht - Total,6277
+2018,Zürich,> Niedergelassene (Kat. C),Frauen,5443
+2018,Zürich,> Niedergelassene (Kat. C),Männer,6609
+2018,Zürich,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6400
+2018,Zürich,> Grenzgänger/innen (Kat. G),Frauen,5404
+2018,Zürich,> Grenzgänger/innen (Kat. G),Männer,6840
+2018,Zürich,> Andere,Geschlecht - Total,4775
+2018,Zürich,> Andere,Frauen,4759
+2018,Zürich,> Andere,Männer,4781
+2018,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6118
+2018,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5549
+2018,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6397
+2018,Ostschweiz,Schweizer/innen,Geschlecht - Total,6446
+2018,Ostschweiz,Schweizer/innen,Frauen,5790
+2018,Ostschweiz,Schweizer/innen,Männer,6849
+2018,Ostschweiz,Ausländer/innen,Geschlecht - Total,5564
+2018,Ostschweiz,Ausländer/innen,Frauen,4917
+2018,Ostschweiz,Ausländer/innen,Männer,5744
+2018,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5231
+2018,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4024
+2018,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5429
+2018,Ostschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5200
+2018,Ostschweiz,> Aufenthalter/innen (Kat. B),Frauen,4613
+2018,Ostschweiz,> Aufenthalter/innen (Kat. B),Männer,5363
+2018,Ostschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5675
+2018,Ostschweiz,> Niedergelassene (Kat. C),Frauen,4944
+2018,Ostschweiz,> Niedergelassene (Kat. C),Männer,5925
+2018,Ostschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6107
+2018,Ostschweiz,> Grenzgänger/innen (Kat. G),Frauen,5848
+2018,Ostschweiz,> Grenzgänger/innen (Kat. G),Männer,6190
+2018,Ostschweiz,> Andere,Geschlecht - Total,4328
+2018,Ostschweiz,> Andere,Frauen,4126
+2018,Ostschweiz,> Andere,Männer,4468
+2018,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6438
+2018,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5905
+2018,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6781
+2018,Zentralschweiz,Schweizer/innen,Geschlecht - Total,6643
+2018,Zentralschweiz,Schweizer/innen,Frauen,6049
+2018,Zentralschweiz,Schweizer/innen,Männer,7076
+2018,Zentralschweiz,Ausländer/innen,Geschlecht - Total,5799
+2018,Zentralschweiz,Ausländer/innen,Frauen,5243
+2018,Zentralschweiz,Ausländer/innen,Männer,5965
+2018,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5222
+2018,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4091
+2018,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5434
+2018,Zentralschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5647
+2018,Zentralschweiz,> Aufenthalter/innen (Kat. B),Frauen,5404
+2018,Zentralschweiz,> Aufenthalter/innen (Kat. B),Männer,5723
+2018,Zentralschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5965
+2018,Zentralschweiz,> Niedergelassene (Kat. C),Frauen,5256
+2018,Zentralschweiz,> Niedergelassene (Kat. C),Männer,6243
+2018,Zentralschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6808
+2018,Zentralschweiz,> Grenzgänger/innen (Kat. G),Frauen,5902
+2018,Zentralschweiz,> Grenzgänger/innen (Kat. G),Männer,6993
+2018,Zentralschweiz,> Andere,Geschlecht - Total,3930
+2018,Zentralschweiz,> Andere,Frauen,4127
+2018,Zentralschweiz,> Andere,Männer,3858
+2018,Ticino,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,5363
+2018,Ticino,Schweizer/innen und Ausländer/innen - Total,Frauen,4836
+2018,Ticino,Schweizer/innen und Ausländer/innen - Total,Männer,5617
+2018,Ticino,Schweizer/innen,Geschlecht - Total,6172
+2018,Ticino,Schweizer/innen,Frauen,5598
+2018,Ticino,Schweizer/innen,Männer,6660
+2018,Ticino,Ausländer/innen,Geschlecht - Total,4809
+2018,Ticino,Ausländer/innen,Frauen,4139
+2018,Ticino,Ausländer/innen,Männer,5156
+2018,Ticino,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5607
+2018,Ticino,> Kurzaufenthalter/innen (Kat. L),Frauen,5661
+2018,Ticino,> Kurzaufenthalter/innen (Kat. L),Männer,5595
+2018,Ticino,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5196
+2018,Ticino,> Aufenthalter/innen (Kat. B),Frauen,4651
+2018,Ticino,> Aufenthalter/innen (Kat. B),Männer,5504
+2018,Ticino,> Niedergelassene (Kat. C),Geschlecht - Total,5515
+2018,Ticino,> Niedergelassene (Kat. C),Frauen,4701
+2018,Ticino,> Niedergelassene (Kat. C),Männer,5895
+2018,Ticino,> Grenzgänger/innen (Kat. G),Geschlecht - Total,4514
+2018,Ticino,> Grenzgänger/innen (Kat. G),Frauen,3813
+2018,Ticino,> Grenzgänger/innen (Kat. G),Männer,4855
+2018,Ticino,> Andere,Geschlecht - Total,4433
+2018,Ticino,> Andere,Frauen,3774
+2018,Ticino,> Andere,Männer,4602
+2016,Schweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6502
+2016,Schweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6011
+2016,Schweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6830
+2016,Schweiz,Schweizer/innen,Geschlecht - Total,6808
+2016,Schweiz,Schweizer/innen,Frauen,6202
+2016,Schweiz,Schweizer/innen,Männer,7290
+2016,Schweiz,Ausländer/innen,Geschlecht - Total,5893
+2016,Schweiz,Ausländer/innen,Frauen,5377
+2016,Schweiz,Ausländer/innen,Männer,6081
+2016,Schweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5191
+2016,Schweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4366
+2016,Schweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5400
+2016,Schweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5641
+2016,Schweiz,> Aufenthalter/innen (Kat. B),Frauen,5464
+2016,Schweiz,> Aufenthalter/innen (Kat. B),Männer,5698
+2016,Schweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5951
+2016,Schweiz,> Niedergelassene (Kat. C),Frauen,5233
+2016,Schweiz,> Niedergelassene (Kat. C),Männer,6212
+2016,Schweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6086
+2016,Schweiz,> Grenzgänger/innen (Kat. G),Frauen,5759
+2016,Schweiz,> Grenzgänger/innen (Kat. G),Männer,6190
+2016,Schweiz,> Andere,Geschlecht - Total,4762
+2016,Schweiz,> Andere,Frauen,4949
+2016,Schweiz,> Andere,Männer,4670
+2016,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6591
+2016,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Frauen,6329
+2016,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Männer,6770
+2016,Région lémanique,Schweizer/innen,Geschlecht - Total,7059
+2016,Région lémanique,Schweizer/innen,Frauen,6620
+2016,Région lémanique,Schweizer/innen,Männer,7485
+2016,Région lémanique,Ausländer/innen,Geschlecht - Total,6039
+2016,Région lémanique,Ausländer/innen,Frauen,5800
+2016,Région lémanique,Ausländer/innen,Männer,6148
+2016,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4738
+2016,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Frauen,4246
+2016,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Männer,5079
+2016,Région lémanique,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5538
+2016,Région lémanique,> Aufenthalter/innen (Kat. B),Frauen,5432
+2016,Région lémanique,> Aufenthalter/innen (Kat. B),Männer,5599
+2016,Région lémanique,> Niedergelassene (Kat. C),Geschlecht - Total,6067
+2016,Région lémanique,> Niedergelassene (Kat. C),Frauen,5550
+2016,Région lémanique,> Niedergelassene (Kat. C),Männer,6263
+2016,Région lémanique,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6391
+2016,Région lémanique,> Grenzgänger/innen (Kat. G),Frauen,6371
+2016,Région lémanique,> Grenzgänger/innen (Kat. G),Männer,6400
+2016,Région lémanique,> Andere,Geschlecht - Total,5452
+2016,Région lémanique,> Andere,Frauen,6000
+2016,Région lémanique,> Andere,Männer,5142
+2016,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6426
+2016,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Frauen,5907
+2016,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Männer,6785
+2016,Espace Mittelland,Schweizer/innen,Geschlecht - Total,6692
+2016,Espace Mittelland,Schweizer/innen,Frauen,6081
+2016,Espace Mittelland,Schweizer/innen,Männer,7141
+2016,Espace Mittelland,Ausländer/innen,Geschlecht - Total,5661
+2016,Espace Mittelland,Ausländer/innen,Frauen,5080
+2016,Espace Mittelland,Ausländer/innen,Männer,5891
+2016,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5410
+2016,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Frauen,4330
+2016,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Männer,5539
+2016,Espace Mittelland,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5250
+2016,Espace Mittelland,> Aufenthalter/innen (Kat. B),Frauen,4998
+2016,Espace Mittelland,> Aufenthalter/innen (Kat. B),Männer,5353
+2016,Espace Mittelland,> Niedergelassene (Kat. C),Geschlecht - Total,5772
+2016,Espace Mittelland,> Niedergelassene (Kat. C),Frauen,5088
+2016,Espace Mittelland,> Niedergelassene (Kat. C),Männer,6055
+2016,Espace Mittelland,> Grenzgänger/innen (Kat. G),Geschlecht - Total,5862
+2016,Espace Mittelland,> Grenzgänger/innen (Kat. G),Frauen,5199
+2016,Espace Mittelland,> Grenzgänger/innen (Kat. G),Männer,6125
+2016,Espace Mittelland,> Andere,Geschlecht - Total,4534
+2016,Espace Mittelland,> Andere,Frauen,4596
+2016,Espace Mittelland,> Andere,Männer,4343
+2016,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6700
+2016,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6220
+2016,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,7034
+2016,Nordwestschweiz,Schweizer/innen,Geschlecht - Total,6892
+2016,Nordwestschweiz,Schweizer/innen,Frauen,6275
+2016,Nordwestschweiz,Schweizer/innen,Männer,7438
+2016,Nordwestschweiz,Ausländer/innen,Geschlecht - Total,6372
+2016,Nordwestschweiz,Ausländer/innen,Frauen,6125
+2016,Nordwestschweiz,Ausländer/innen,Männer,6467
+2016,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5613
+2016,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4954
+2016,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5805
+2016,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6130
+2016,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Frauen,6258
+2016,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Männer,6025
+2016,Nordwestschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6158
+2016,Nordwestschweiz,> Niedergelassene (Kat. C),Frauen,5544
+2016,Nordwestschweiz,> Niedergelassene (Kat. C),Männer,6408
+2016,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6763
+2016,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Frauen,6783
+2016,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Männer,6759
+2016,Nordwestschweiz,> Andere,Geschlecht - Total,5254
+2016,Nordwestschweiz,> Andere,Frauen,5080
+2016,Nordwestschweiz,> Andere,Männer,5301
+2016,Zürich,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6869
+2016,Zürich,Schweizer/innen und Ausländer/innen - Total,Frauen,6191
+2016,Zürich,Schweizer/innen und Ausländer/innen - Total,Männer,7406
+2016,Zürich,Schweizer/innen,Geschlecht - Total,7142
+2016,Zürich,Schweizer/innen,Frauen,6395
+2016,Zürich,Schweizer/innen,Männer,7861
+2016,Zürich,Ausländer/innen,Geschlecht - Total,6206
+2016,Zürich,Ausländer/innen,Frauen,5485
+2016,Zürich,Ausländer/innen,Männer,6535
+2016,Zürich,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5779
+2016,Zürich,> Kurzaufenthalter/innen (Kat. L),Frauen,5854
+2016,Zürich,> Kurzaufenthalter/innen (Kat. L),Männer,5777
+2016,Zürich,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6129
+2016,Zürich,> Aufenthalter/innen (Kat. B),Frauen,5771
+2016,Zürich,> Aufenthalter/innen (Kat. B),Männer,6388
+2016,Zürich,> Niedergelassene (Kat. C),Geschlecht - Total,6233
+2016,Zürich,> Niedergelassene (Kat. C),Frauen,5363
+2016,Zürich,> Niedergelassene (Kat. C),Männer,6607
+2016,Zürich,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6391
+2016,Zürich,> Grenzgänger/innen (Kat. G),Frauen,5431
+2016,Zürich,> Grenzgänger/innen (Kat. G),Männer,6726
+2016,Zürich,> Andere,Geschlecht - Total,4471
+2016,Zürich,> Andere,Frauen,4632
+2016,Zürich,> Andere,Männer,4432
+2016,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6092
+2016,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5520
+2016,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6347
+2016,Ostschweiz,Schweizer/innen,Geschlecht - Total,6368
+2016,Ostschweiz,Schweizer/innen,Frauen,5754
+2016,Ostschweiz,Schweizer/innen,Männer,6740
+2016,Ostschweiz,Ausländer/innen,Geschlecht - Total,5569
+2016,Ostschweiz,Ausländer/innen,Frauen,4867
+2016,Ostschweiz,Ausländer/innen,Männer,5758
+2016,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4820
+2016,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4089
+2016,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,4927
+2016,Ostschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5164
+2016,Ostschweiz,> Aufenthalter/innen (Kat. B),Frauen,4762
+2016,Ostschweiz,> Aufenthalter/innen (Kat. B),Männer,5316
+2016,Ostschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5620
+2016,Ostschweiz,> Niedergelassene (Kat. C),Frauen,4823
+2016,Ostschweiz,> Niedergelassene (Kat. C),Männer,5880
+2016,Ostschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6119
+2016,Ostschweiz,> Grenzgänger/innen (Kat. G),Frauen,5760
+2016,Ostschweiz,> Grenzgänger/innen (Kat. G),Männer,6190
+2016,Ostschweiz,> Andere,Geschlecht - Total,4260
+2016,Ostschweiz,> Andere,Frauen,4231
+2016,Ostschweiz,> Andere,Männer,4260
+2016,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6451
+2016,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5890
+2016,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6791
+2016,Zentralschweiz,Schweizer/innen,Geschlecht - Total,6643
+2016,Zentralschweiz,Schweizer/innen,Frauen,6018
+2016,Zentralschweiz,Schweizer/innen,Männer,7037
+2016,Zentralschweiz,Ausländer/innen,Geschlecht - Total,5838
+2016,Zentralschweiz,Ausländer/innen,Frauen,5211
+2016,Zentralschweiz,Ausländer/innen,Männer,6036
+2016,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5316
+2016,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4282
+2016,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5443
+2016,Zentralschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5725
+2016,Zentralschweiz,> Aufenthalter/innen (Kat. B),Frauen,5506
+2016,Zentralschweiz,> Aufenthalter/innen (Kat. B),Männer,5759
+2016,Zentralschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5879
+2016,Zentralschweiz,> Niedergelassene (Kat. C),Frauen,5112
+2016,Zentralschweiz,> Niedergelassene (Kat. C),Männer,6120
+2016,Zentralschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,7034
+2016,Zentralschweiz,> Grenzgänger/innen (Kat. G),Frauen,5776
+2016,Zentralschweiz,> Grenzgänger/innen (Kat. G),Männer,7175
+2016,Zentralschweiz,> Andere,Geschlecht - Total,3855
+2016,Zentralschweiz,> Andere,Frauen,3843
+2016,Zentralschweiz,> Andere,Männer,3855
+2016,Ticino,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,5563
+2016,Ticino,Schweizer/innen und Ausländer/innen - Total,Frauen,5119
+2016,Ticino,Schweizer/innen und Ausländer/innen - Total,Männer,5810
+2016,Ticino,Schweizer/innen,Geschlecht - Total,6372
+2016,Ticino,Schweizer/innen,Frauen,5911
+2016,Ticino,Schweizer/innen,Männer,6795
+2016,Ticino,Ausländer/innen,Geschlecht - Total,4930
+2016,Ticino,Ausländer/innen,Frauen,4335
+2016,Ticino,Ausländer/innen,Männer,5229
+2016,Ticino,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4995
+2016,Ticino,> Kurzaufenthalter/innen (Kat. L),Frauen,4366
+2016,Ticino,> Kurzaufenthalter/innen (Kat. L),Männer,5295
+2016,Ticino,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5277
+2016,Ticino,> Aufenthalter/innen (Kat. B),Frauen,4874
+2016,Ticino,> Aufenthalter/innen (Kat. B),Männer,5514
+2016,Ticino,> Niedergelassene (Kat. C),Geschlecht - Total,5461
+2016,Ticino,> Niedergelassene (Kat. C),Frauen,4781
+2016,Ticino,> Niedergelassene (Kat. C),Männer,5815
+2016,Ticino,> Grenzgänger/innen (Kat. G),Geschlecht - Total,4700
+2016,Ticino,> Grenzgänger/innen (Kat. G),Frauen,3998
+2016,Ticino,> Grenzgänger/innen (Kat. G),Männer,4997
+2016,Ticino,> Andere,Geschlecht - Total,4438
+2016,Ticino,> Andere,Frauen,4019
+2016,Ticino,> Andere,Männer,4753
+2014,Schweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6427
+2014,Schweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5907
+2014,Schweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6751
+2014,Schweiz,Schweizer/innen,Geschlecht - Total,6713
+2014,Schweiz,Schweizer/innen,Frauen,6088
+2014,Schweiz,Schweizer/innen,Männer,7200
+2014,Schweiz,Ausländer/innen,Geschlecht - Total,5833
+2014,Schweiz,Ausländer/innen,Frauen,5318
+2014,Schweiz,Ausländer/innen,Männer,6011
+2014,Schweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5381
+2014,Schweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4583
+2014,Schweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5481
+2014,Schweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5596
+2014,Schweiz,> Aufenthalter/innen (Kat. B),Frauen,5418
+2014,Schweiz,> Aufenthalter/innen (Kat. B),Männer,5658
+2014,Schweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5878
+2014,Schweiz,> Niedergelassene (Kat. C),Frauen,5179
+2014,Schweiz,> Niedergelassene (Kat. C),Männer,6130
+2014,Schweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6034
+2014,Schweiz,> Grenzgänger/innen (Kat. G),Frauen,5656
+2014,Schweiz,> Grenzgänger/innen (Kat. G),Männer,6166
+2014,Schweiz,> Andere,Geschlecht - Total,5343
+2014,Schweiz,> Andere,Frauen,4703
+2014,Schweiz,> Andere,Männer,5402
+2014,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6497
+2014,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Frauen,6189
+2014,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Männer,6682
+2014,Région lémanique,Schweizer/innen,Geschlecht - Total,6981
+2014,Région lémanique,Schweizer/innen,Frauen,6498
+2014,Région lémanique,Schweizer/innen,Männer,7417
+2014,Région lémanique,Ausländer/innen,Geschlecht - Total,5940
+2014,Région lémanique,Ausländer/innen,Frauen,5665
+2014,Région lémanique,Ausländer/innen,Männer,6038
+2014,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5261
+2014,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Frauen,4768
+2014,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Männer,5339
+2014,Région lémanique,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5352
+2014,Région lémanique,> Aufenthalter/innen (Kat. B),Frauen,5249
+2014,Région lémanique,> Aufenthalter/innen (Kat. B),Männer,5366
+2014,Région lémanique,> Niedergelassene (Kat. C),Geschlecht - Total,5955
+2014,Région lémanique,> Niedergelassene (Kat. C),Frauen,5365
+2014,Région lémanique,> Niedergelassene (Kat. C),Männer,6190
+2014,Région lémanique,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6346
+2014,Région lémanique,> Grenzgänger/innen (Kat. G),Frauen,6324
+2014,Région lémanique,> Grenzgänger/innen (Kat. G),Männer,6366
+2014,Région lémanique,> Andere,Geschlecht - Total,5531
+2014,Région lémanique,> Andere,Frauen,5117
+2014,Région lémanique,> Andere,Männer,5816
+2014,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6358
+2014,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Frauen,5879
+2014,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Männer,6677
+2014,Espace Mittelland,Schweizer/innen,Geschlecht - Total,6596
+2014,Espace Mittelland,Schweizer/innen,Frauen,6038
+2014,Espace Mittelland,Schweizer/innen,Männer,6994
+2014,Espace Mittelland,Ausländer/innen,Geschlecht - Total,5626
+2014,Espace Mittelland,Ausländer/innen,Frauen,5070
+2014,Espace Mittelland,Ausländer/innen,Männer,5834
+2014,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5275
+2014,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Frauen,4275
+2014,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Männer,5447
+2014,Espace Mittelland,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5282
+2014,Espace Mittelland,> Aufenthalter/innen (Kat. B),Frauen,4950
+2014,Espace Mittelland,> Aufenthalter/innen (Kat. B),Männer,5412
+2014,Espace Mittelland,> Niedergelassene (Kat. C),Geschlecht - Total,5726
+2014,Espace Mittelland,> Niedergelassene (Kat. C),Frauen,5098
+2014,Espace Mittelland,> Niedergelassene (Kat. C),Männer,5976
+2014,Espace Mittelland,> Grenzgänger/innen (Kat. G),Geschlecht - Total,5776
+2014,Espace Mittelland,> Grenzgänger/innen (Kat. G),Frauen,5184
+2014,Espace Mittelland,> Grenzgänger/innen (Kat. G),Männer,6027
+2014,Espace Mittelland,> Andere,Geschlecht - Total,5192
+2014,Espace Mittelland,> Andere,Frauen,4324
+2014,Espace Mittelland,> Andere,Männer,5366
+2014,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6578
+2014,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,6014
+2014,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6934
+2014,Nordwestschweiz,Schweizer/innen,Geschlecht - Total,6784
+2014,Nordwestschweiz,Schweizer/innen,Frauen,6088
+2014,Nordwestschweiz,Schweizer/innen,Männer,7294
+2014,Nordwestschweiz,Ausländer/innen,Geschlecht - Total,6195
+2014,Nordwestschweiz,Ausländer/innen,Frauen,5817
+2014,Nordwestschweiz,Ausländer/innen,Männer,6341
+2014,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5391
+2014,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4348
+2014,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5478
+2014,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5707
+2014,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Frauen,5734
+2014,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Männer,5696
+2014,Nordwestschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,6010
+2014,Nordwestschweiz,> Niedergelassene (Kat. C),Frauen,5322
+2014,Nordwestschweiz,> Niedergelassene (Kat. C),Männer,6250
+2014,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6750
+2014,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Frauen,6594
+2014,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Männer,6818
+2014,Nordwestschweiz,> Andere,Geschlecht - Total,5549
+2014,Nordwestschweiz,> Andere,Frauen,4978
+2014,Nordwestschweiz,> Andere,Männer,5700
+2014,Zürich,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6810
+2014,Zürich,Schweizer/innen und Ausländer/innen - Total,Frauen,6124
+2014,Zürich,Schweizer/innen und Ausländer/innen - Total,Männer,7325
+2014,Zürich,Schweizer/innen,Geschlecht - Total,7073
+2014,Zürich,Schweizer/innen,Frauen,6279
+2014,Zürich,Schweizer/innen,Männer,7752
+2014,Zürich,Ausländer/innen,Geschlecht - Total,6215
+2014,Zürich,Ausländer/innen,Frauen,5543
+2014,Zürich,Ausländer/innen,Männer,6457
+2014,Zürich,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,6385
+2014,Zürich,> Kurzaufenthalter/innen (Kat. L),Frauen,5922
+2014,Zürich,> Kurzaufenthalter/innen (Kat. L),Männer,6461
+2014,Zürich,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6259
+2014,Zürich,> Aufenthalter/innen (Kat. B),Frauen,5985
+2014,Zürich,> Aufenthalter/innen (Kat. B),Männer,6381
+2014,Zürich,> Niedergelassene (Kat. C),Geschlecht - Total,6202
+2014,Zürich,> Niedergelassene (Kat. C),Frauen,5372
+2014,Zürich,> Niedergelassene (Kat. C),Männer,6488
+2014,Zürich,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6230
+2014,Zürich,> Grenzgänger/innen (Kat. G),Frauen,5412
+2014,Zürich,> Grenzgänger/innen (Kat. G),Männer,6473
+2014,Zürich,> Andere,Geschlecht - Total,5546
+2014,Zürich,> Andere,Frauen,5011
+2014,Zürich,> Andere,Männer,5648
+2014,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6027
+2014,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5385
+2014,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6343
+2014,Ostschweiz,Schweizer/innen,Geschlecht - Total,6328
+2014,Ostschweiz,Schweizer/innen,Frauen,5585
+2014,Ostschweiz,Schweizer/innen,Männer,6775
+2014,Ostschweiz,Ausländer/innen,Geschlecht - Total,5487
+2014,Ostschweiz,Ausländer/innen,Frauen,4832
+2014,Ostschweiz,Ausländer/innen,Männer,5671
+2014,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5018
+2014,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4225
+2014,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5137
+2014,Ostschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5183
+2014,Ostschweiz,> Aufenthalter/innen (Kat. B),Frauen,4961
+2014,Ostschweiz,> Aufenthalter/innen (Kat. B),Männer,5250
+2014,Ostschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5514
+2014,Ostschweiz,> Niedergelassene (Kat. C),Frauen,4722
+2014,Ostschweiz,> Niedergelassene (Kat. C),Männer,5796
+2014,Ostschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,5992
+2014,Ostschweiz,> Grenzgänger/innen (Kat. G),Frauen,5489
+2014,Ostschweiz,> Grenzgänger/innen (Kat. G),Männer,6127
+2014,Ostschweiz,> Andere,Geschlecht - Total,5328
+2014,Ostschweiz,> Andere,Frauen,4605
+2014,Ostschweiz,> Andere,Männer,5355
+2014,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6352
+2014,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5812
+2014,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6663
+2014,Zentralschweiz,Schweizer/innen,Geschlecht - Total,6500
+2014,Zentralschweiz,Schweizer/innen,Frauen,5908
+2014,Zentralschweiz,Schweizer/innen,Männer,6888
+2014,Zentralschweiz,Ausländer/innen,Geschlecht - Total,5896
+2014,Zentralschweiz,Ausländer/innen,Frauen,5255
+2014,Zentralschweiz,Ausländer/innen,Männer,6067
+2014,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5751
+2014,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,4643
+2014,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5833
+2014,Zentralschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5907
+2014,Zentralschweiz,> Aufenthalter/innen (Kat. B),Frauen,5818
+2014,Zentralschweiz,> Aufenthalter/innen (Kat. B),Männer,5928
+2014,Zentralschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5875
+2014,Zentralschweiz,> Niedergelassene (Kat. C),Frauen,5035
+2014,Zentralschweiz,> Niedergelassene (Kat. C),Männer,6111
+2014,Zentralschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6977
+2014,Zentralschweiz,> Grenzgänger/innen (Kat. G),Frauen,6257
+2014,Zentralschweiz,> Grenzgänger/innen (Kat. G),Männer,7182
+2014,Zentralschweiz,> Andere,Geschlecht - Total,4735
+2014,Zentralschweiz,> Andere,Frauen,
+2014,Zentralschweiz,> Andere,Männer,4735
+2014,Ticino,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,5485
+2014,Ticino,Schweizer/innen und Ausländer/innen - Total,Frauen,5101
+2014,Ticino,Schweizer/innen und Ausländer/innen - Total,Männer,5705
+2014,Ticino,Schweizer/innen,Geschlecht - Total,6227
+2014,Ticino,Schweizer/innen,Frauen,5742
+2014,Ticino,Schweizer/innen,Männer,6626
+2014,Ticino,Ausländer/innen,Geschlecht - Total,4890
+2014,Ticino,Ausländer/innen,Frauen,4225
+2014,Ticino,Ausländer/innen,Männer,5172
+2014,Ticino,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5487
+2014,Ticino,> Kurzaufenthalter/innen (Kat. L),Frauen,5581
+2014,Ticino,> Kurzaufenthalter/innen (Kat. L),Männer,5175
+2014,Ticino,> Aufenthalter/innen (Kat. B),Geschlecht - Total,4944
+2014,Ticino,> Aufenthalter/innen (Kat. B),Frauen,4767
+2014,Ticino,> Aufenthalter/innen (Kat. B),Männer,5048
+2014,Ticino,> Niedergelassene (Kat. C),Geschlecht - Total,5398
+2014,Ticino,> Niedergelassene (Kat. C),Frauen,4977
+2014,Ticino,> Niedergelassene (Kat. C),Männer,5547
+2014,Ticino,> Grenzgänger/innen (Kat. G),Geschlecht - Total,4610
+2014,Ticino,> Grenzgänger/innen (Kat. G),Frauen,3831
+2014,Ticino,> Grenzgänger/innen (Kat. G),Männer,4980
+2014,Ticino,> Andere,Geschlecht - Total,4224
+2014,Ticino,> Andere,Frauen,3860
+2014,Ticino,> Andere,Männer,4333
+2012,Schweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6439
+2012,Schweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5808
+2012,Schweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6840
+2012,Schweiz,Schweizer/innen,Geschlecht - Total,6720
+2012,Schweiz,Schweizer/innen,Frauen,5990
+2012,Schweiz,Schweizer/innen,Männer,7270
+2012,Schweiz,Ausländer/innen,Geschlecht - Total,5797
+2012,Schweiz,Ausländer/innen,Frauen,5186
+2012,Schweiz,Ausländer/innen,Männer,6018
+2012,Schweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4790
+2012,Schweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,3930
+2012,Schweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5080
+2012,Schweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5768
+2012,Schweiz,> Aufenthalter/innen (Kat. B),Frauen,5583
+2012,Schweiz,> Aufenthalter/innen (Kat. B),Männer,5852
+2012,Schweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5788
+2012,Schweiz,> Niedergelassene (Kat. C),Frauen,5000
+2012,Schweiz,> Niedergelassene (Kat. C),Männer,6091
+2012,Schweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6025
+2012,Schweiz,> Grenzgänger/innen (Kat. G),Frauen,5588
+2012,Schweiz,> Grenzgänger/innen (Kat. G),Männer,6190
+2012,Schweiz,> Andere,Geschlecht - Total,4143
+2012,Schweiz,> Andere,Frauen,3873
+2012,Schweiz,> Andere,Männer,4290
+2012,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6558
+2012,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Frauen,6151
+2012,Région lémanique,Schweizer/innen und Ausländer/innen - Total,Männer,6855
+2012,Région lémanique,Schweizer/innen,Geschlecht - Total,6966
+2012,Région lémanique,Schweizer/innen,Frauen,6377
+2012,Région lémanique,Schweizer/innen,Männer,7498
+2012,Région lémanique,Ausländer/innen,Geschlecht - Total,6038
+2012,Région lémanique,Ausländer/innen,Frauen,5728
+2012,Région lémanique,Ausländer/innen,Männer,6188
+2012,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4485
+2012,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Frauen,3757
+2012,Région lémanique,> Kurzaufenthalter/innen (Kat. L),Männer,4849
+2012,Région lémanique,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5648
+2012,Région lémanique,> Aufenthalter/innen (Kat. B),Frauen,5467
+2012,Région lémanique,> Aufenthalter/innen (Kat. B),Männer,5719
+2012,Région lémanique,> Niedergelassene (Kat. C),Geschlecht - Total,5958
+2012,Région lémanique,> Niedergelassene (Kat. C),Frauen,5347
+2012,Région lémanique,> Niedergelassene (Kat. C),Männer,6219
+2012,Région lémanique,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6519
+2012,Région lémanique,> Grenzgänger/innen (Kat. G),Frauen,6416
+2012,Région lémanique,> Grenzgänger/innen (Kat. G),Männer,6588
+2012,Région lémanique,> Andere,Geschlecht - Total,5622
+2012,Région lémanique,> Andere,Frauen,6443
+2012,Région lémanique,> Andere,Männer,5320
+2012,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6308
+2012,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Frauen,5658
+2012,Espace Mittelland,Schweizer/innen und Ausländer/innen - Total,Männer,6690
+2012,Espace Mittelland,Schweizer/innen,Geschlecht - Total,6538
+2012,Espace Mittelland,Schweizer/innen,Frauen,5834
+2012,Espace Mittelland,Schweizer/innen,Männer,6996
+2012,Espace Mittelland,Ausländer/innen,Geschlecht - Total,5548
+2012,Espace Mittelland,Ausländer/innen,Frauen,4866
+2012,Espace Mittelland,Ausländer/innen,Männer,5804
+2012,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4600
+2012,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Frauen,3908
+2012,Espace Mittelland,> Kurzaufenthalter/innen (Kat. L),Männer,5056
+2012,Espace Mittelland,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5291
+2012,Espace Mittelland,> Aufenthalter/innen (Kat. B),Frauen,4789
+2012,Espace Mittelland,> Aufenthalter/innen (Kat. B),Männer,5488
+2012,Espace Mittelland,> Niedergelassene (Kat. C),Geschlecht - Total,5634
+2012,Espace Mittelland,> Niedergelassene (Kat. C),Frauen,4889
+2012,Espace Mittelland,> Niedergelassene (Kat. C),Männer,5921
+2012,Espace Mittelland,> Grenzgänger/innen (Kat. G),Geschlecht - Total,5668
+2012,Espace Mittelland,> Grenzgänger/innen (Kat. G),Frauen,5025
+2012,Espace Mittelland,> Grenzgänger/innen (Kat. G),Männer,5925
+2012,Espace Mittelland,> Andere,Geschlecht - Total,4855
+2012,Espace Mittelland,> Andere,Frauen,4373
+2012,Espace Mittelland,> Andere,Männer,5079
+2012,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6653
+2012,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5981
+2012,Nordwestschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,7094
+2012,Nordwestschweiz,Schweizer/innen,Geschlecht - Total,6833
+2012,Nordwestschweiz,Schweizer/innen,Frauen,6005
+2012,Nordwestschweiz,Schweizer/innen,Männer,7466
+2012,Nordwestschweiz,Ausländer/innen,Geschlecht - Total,6271
+2012,Nordwestschweiz,Ausländer/innen,Frauen,5890
+2012,Nordwestschweiz,Ausländer/innen,Männer,6402
+2012,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4742
+2012,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,3813
+2012,Nordwestschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,4903
+2012,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6422
+2012,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Frauen,6303
+2012,Nordwestschweiz,> Aufenthalter/innen (Kat. B),Männer,6520
+2012,Nordwestschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5885
+2012,Nordwestschweiz,> Niedergelassene (Kat. C),Frauen,5094
+2012,Nordwestschweiz,> Niedergelassene (Kat. C),Männer,6147
+2012,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6850
+2012,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Frauen,6773
+2012,Nordwestschweiz,> Grenzgänger/innen (Kat. G),Männer,6878
+2012,Nordwestschweiz,> Andere,Geschlecht - Total,4699
+2012,Nordwestschweiz,> Andere,Frauen,4536
+2012,Nordwestschweiz,> Andere,Männer,4772
+2012,Zürich,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6900
+2012,Zürich,Schweizer/innen und Ausländer/innen - Total,Frauen,6192
+2012,Zürich,Schweizer/innen und Ausländer/innen - Total,Männer,7500
+2012,Zürich,Schweizer/innen,Geschlecht - Total,7180
+2012,Zürich,Schweizer/innen,Frauen,6341
+2012,Zürich,Schweizer/innen,Männer,7956
+2012,Zürich,Ausländer/innen,Geschlecht - Total,6179
+2012,Zürich,Ausländer/innen,Frauen,5550
+2012,Zürich,Ausländer/innen,Männer,6424
+2012,Zürich,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,6027
+2012,Zürich,> Kurzaufenthalter/innen (Kat. L),Frauen,6023
+2012,Zürich,> Kurzaufenthalter/innen (Kat. L),Männer,6038
+2012,Zürich,> Aufenthalter/innen (Kat. B),Geschlecht - Total,6350
+2012,Zürich,> Aufenthalter/innen (Kat. B),Frauen,6190
+2012,Zürich,> Aufenthalter/innen (Kat. B),Männer,6422
+2012,Zürich,> Niedergelassene (Kat. C),Geschlecht - Total,6096
+2012,Zürich,> Niedergelassene (Kat. C),Frauen,5200
+2012,Zürich,> Niedergelassene (Kat. C),Männer,6459
+2012,Zürich,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6250
+2012,Zürich,> Grenzgänger/innen (Kat. G),Frauen,5479
+2012,Zürich,> Grenzgänger/innen (Kat. G),Männer,6560
+2012,Zürich,> Andere,Geschlecht - Total,3939
+2012,Zürich,> Andere,Frauen,3939
+2012,Zürich,> Andere,Männer,3947
+2012,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,5933
+2012,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5151
+2012,Ostschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6307
+2012,Ostschweiz,Schweizer/innen,Geschlecht - Total,6202
+2012,Ostschweiz,Schweizer/innen,Frauen,5341
+2012,Ostschweiz,Schweizer/innen,Männer,6707
+2012,Ostschweiz,Ausländer/innen,Geschlecht - Total,5411
+2012,Ostschweiz,Ausländer/innen,Frauen,4612
+2012,Ostschweiz,Ausländer/innen,Männer,5657
+2012,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4451
+2012,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,3594
+2012,Ostschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,4880
+2012,Ostschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5241
+2012,Ostschweiz,> Aufenthalter/innen (Kat. B),Frauen,4681
+2012,Ostschweiz,> Aufenthalter/innen (Kat. B),Männer,5392
+2012,Ostschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5431
+2012,Ostschweiz,> Niedergelassene (Kat. C),Frauen,4563
+2012,Ostschweiz,> Niedergelassene (Kat. C),Männer,5777
+2012,Ostschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,5935
+2012,Ostschweiz,> Grenzgänger/innen (Kat. G),Frauen,5351
+2012,Ostschweiz,> Grenzgänger/innen (Kat. G),Männer,6065
+2012,Ostschweiz,> Andere,Geschlecht - Total,3769
+2012,Ostschweiz,> Andere,Frauen,
+2012,Ostschweiz,> Andere,Männer,3769
+2012,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,6313
+2012,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Frauen,5608
+2012,Zentralschweiz,Schweizer/innen und Ausländer/innen - Total,Männer,6722
+2012,Zentralschweiz,Schweizer/innen,Geschlecht - Total,6501
+2012,Zentralschweiz,Schweizer/innen,Frauen,5785
+2012,Zentralschweiz,Schweizer/innen,Männer,6986
+2012,Zentralschweiz,Ausländer/innen,Geschlecht - Total,5621
+2012,Zentralschweiz,Ausländer/innen,Frauen,4692
+2012,Zentralschweiz,Ausländer/innen,Männer,5946
+2012,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,5014
+2012,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Frauen,3977
+2012,Zentralschweiz,> Kurzaufenthalter/innen (Kat. L),Männer,5065
+2012,Zentralschweiz,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5827
+2012,Zentralschweiz,> Aufenthalter/innen (Kat. B),Frauen,5361
+2012,Zentralschweiz,> Aufenthalter/innen (Kat. B),Männer,6044
+2012,Zentralschweiz,> Niedergelassene (Kat. C),Geschlecht - Total,5671
+2012,Zentralschweiz,> Niedergelassene (Kat. C),Frauen,4685
+2012,Zentralschweiz,> Niedergelassene (Kat. C),Männer,6057
+2012,Zentralschweiz,> Grenzgänger/innen (Kat. G),Geschlecht - Total,6889
+2012,Zentralschweiz,> Grenzgänger/innen (Kat. G),Frauen,5469
+2012,Zentralschweiz,> Grenzgänger/innen (Kat. G),Männer,7028
+2012,Zentralschweiz,> Andere,Geschlecht - Total,2302
+2012,Zentralschweiz,> Andere,Frauen,1915
+2012,Zentralschweiz,> Andere,Männer,3429
+2012,Ticino,Schweizer/innen und Ausländer/innen - Total,Geschlecht - Total,5388
+2012,Ticino,Schweizer/innen und Ausländer/innen - Total,Frauen,4753
+2012,Ticino,Schweizer/innen und Ausländer/innen - Total,Männer,5693
+2012,Ticino,Schweizer/innen,Geschlecht - Total,6132
+2012,Ticino,Schweizer/innen,Frauen,5536
+2012,Ticino,Schweizer/innen,Männer,6534
+2012,Ticino,Ausländer/innen,Geschlecht - Total,4724
+2012,Ticino,Ausländer/innen,Frauen,3926
+2012,Ticino,Ausländer/innen,Männer,5094
+2012,Ticino,> Kurzaufenthalter/innen (Kat. L),Geschlecht - Total,4089
+2012,Ticino,> Kurzaufenthalter/innen (Kat. L),Frauen,3970
+2012,Ticino,> Kurzaufenthalter/innen (Kat. L),Männer,4185
+2012,Ticino,> Aufenthalter/innen (Kat. B),Geschlecht - Total,5092
+2012,Ticino,> Aufenthalter/innen (Kat. B),Frauen,4658
+2012,Ticino,> Aufenthalter/innen (Kat. B),Männer,5231
+2012,Ticino,> Niedergelassene (Kat. C),Geschlecht - Total,5295
+2012,Ticino,> Niedergelassene (Kat. C),Frauen,4611
+2012,Ticino,> Niedergelassene (Kat. C),Männer,5617
+2012,Ticino,> Grenzgänger/innen (Kat. G),Geschlecht - Total,4440
+2012,Ticino,> Grenzgänger/innen (Kat. G),Frauen,3548
+2012,Ticino,> Grenzgänger/innen (Kat. G),Männer,4825
+2012,Ticino,> Andere,Geschlecht - Total,
+2012,Ticino,> Andere,Frauen,
+2012,Ticino,> Andere,Männer,

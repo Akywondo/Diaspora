@@ -1,0 +1,1057 @@
+year,region,tenure,household_nationality_group,share_percent,ci_pm_pp
+2022,Schweiz,Mieter oder Genossenschafter,total,60.9,0.2
+2022,Schweiz,Mieter oder Genossenschafter,swiss_household,52.7,0.2
+2022,Schweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,69.8,0.5
+2022,Schweiz,Mieter oder Genossenschafter,foreign_household,84.8,0.3
+2022,Schweiz,Eigentümer,total,35.9,0.2
+2022,Schweiz,Eigentümer,swiss_household,43.9,0.2
+2022,Schweiz,Eigentümer,mixed_swiss_foreign_household,26.8,0.5
+2022,Schweiz,Eigentümer,foreign_household,12.9,0.3
+2022,Schweiz,Andere Situation,total,3.2,0.1
+2022,Schweiz,Andere Situation,swiss_household,3.4,0.1
+2022,Schweiz,Andere Situation,mixed_swiss_foreign_household,3.4,0.2
+2022,Schweiz,Andere Situation,foreign_household,2.3,0.2
+2022,Genferseeregion,Mieter oder Genossenschafter,total,63.9,0.4
+2022,Genferseeregion,Mieter oder Genossenschafter,swiss_household,54.1,0.5
+2022,Genferseeregion,Mieter oder Genossenschafter,mixed_swiss_foreign_household,71.4,1
+2022,Genferseeregion,Mieter oder Genossenschafter,foreign_household,84.2,0.7
+2022,Genferseeregion,Eigentümer,total,32.2,0.4
+2022,Genferseeregion,Eigentümer,swiss_household,41.8,0.5
+2022,Genferseeregion,Eigentümer,mixed_swiss_foreign_household,23.7,0.9
+2022,Genferseeregion,Eigentümer,foreign_household,12.6,0.6
+2022,Genferseeregion,Andere Situation,total,3.9,0.2
+2022,Genferseeregion,Andere Situation,swiss_household,4.1,0.2
+2022,Genferseeregion,Andere Situation,mixed_swiss_foreign_household,4.9,0.5
+2022,Genferseeregion,Andere Situation,foreign_household,3.1,0.4
+2022,Espace Mittelland,Mieter oder Genossenschafter,total,56.8,0.5
+2022,Espace Mittelland,Mieter oder Genossenschafter,swiss_household,50.4,0.5
+2022,Espace Mittelland,Mieter oder Genossenschafter,mixed_swiss_foreign_household,66.8,1.4
+2022,Espace Mittelland,Mieter oder Genossenschafter,foreign_household,84.6,1
+2022,Espace Mittelland,Eigentümer,total,39.6,0.5
+2022,Espace Mittelland,Eigentümer,swiss_household,45.7,0.5
+2022,Espace Mittelland,Eigentümer,mixed_swiss_foreign_household,30.2,1.4
+2022,Espace Mittelland,Eigentümer,foreign_household,13.1,0.9
+2022,Espace Mittelland,Andere Situation,total,3.6,0.2
+2022,Espace Mittelland,Andere Situation,swiss_household,3.9,0.2
+2022,Espace Mittelland,Andere Situation,mixed_swiss_foreign_household,3,0.5
+2022,Espace Mittelland,Andere Situation,foreign_household,2.3,0.4
+2022,Nordwestschweiz,Mieter oder Genossenschafter,total,57.7,0.5
+2022,Nordwestschweiz,Mieter oder Genossenschafter,swiss_household,48.9,0.6
+2022,Nordwestschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,65.3,1.4
+2022,Nordwestschweiz,Mieter oder Genossenschafter,foreign_household,82.5,0.9
+2022,Nordwestschweiz,Eigentümer,total,39.8,0.5
+2022,Nordwestschweiz,Eigentümer,swiss_household,48.4,0.6
+2022,Nordwestschweiz,Eigentümer,mixed_swiss_foreign_household,31.9,1.3
+2022,Nordwestschweiz,Eigentümer,foreign_household,15.9,0.8
+2022,Nordwestschweiz,Andere Situation,total,2.4,0.2
+2022,Nordwestschweiz,Andere Situation,swiss_household,2.7,0.2
+2022,Nordwestschweiz,Andere Situation,mixed_swiss_foreign_household,2.8,0.5
+2022,Nordwestschweiz,Andere Situation,foreign_household,1.6,0.3
+2022,Zürich,Mieter oder Genossenschafter,total,71.4,0.5
+2022,Zürich,Mieter oder Genossenschafter,swiss_household,63.7,0.6
+2022,Zürich,Mieter oder Genossenschafter,mixed_swiss_foreign_household,79,1.1
+2022,Zürich,Mieter oder Genossenschafter,foreign_household,90.3,0.7
+2022,Zürich,Eigentümer,total,26.8,0.4
+2022,Zürich,Eigentümer,swiss_household,34.3,0.6
+2022,Zürich,Eigentümer,mixed_swiss_foreign_household,18.9,1.1
+2022,Zürich,Eigentümer,foreign_household,8.1,0.7
+2022,Zürich,Andere Situation,total,1.9,0.2
+2022,Zürich,Andere Situation,swiss_household,1.9,0.2
+2022,Zürich,Andere Situation,mixed_swiss_foreign_household,2.1,0.4
+2022,Zürich,Andere Situation,foreign_household,1.5,0.4
+2022,Ostschweiz,Mieter oder Genossenschafter,total,54.5,0.6
+2022,Ostschweiz,Mieter oder Genossenschafter,swiss_household,45.9,0.7
+2022,Ostschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,61.8,1.8
+2022,Ostschweiz,Mieter oder Genossenschafter,foreign_household,82.2,1.1
+2022,Ostschweiz,Eigentümer,total,42.5,0.6
+2022,Ostschweiz,Eigentümer,swiss_household,51,0.7
+2022,Ostschweiz,Eigentümer,mixed_swiss_foreign_household,35.2,1.7
+2022,Ostschweiz,Eigentümer,foreign_household,15.7,1
+2022,Ostschweiz,Andere Situation,total,2.9,0.2
+2022,Ostschweiz,Andere Situation,swiss_household,3.1,0.2
+2022,Ostschweiz,Andere Situation,mixed_swiss_foreign_household,3,0.6
+2022,Ostschweiz,Andere Situation,foreign_household,2.2,0.5
+2022,Zentralschweiz,Mieter oder Genossenschafter,total,61.5,0.6
+2022,Zentralschweiz,Mieter oder Genossenschafter,swiss_household,54.7,0.7
+2022,Zentralschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,72.9,1.7
+2022,Zentralschweiz,Mieter oder Genossenschafter,foreign_household,86.5,1.1
+2022,Zentralschweiz,Eigentümer,total,35.4,0.6
+2022,Zentralschweiz,Eigentümer,swiss_household,42,0.7
+2022,Zentralschweiz,Eigentümer,mixed_swiss_foreign_household,24.3,1.7
+2022,Zentralschweiz,Eigentümer,foreign_household,11.3,1
+2022,Zentralschweiz,Andere Situation,total,3.1,0.2
+2022,Zentralschweiz,Andere Situation,swiss_household,3.4,0.3
+2022,Zentralschweiz,Andere Situation,mixed_swiss_foreign_household,2.8,0.6
+2022,Zentralschweiz,Andere Situation,foreign_household,2.2,0.5
+2022,Tessin,Mieter oder Genossenschafter,total,54.1,0.8
+2022,Tessin,Mieter oder Genossenschafter,swiss_household,44.4,1
+2022,Tessin,Mieter oder Genossenschafter,mixed_swiss_foreign_household,59.7,2.1
+2022,Tessin,Mieter oder Genossenschafter,foreign_household,77.3,1.4
+2022,Tessin,Eigentümer,total,39,0.8
+2022,Tessin,Eigentümer,swiss_household,48.1,1
+2022,Tessin,Eigentümer,mixed_swiss_foreign_household,32.1,1.9
+2022,Tessin,Eigentümer,foreign_household,17.7,1.3
+2022,Tessin,Andere Situation,total,6.9,0.4
+2022,Tessin,Andere Situation,swiss_household,7.5,0.5
+2022,Tessin,Andere Situation,mixed_swiss_foreign_household,8.2,1.1
+2022,Tessin,Andere Situation,foreign_household,4.9,0.8
+2021,Schweiz,Mieter oder Genossenschafter,total,60.5,0.2
+2021,Schweiz,Mieter oder Genossenschafter,swiss_household,52.4,0.2
+2021,Schweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,69.8,0.6
+2021,Schweiz,Mieter oder Genossenschafter,foreign_household,84.4,0.4
+2021,Schweiz,Eigentümer,total,36.3,0.2
+2021,Schweiz,Eigentümer,swiss_household,44.2,0.2
+2021,Schweiz,Eigentümer,mixed_swiss_foreign_household,27,0.5
+2021,Schweiz,Eigentümer,foreign_household,13.3,0.3
+2021,Schweiz,Andere Situation,total,3.2,0.1
+2021,Schweiz,Andere Situation,swiss_household,3.4,0.1
+2021,Schweiz,Andere Situation,mixed_swiss_foreign_household,3.3,0.2
+2021,Schweiz,Andere Situation,foreign_household,2.3,0.2
+2021,Genferseeregion,Mieter oder Genossenschafter,total,63.9,0.4
+2021,Genferseeregion,Mieter oder Genossenschafter,swiss_household,54.3,0.5
+2021,Genferseeregion,Mieter oder Genossenschafter,mixed_swiss_foreign_household,72.1,1
+2021,Genferseeregion,Mieter oder Genossenschafter,foreign_household,84.1,0.7
+2021,Genferseeregion,Eigentümer,total,32.3,0.4
+2021,Genferseeregion,Eigentümer,swiss_household,41.7,0.5
+2021,Genferseeregion,Eigentümer,mixed_swiss_foreign_household,23.9,1
+2021,Genferseeregion,Eigentümer,foreign_household,13,0.6
+2021,Genferseeregion,Andere Situation,total,3.8,0.2
+2021,Genferseeregion,Andere Situation,swiss_household,4.1,0.2
+2021,Genferseeregion,Andere Situation,mixed_swiss_foreign_household,3.9,0.5
+2021,Genferseeregion,Andere Situation,foreign_household,3,0.4
+2021,Espace Mittelland,Mieter oder Genossenschafter,total,56.3,0.5
+2021,Espace Mittelland,Mieter oder Genossenschafter,swiss_household,50,0.5
+2021,Espace Mittelland,Mieter oder Genossenschafter,mixed_swiss_foreign_household,66.8,1.5
+2021,Espace Mittelland,Mieter oder Genossenschafter,foreign_household,83.5,1
+2021,Espace Mittelland,Eigentümer,total,39.9,0.5
+2021,Espace Mittelland,Eigentümer,swiss_household,45.8,0.5
+2021,Espace Mittelland,Eigentümer,mixed_swiss_foreign_household,30.2,1.4
+2021,Espace Mittelland,Eigentümer,foreign_household,14.2,0.9
+2021,Espace Mittelland,Andere Situation,total,3.8,0.2
+2021,Espace Mittelland,Andere Situation,swiss_household,4.1,0.2
+2021,Espace Mittelland,Andere Situation,mixed_swiss_foreign_household,3,0.5
+2021,Espace Mittelland,Andere Situation,foreign_household,2.3,0.5
+2021,Nordwestschweiz,Mieter oder Genossenschafter,total,57.3,0.5
+2021,Nordwestschweiz,Mieter oder Genossenschafter,swiss_household,48.8,0.6
+2021,Nordwestschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,64,1.5
+2021,Nordwestschweiz,Mieter oder Genossenschafter,foreign_household,82.7,0.9
+2021,Nordwestschweiz,Eigentümer,total,40.3,0.5
+2021,Nordwestschweiz,Eigentümer,swiss_household,48.8,0.6
+2021,Nordwestschweiz,Eigentümer,mixed_swiss_foreign_household,33.4,1.4
+2021,Nordwestschweiz,Eigentümer,foreign_household,15.5,0.8
+2021,Nordwestschweiz,Andere Situation,total,2.3,0.2
+2021,Nordwestschweiz,Andere Situation,swiss_household,2.5,0.2
+2021,Nordwestschweiz,Andere Situation,mixed_swiss_foreign_household,2.6,0.5
+2021,Nordwestschweiz,Andere Situation,foreign_household,1.8,0.3
+2021,Zürich,Mieter oder Genossenschafter,total,70.7,0.5
+2021,Zürich,Mieter oder Genossenschafter,swiss_household,63.1,0.6
+2021,Zürich,Mieter oder Genossenschafter,mixed_swiss_foreign_household,78.8,1.2
+2021,Zürich,Mieter oder Genossenschafter,foreign_household,89.8,0.7
+2021,Zürich,Eigentümer,total,27.6,0.5
+2021,Zürich,Eigentümer,swiss_household,35.1,0.6
+2021,Zürich,Eigentümer,mixed_swiss_foreign_household,19,1.1
+2021,Zürich,Eigentümer,foreign_household,8.8,0.7
+2021,Zürich,Andere Situation,total,1.8,0.1
+2021,Zürich,Andere Situation,swiss_household,1.8,0.2
+2021,Zürich,Andere Situation,mixed_swiss_foreign_household,2.2,0.4
+2021,Zürich,Andere Situation,foreign_household,1.5,0.3
+2021,Ostschweiz,Mieter oder Genossenschafter,total,54.3,0.6
+2021,Ostschweiz,Mieter oder Genossenschafter,swiss_household,45.7,0.7
+2021,Ostschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,62.7,1.8
+2021,Ostschweiz,Mieter oder Genossenschafter,foreign_household,82.3,1.1
+2021,Ostschweiz,Eigentümer,total,42.8,0.6
+2021,Ostschweiz,Eigentümer,swiss_household,51.1,0.7
+2021,Ostschweiz,Eigentümer,mixed_swiss_foreign_household,34.1,1.7
+2021,Ostschweiz,Eigentümer,foreign_household,15.6,1
+2021,Ostschweiz,Andere Situation,total,2.9,0.2
+2021,Ostschweiz,Andere Situation,swiss_household,3.1,0.2
+2021,Ostschweiz,Andere Situation,mixed_swiss_foreign_household,3.2,0.6
+2021,Ostschweiz,Andere Situation,foreign_household,2.1,0.5
+2021,Zentralschweiz,Mieter oder Genossenschafter,total,60.7,0.6
+2021,Zentralschweiz,Mieter oder Genossenschafter,swiss_household,54,0.7
+2021,Zentralschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,74.2,1.8
+2021,Zentralschweiz,Mieter oder Genossenschafter,foreign_household,85.1,1.1
+2021,Zentralschweiz,Eigentümer,total,36.3,0.6
+2021,Zentralschweiz,Eigentümer,swiss_household,42.7,0.7
+2021,Zentralschweiz,Eigentümer,mixed_swiss_foreign_household,23.2,1.7
+2021,Zentralschweiz,Eigentümer,foreign_household,12.8,1.1
+2021,Zentralschweiz,Andere Situation,total,3,0.2
+2021,Zentralschweiz,Andere Situation,swiss_household,3.3,0.3
+2021,Zentralschweiz,Andere Situation,mixed_swiss_foreign_household,2.6,0.7
+2021,Zentralschweiz,Andere Situation,foreign_household,2.1,0.5
+2021,Tessin,Mieter oder Genossenschafter,total,54.4,0.8
+2021,Tessin,Mieter oder Genossenschafter,swiss_household,45.9,1
+2021,Tessin,Mieter oder Genossenschafter,mixed_swiss_foreign_household,57.1,2.1
+2021,Tessin,Mieter oder Genossenschafter,foreign_household,76.5,1.5
+2021,Tessin,Eigentümer,total,38.8,0.8
+2021,Tessin,Eigentümer,swiss_household,47.2,1
+2021,Tessin,Eigentümer,mixed_swiss_foreign_household,33.5,2
+2021,Tessin,Eigentümer,foreign_household,18.2,1.3
+2021,Tessin,Andere Situation,total,6.8,0.4
+2021,Tessin,Andere Situation,swiss_household,6.9,0.5
+2021,Tessin,Andere Situation,mixed_swiss_foreign_household,9.3,1.2
+2021,Tessin,Andere Situation,foreign_household,5.3,0.8
+2020,Schweiz,Mieter oder Genossenschafter,total,60.7,0.2
+2020,Schweiz,Mieter oder Genossenschafter,swiss_household,52.7,0.2
+2020,Schweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,69.6,0.5
+2020,Schweiz,Mieter oder Genossenschafter,foreign_household,84.8,0.3
+2020,Schweiz,Eigentümer,total,36.2,0.2
+2020,Schweiz,Eigentümer,swiss_household,44,0.2
+2020,Schweiz,Eigentümer,mixed_swiss_foreign_household,27.4,0.5
+2020,Schweiz,Eigentümer,foreign_household,12.9,0.3
+2020,Schweiz,Andere Situation,total,3.1,0.1
+2020,Schweiz,Andere Situation,swiss_household,3.4,0.1
+2020,Schweiz,Andere Situation,mixed_swiss_foreign_household,3,0.2
+2020,Schweiz,Andere Situation,foreign_household,2.3,0.2
+2020,Genferseeregion,Mieter oder Genossenschafter,total,64.3,0.3
+2020,Genferseeregion,Mieter oder Genossenschafter,swiss_household,55,0.5
+2020,Genferseeregion,Mieter oder Genossenschafter,mixed_swiss_foreign_household,71,1
+2020,Genferseeregion,Mieter oder Genossenschafter,foreign_household,84.5,0.6
+2020,Genferseeregion,Eigentümer,total,31.9,0.3
+2020,Genferseeregion,Eigentümer,swiss_household,41.1,0.4
+2020,Genferseeregion,Eigentümer,mixed_swiss_foreign_household,24.6,0.9
+2020,Genferseeregion,Eigentümer,foreign_household,12.4,0.5
+2020,Genferseeregion,Andere Situation,total,3.8,0.2
+2020,Genferseeregion,Andere Situation,swiss_household,3.9,0.2
+2020,Genferseeregion,Andere Situation,mixed_swiss_foreign_household,4.4,0.4
+2020,Genferseeregion,Andere Situation,foreign_household,3.2,0.3
+2020,Espace Mittelland,Mieter oder Genossenschafter,total,56.4,0.5
+2020,Espace Mittelland,Mieter oder Genossenschafter,swiss_household,50,0.5
+2020,Espace Mittelland,Mieter oder Genossenschafter,mixed_swiss_foreign_household,67.2,1.4
+2020,Espace Mittelland,Mieter oder Genossenschafter,foreign_household,84.2,0.9
+2020,Espace Mittelland,Eigentümer,total,39.9,0.4
+2020,Espace Mittelland,Eigentümer,swiss_household,45.8,0.5
+2020,Espace Mittelland,Eigentümer,mixed_swiss_foreign_household,30.3,1.4
+2020,Espace Mittelland,Eigentümer,foreign_household,13.3,0.9
+2020,Espace Mittelland,Andere Situation,total,3.8,0.2
+2020,Espace Mittelland,Andere Situation,swiss_household,4.1,0.2
+2020,Espace Mittelland,Andere Situation,mixed_swiss_foreign_household,2.5,0.5
+2020,Espace Mittelland,Andere Situation,foreign_household,2.4,0.4
+2020,Nordwestschweiz,Mieter oder Genossenschafter,total,57.4,0.5
+2020,Nordwestschweiz,Mieter oder Genossenschafter,swiss_household,49,0.6
+2020,Nordwestschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,64.6,1.4
+2020,Nordwestschweiz,Mieter oder Genossenschafter,foreign_household,82.4,0.9
+2020,Nordwestschweiz,Eigentümer,total,40.3,0.5
+2020,Nordwestschweiz,Eigentümer,swiss_household,48.6,0.6
+2020,Nordwestschweiz,Eigentümer,mixed_swiss_foreign_household,32.8,1.4
+2020,Nordwestschweiz,Eigentümer,foreign_household,16,0.8
+2020,Nordwestschweiz,Andere Situation,total,2.3,0.1
+2020,Nordwestschweiz,Andere Situation,swiss_household,2.4,0.2
+2020,Nordwestschweiz,Andere Situation,mixed_swiss_foreign_household,2.6,0.5
+2020,Nordwestschweiz,Andere Situation,foreign_household,1.6,0.3
+2020,Zürich,Mieter oder Genossenschafter,total,70.9,0.5
+2020,Zürich,Mieter oder Genossenschafter,swiss_household,63.5,0.6
+2020,Zürich,Mieter oder Genossenschafter,mixed_swiss_foreign_household,78.1,1.2
+2020,Zürich,Mieter oder Genossenschafter,foreign_household,90,0.7
+2020,Zürich,Eigentümer,total,27.4,0.4
+2020,Zürich,Eigentümer,swiss_household,34.8,0.6
+2020,Zürich,Eigentümer,mixed_swiss_foreign_household,20,1.1
+2020,Zürich,Eigentümer,foreign_household,8.4,0.7
+2020,Zürich,Andere Situation,total,1.7,0.1
+2020,Zürich,Andere Situation,swiss_household,1.7,0.2
+2020,Zürich,Andere Situation,mixed_swiss_foreign_household,1.9,0.4
+2020,Zürich,Andere Situation,foreign_household,1.6,0.3
+2020,Ostschweiz,Mieter oder Genossenschafter,total,54.6,0.6
+2020,Ostschweiz,Mieter oder Genossenschafter,swiss_household,46.1,0.7
+2020,Ostschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,62.8,1.7
+2020,Ostschweiz,Mieter oder Genossenschafter,foreign_household,83.3,1.1
+2020,Ostschweiz,Eigentümer,total,42.6,0.6
+2020,Ostschweiz,Eigentümer,swiss_household,50.7,0.7
+2020,Ostschweiz,Eigentümer,mixed_swiss_foreign_household,34.3,1.7
+2020,Ostschweiz,Eigentümer,foreign_household,14.9,1
+2020,Ostschweiz,Andere Situation,total,2.9,0.2
+2020,Ostschweiz,Andere Situation,swiss_household,3.1,0.2
+2020,Ostschweiz,Andere Situation,mixed_swiss_foreign_household,2.8,0.6
+2020,Ostschweiz,Andere Situation,foreign_household,1.8,0.4
+2020,Zentralschweiz,Mieter oder Genossenschafter,total,60.6,0.6
+2020,Zentralschweiz,Mieter oder Genossenschafter,swiss_household,53.9,0.7
+2020,Zentralschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,72.3,1.8
+2020,Zentralschweiz,Mieter oder Genossenschafter,foreign_household,86.8,1.1
+2020,Zentralschweiz,Eigentümer,total,36.4,0.6
+2020,Zentralschweiz,Eigentümer,swiss_household,42.8,0.7
+2020,Zentralschweiz,Eigentümer,mixed_swiss_foreign_household,26,1.8
+2020,Zentralschweiz,Eigentümer,foreign_household,11.2,1
+2020,Zentralschweiz,Andere Situation,total,3,0.2
+2020,Zentralschweiz,Andere Situation,swiss_household,3.3,0.3
+2020,Zentralschweiz,Andere Situation,mixed_swiss_foreign_household,1.6,0.6
+2020,Zentralschweiz,Andere Situation,foreign_household,2,0.6
+2020,Tessin,Mieter oder Genossenschafter,total,54.1,0.8
+2020,Tessin,Mieter oder Genossenschafter,swiss_household,45,1
+2020,Tessin,Mieter oder Genossenschafter,mixed_swiss_foreign_household,60.9,2
+2020,Tessin,Mieter oder Genossenschafter,foreign_household,76.3,1.4
+2020,Tessin,Eigentümer,total,39.2,0.7
+2020,Tessin,Eigentümer,swiss_household,47.6,1
+2020,Tessin,Eigentümer,mixed_swiss_foreign_household,31.6,1.9
+2020,Tessin,Eigentümer,foreign_household,19.5,1.3
+2020,Tessin,Andere Situation,total,6.7,0.4
+2020,Tessin,Andere Situation,swiss_household,7.4,0.5
+2020,Tessin,Andere Situation,mixed_swiss_foreign_household,7.5,1
+2020,Tessin,Andere Situation,foreign_household,4.2,0.7
+2019,Schweiz,Mieter oder Genossenschafter,total,60.3,0.2
+2019,Schweiz,Mieter oder Genossenschafter,swiss_household,52.3,0.2
+2019,Schweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,69.8,0.6
+2019,Schweiz,Mieter oder Genossenschafter,foreign_household,84.7,0.4
+2019,Schweiz,Eigentümer,total,36.4,0.2
+2019,Schweiz,Eigentümer,swiss_household,44.2,0.2
+2019,Schweiz,Eigentümer,mixed_swiss_foreign_household,26.7,0.6
+2019,Schweiz,Eigentümer,foreign_household,12.8,0.3
+2019,Schweiz,Andere Situation,total,3.3,0.1
+2019,Schweiz,Andere Situation,swiss_household,3.5,0.1
+2019,Schweiz,Andere Situation,mixed_swiss_foreign_household,3.5,0.2
+2019,Schweiz,Andere Situation,foreign_household,2.5,0.2
+2019,Genferseeregion,Mieter oder Genossenschafter,total,64,0.4
+2019,Genferseeregion,Mieter oder Genossenschafter,swiss_household,54.5,0.5
+2019,Genferseeregion,Mieter oder Genossenschafter,mixed_swiss_foreign_household,71.8,1
+2019,Genferseeregion,Mieter oder Genossenschafter,foreign_household,84.1,0.7
+2019,Genferseeregion,Eigentümer,total,31.9,0.4
+2019,Genferseeregion,Eigentümer,swiss_household,41.2,0.5
+2019,Genferseeregion,Eigentümer,mixed_swiss_foreign_household,22.8,1
+2019,Genferseeregion,Eigentümer,foreign_household,12.5,0.6
+2019,Genferseeregion,Andere Situation,total,4.2,0.2
+2019,Genferseeregion,Andere Situation,swiss_household,4.3,0.2
+2019,Genferseeregion,Andere Situation,mixed_swiss_foreign_household,5.4,0.6
+2019,Genferseeregion,Andere Situation,foreign_household,3.3,0.4
+2019,Espace Mittelland,Mieter oder Genossenschafter,total,55.9,0.5
+2019,Espace Mittelland,Mieter oder Genossenschafter,swiss_household,49.7,0.5
+2019,Espace Mittelland,Mieter oder Genossenschafter,mixed_swiss_foreign_household,65.9,1.5
+2019,Espace Mittelland,Mieter oder Genossenschafter,foreign_household,83.9,1
+2019,Espace Mittelland,Eigentümer,total,40.2,0.4
+2019,Espace Mittelland,Eigentümer,swiss_household,46,0.5
+2019,Espace Mittelland,Eigentümer,mixed_swiss_foreign_household,31.4,1.5
+2019,Espace Mittelland,Eigentümer,foreign_household,13.4,0.9
+2019,Espace Mittelland,Andere Situation,total,3.9,0.2
+2019,Espace Mittelland,Andere Situation,swiss_household,4.3,0.2
+2019,Espace Mittelland,Andere Situation,mixed_swiss_foreign_household,2.7,0.5
+2019,Espace Mittelland,Andere Situation,foreign_household,2.7,0.5
+2019,Nordwestschweiz,Mieter oder Genossenschafter,total,56.9,0.6
+2019,Nordwestschweiz,Mieter oder Genossenschafter,swiss_household,48,0.7
+2019,Nordwestschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,66.6,1.7
+2019,Nordwestschweiz,Mieter oder Genossenschafter,foreign_household,82.4,1.1
+2019,Nordwestschweiz,Eigentümer,total,40.6,0.6
+2019,Nordwestschweiz,Eigentümer,swiss_household,49.4,0.7
+2019,Nordwestschweiz,Eigentümer,mixed_swiss_foreign_household,30.7,1.7
+2019,Nordwestschweiz,Eigentümer,foreign_household,15.6,1
+2019,Nordwestschweiz,Andere Situation,total,2.5,0.2
+2019,Nordwestschweiz,Andere Situation,swiss_household,2.6,0.2
+2019,Nordwestschweiz,Andere Situation,mixed_swiss_foreign_household,2.8,0.6
+2019,Nordwestschweiz,Andere Situation,foreign_household,2,0.4
+2019,Zürich,Mieter oder Genossenschafter,total,70.5,0.5
+2019,Zürich,Mieter oder Genossenschafter,swiss_household,63.1,0.6
+2019,Zürich,Mieter oder Genossenschafter,mixed_swiss_foreign_household,78,1.2
+2019,Zürich,Mieter oder Genossenschafter,foreign_household,90.2,0.8
+2019,Zürich,Eigentümer,total,27.7,0.5
+2019,Zürich,Eigentümer,swiss_household,35.2,0.6
+2019,Zürich,Eigentümer,mixed_swiss_foreign_household,19.7,1.2
+2019,Zürich,Eigentümer,foreign_household,8.4,0.7
+2019,Zürich,Andere Situation,total,1.8,0.1
+2019,Zürich,Andere Situation,swiss_household,1.8,0.2
+2019,Zürich,Andere Situation,mixed_swiss_foreign_household,2.3,0.4
+2019,Zürich,Andere Situation,foreign_household,1.4,0.3
+2019,Ostschweiz,Mieter oder Genossenschafter,total,54,0.6
+2019,Ostschweiz,Mieter oder Genossenschafter,swiss_household,45.4,0.7
+2019,Ostschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,63,1.9
+2019,Ostschweiz,Mieter oder Genossenschafter,foreign_household,82.9,1.2
+2019,Ostschweiz,Eigentümer,total,43,0.6
+2019,Ostschweiz,Eigentümer,swiss_household,51.5,0.7
+2019,Ostschweiz,Eigentümer,mixed_swiss_foreign_household,33.5,1.9
+2019,Ostschweiz,Eigentümer,foreign_household,15,1.1
+2019,Ostschweiz,Andere Situation,total,2.9,0.2
+2019,Ostschweiz,Andere Situation,swiss_household,3.1,0.2
+2019,Ostschweiz,Andere Situation,mixed_swiss_foreign_household,3.5,0.7
+2019,Ostschweiz,Andere Situation,foreign_household,2.2,0.5
+2019,Zentralschweiz,Mieter oder Genossenschafter,total,60.5,0.6
+2019,Zentralschweiz,Mieter oder Genossenschafter,swiss_household,54.1,0.7
+2019,Zentralschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,73.8,1.7
+2019,Zentralschweiz,Mieter oder Genossenschafter,foreign_household,85,1.3
+2019,Zentralschweiz,Eigentümer,total,36.3,0.6
+2019,Zentralschweiz,Eigentümer,swiss_household,42.6,0.7
+2019,Zentralschweiz,Eigentümer,mixed_swiss_foreign_household,24.3,1.7
+2019,Zentralschweiz,Eigentümer,foreign_household,12.1,1.1
+2019,Zentralschweiz,Andere Situation,total,3.2,0.2
+2019,Zentralschweiz,Andere Situation,swiss_household,3.4,0.3
+2019,Zentralschweiz,Andere Situation,mixed_swiss_foreign_household,1.9,0.5
+2019,Zentralschweiz,Andere Situation,foreign_household,2.9,0.8
+2019,Tessin,Mieter oder Genossenschafter,total,55.2,0.8
+2019,Tessin,Mieter oder Genossenschafter,swiss_household,46.3,1
+2019,Tessin,Mieter oder Genossenschafter,mixed_swiss_foreign_household,56.8,2.1
+2019,Tessin,Mieter oder Genossenschafter,foreign_household,78.7,1.4
+2019,Tessin,Eigentümer,total,38.1,0.8
+2019,Tessin,Eigentümer,swiss_household,46.4,1
+2019,Tessin,Eigentümer,mixed_swiss_foreign_household,34.8,2
+2019,Tessin,Eigentümer,foreign_household,16.9,1.2
+2019,Tessin,Andere Situation,total,6.7,0.4
+2019,Tessin,Andere Situation,swiss_household,7.3,0.5
+2019,Tessin,Andere Situation,mixed_swiss_foreign_household,8.4,1.1
+2019,Tessin,Andere Situation,foreign_household,4.4,0.8
+2018,Schweiz,Mieter oder Genossenschafter,total,60.2,0.2
+2018,Schweiz,Mieter oder Genossenschafter,swiss_household,52.1,0.2
+2018,Schweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,69.8,0.6
+2018,Schweiz,Mieter oder Genossenschafter,foreign_household,84.8,0.4
+2018,Schweiz,Eigentümer,total,36.6,0.2
+2018,Schweiz,Eigentümer,swiss_household,44.5,0.2
+2018,Schweiz,Eigentümer,mixed_swiss_foreign_household,26.7,0.6
+2018,Schweiz,Eigentümer,foreign_household,12.9,0.3
+2018,Schweiz,Andere Situation,total,3.2,0.1
+2018,Schweiz,Andere Situation,swiss_household,3.4,0.1
+2018,Schweiz,Andere Situation,mixed_swiss_foreign_household,3.6,0.2
+2018,Schweiz,Andere Situation,foreign_household,2.3,0.2
+2018,Genferseeregion,Mieter oder Genossenschafter,total,63.6,0.4
+2018,Genferseeregion,Mieter oder Genossenschafter,swiss_household,54.1,0.5
+2018,Genferseeregion,Mieter oder Genossenschafter,mixed_swiss_foreign_household,70.5,1.1
+2018,Genferseeregion,Mieter oder Genossenschafter,foreign_household,83.8,0.7
+2018,Genferseeregion,Eigentümer,total,32.3,0.4
+2018,Genferseeregion,Eigentümer,swiss_household,41.7,0.5
+2018,Genferseeregion,Eigentümer,mixed_swiss_foreign_household,24.2,1
+2018,Genferseeregion,Eigentümer,foreign_household,13,0.6
+2018,Genferseeregion,Andere Situation,total,4.1,0.2
+2018,Genferseeregion,Andere Situation,swiss_household,4.3,0.2
+2018,Genferseeregion,Andere Situation,mixed_swiss_foreign_household,5.3,0.6
+2018,Genferseeregion,Andere Situation,foreign_household,3.2,0.4
+2018,Espace Mittelland,Mieter oder Genossenschafter,total,55.8,0.5
+2018,Espace Mittelland,Mieter oder Genossenschafter,swiss_household,49.4,0.5
+2018,Espace Mittelland,Mieter oder Genossenschafter,mixed_swiss_foreign_household,67.5,1.5
+2018,Espace Mittelland,Mieter oder Genossenschafter,foreign_household,84.5,1
+2018,Espace Mittelland,Eigentümer,total,40.5,0.5
+2018,Espace Mittelland,Eigentümer,swiss_household,46.6,0.5
+2018,Espace Mittelland,Eigentümer,mixed_swiss_foreign_household,29.6,1.5
+2018,Espace Mittelland,Eigentümer,foreign_household,12.9,0.9
+2018,Espace Mittelland,Andere Situation,total,3.7,0.2
+2018,Espace Mittelland,Andere Situation,swiss_household,4,0.2
+2018,Espace Mittelland,Andere Situation,mixed_swiss_foreign_household,2.9,0.5
+2018,Espace Mittelland,Andere Situation,foreign_household,2.5,0.5
+2018,Nordwestschweiz,Mieter oder Genossenschafter,total,57.3,0.6
+2018,Nordwestschweiz,Mieter oder Genossenschafter,swiss_household,48.7,0.7
+2018,Nordwestschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,66.4,1.8
+2018,Nordwestschweiz,Mieter oder Genossenschafter,foreign_household,82.8,1.1
+2018,Nordwestschweiz,Eigentümer,total,40.3,0.6
+2018,Nordwestschweiz,Eigentümer,swiss_household,48.7,0.7
+2018,Nordwestschweiz,Eigentümer,mixed_swiss_foreign_household,30.8,1.7
+2018,Nordwestschweiz,Eigentümer,foreign_household,15.6,1
+2018,Nordwestschweiz,Andere Situation,total,2.4,0.2
+2018,Nordwestschweiz,Andere Situation,swiss_household,2.5,0.2
+2018,Nordwestschweiz,Andere Situation,mixed_swiss_foreign_household,2.8,0.6
+2018,Nordwestschweiz,Andere Situation,foreign_household,1.6,0.4
+2018,Zürich,Mieter oder Genossenschafter,total,70.8,0.5
+2018,Zürich,Mieter oder Genossenschafter,swiss_household,63.3,0.6
+2018,Zürich,Mieter oder Genossenschafter,mixed_swiss_foreign_household,78.4,1.2
+2018,Zürich,Mieter oder Genossenschafter,foreign_household,90.7,0.7
+2018,Zürich,Eigentümer,total,27.5,0.5
+2018,Zürich,Eigentümer,swiss_household,34.9,0.6
+2018,Zürich,Eigentümer,mixed_swiss_foreign_household,19.6,1.2
+2018,Zürich,Eigentümer,foreign_household,8.2,0.7
+2018,Zürich,Andere Situation,total,1.7,0.1
+2018,Zürich,Andere Situation,swiss_household,1.8,0.2
+2018,Zürich,Andere Situation,mixed_swiss_foreign_household,2.1,0.4
+2018,Zürich,Andere Situation,foreign_household,1.2,0.3
+2018,Ostschweiz,Mieter oder Genossenschafter,total,53.6,0.6
+2018,Ostschweiz,Mieter oder Genossenschafter,swiss_household,45,0.7
+2018,Ostschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,62.4,2
+2018,Ostschweiz,Mieter oder Genossenschafter,foreign_household,82.9,1.2
+2018,Ostschweiz,Eigentümer,total,43.3,0.6
+2018,Ostschweiz,Eigentümer,swiss_household,51.7,0.7
+2018,Ostschweiz,Eigentümer,mixed_swiss_foreign_household,34.2,2
+2018,Ostschweiz,Eigentümer,foreign_household,14.7,1.1
+2018,Ostschweiz,Andere Situation,total,3.2,0.2
+2018,Ostschweiz,Andere Situation,swiss_household,3.3,0.3
+2018,Ostschweiz,Andere Situation,mixed_swiss_foreign_household,3.4,0.8
+2018,Ostschweiz,Andere Situation,foreign_household,2.4,0.6
+2018,Zentralschweiz,Mieter oder Genossenschafter,total,60,0.6
+2018,Zentralschweiz,Mieter oder Genossenschafter,swiss_household,53.2,0.7
+2018,Zentralschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,73.2,1.9
+2018,Zentralschweiz,Mieter oder Genossenschafter,foreign_household,86.8,1.2
+2018,Zentralschweiz,Eigentümer,total,37,0.6
+2018,Zentralschweiz,Eigentümer,swiss_household,43.4,0.7
+2018,Zentralschweiz,Eigentümer,mixed_swiss_foreign_household,24.7,1.9
+2018,Zentralschweiz,Eigentümer,foreign_household,11.3,1
+2018,Zentralschweiz,Andere Situation,total,3,0.2
+2018,Zentralschweiz,Andere Situation,swiss_household,3.4,0.3
+2018,Zentralschweiz,Andere Situation,mixed_swiss_foreign_household,2,0.6
+2018,Zentralschweiz,Andere Situation,foreign_household,1.8,0.6
+2018,Tessin,Mieter oder Genossenschafter,total,54.1,0.8
+2018,Tessin,Mieter oder Genossenschafter,swiss_household,45.6,1
+2018,Tessin,Mieter oder Genossenschafter,mixed_swiss_foreign_household,57.1,2
+2018,Tessin,Mieter oder Genossenschafter,foreign_household,76,1.5
+2018,Tessin,Eigentümer,total,39.6,0.8
+2018,Tessin,Eigentümer,swiss_household,47.7,1
+2018,Tessin,Eigentümer,mixed_swiss_foreign_household,33.7,1.9
+2018,Tessin,Eigentümer,foreign_household,19.8,1.4
+2018,Tessin,Andere Situation,total,6.3,0.4
+2018,Tessin,Andere Situation,swiss_household,6.6,0.5
+2018,Tessin,Andere Situation,mixed_swiss_foreign_household,9.2,1.2
+2018,Tessin,Andere Situation,foreign_household,4.2,0.7
+2017,Schweiz,Mieter oder Genossenschafter,total,59.3,0.2
+2017,Schweiz,Mieter oder Genossenschafter,swiss_household,51.3,0.2
+2017,Schweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,68.2,0.6
+2017,Schweiz,Mieter oder Genossenschafter,foreign_household,84.6,0.4
+2017,Schweiz,Eigentümer,total,38,0.2
+2017,Schweiz,Eigentümer,swiss_household,45.9,0.2
+2017,Schweiz,Eigentümer,mixed_swiss_foreign_household,28.9,0.6
+2017,Schweiz,Eigentümer,foreign_household,13.6,0.3
+2017,Schweiz,Andere Situation,total,2.6,0.1
+2017,Schweiz,Andere Situation,swiss_household,2.8,0.1
+2017,Schweiz,Andere Situation,mixed_swiss_foreign_household,2.9,0.2
+2017,Schweiz,Andere Situation,foreign_household,1.8,0.1
+2017,Genferseeregion,Mieter oder Genossenschafter,total,63.4,0.4
+2017,Genferseeregion,Mieter oder Genossenschafter,swiss_household,53.9,0.5
+2017,Genferseeregion,Mieter oder Genossenschafter,mixed_swiss_foreign_household,69.5,1.1
+2017,Genferseeregion,Mieter oder Genossenschafter,foreign_household,84,0.7
+2017,Genferseeregion,Eigentümer,total,33.2,0.4
+2017,Genferseeregion,Eigentümer,swiss_household,42.7,0.5
+2017,Genferseeregion,Eigentümer,mixed_swiss_foreign_household,25.8,1.1
+2017,Genferseeregion,Eigentümer,foreign_household,13.1,0.6
+2017,Genferseeregion,Andere Situation,total,3.4,0.2
+2017,Genferseeregion,Andere Situation,swiss_household,3.4,0.2
+2017,Genferseeregion,Andere Situation,mixed_swiss_foreign_household,4.7,0.6
+2017,Genferseeregion,Andere Situation,foreign_household,2.9,0.4
+2017,Espace Mittelland,Mieter oder Genossenschafter,total,54.8,0.5
+2017,Espace Mittelland,Mieter oder Genossenschafter,swiss_household,48.3,0.5
+2017,Espace Mittelland,Mieter oder Genossenschafter,mixed_swiss_foreign_household,66.2,1.6
+2017,Espace Mittelland,Mieter oder Genossenschafter,foreign_household,84.7,1
+2017,Espace Mittelland,Eigentümer,total,42,0.5
+2017,Espace Mittelland,Eigentümer,swiss_household,48.2,0.5
+2017,Espace Mittelland,Eigentümer,mixed_swiss_foreign_household,31.2,1.5
+2017,Espace Mittelland,Eigentümer,foreign_household,13.6,0.9
+2017,Espace Mittelland,Andere Situation,total,3.2,0.2
+2017,Espace Mittelland,Andere Situation,swiss_household,3.5,0.2
+2017,Espace Mittelland,Andere Situation,mixed_swiss_foreign_household,2.6,0.6
+2017,Espace Mittelland,Andere Situation,foreign_household,1.7,0.4
+2017,Nordwestschweiz,Mieter oder Genossenschafter,total,56.1,0.6
+2017,Nordwestschweiz,Mieter oder Genossenschafter,swiss_household,47.7,0.7
+2017,Nordwestschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,63.5,1.9
+2017,Nordwestschweiz,Mieter oder Genossenschafter,foreign_household,82.4,1.1
+2017,Nordwestschweiz,Eigentümer,total,42,0.6
+2017,Nordwestschweiz,Eigentümer,swiss_household,50.2,0.7
+2017,Nordwestschweiz,Eigentümer,mixed_swiss_foreign_household,34.3,1.8
+2017,Nordwestschweiz,Eigentümer,foreign_household,16.5,1.1
+2017,Nordwestschweiz,Andere Situation,total,1.9,0.2
+2017,Nordwestschweiz,Andere Situation,swiss_household,2.1,0.2
+2017,Nordwestschweiz,Andere Situation,mixed_swiss_foreign_household,2.2,0.6
+2017,Nordwestschweiz,Andere Situation,foreign_household,1.1,0.3
+2017,Zürich,Mieter oder Genossenschafter,total,69.6,0.5
+2017,Zürich,Mieter oder Genossenschafter,swiss_household,62.3,0.6
+2017,Zürich,Mieter oder Genossenschafter,mixed_swiss_foreign_household,76.7,1.3
+2017,Zürich,Mieter oder Genossenschafter,foreign_household,90.1,0.8
+2017,Zürich,Eigentümer,total,29.2,0.5
+2017,Zürich,Eigentümer,swiss_household,36.4,0.6
+2017,Zürich,Eigentümer,mixed_swiss_foreign_household,21.5,1.2
+2017,Zürich,Eigentümer,foreign_household,8.9,0.7
+2017,Zürich,Andere Situation,total,1.3,0.1
+2017,Zürich,Andere Situation,swiss_household,1.3,0.1
+2017,Zürich,Andere Situation,mixed_swiss_foreign_household,1.8,0.4
+2017,Zürich,Andere Situation,foreign_household,1,0.3
+2017,Ostschweiz,Mieter oder Genossenschafter,total,52.7,0.6
+2017,Ostschweiz,Mieter oder Genossenschafter,swiss_household,44.2,0.7
+2017,Ostschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,61.6,1.9
+2017,Ostschweiz,Mieter oder Genossenschafter,foreign_household,82,1.1
+2017,Ostschweiz,Eigentümer,total,45,0.6
+2017,Ostschweiz,Eigentümer,swiss_household,53.3,0.7
+2017,Ostschweiz,Eigentümer,mixed_swiss_foreign_household,36.8,1.9
+2017,Ostschweiz,Eigentümer,foreign_household,16.3,1.1
+2017,Ostschweiz,Andere Situation,total,2.3,0.2
+2017,Ostschweiz,Andere Situation,swiss_household,2.5,0.2
+2017,Ostschweiz,Andere Situation,mixed_swiss_foreign_household,1.5,0.5
+2017,Ostschweiz,Andere Situation,foreign_household,1.7,0.4
+2017,Zentralschweiz,Mieter oder Genossenschafter,total,59.5,0.6
+2017,Zentralschweiz,Mieter oder Genossenschafter,swiss_household,53.1,0.7
+2017,Zentralschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,71.2,2
+2017,Zentralschweiz,Mieter oder Genossenschafter,foreign_household,85.8,1.2
+2017,Zentralschweiz,Eigentümer,total,38,0.6
+2017,Zentralschweiz,Eigentümer,swiss_household,44.1,0.7
+2017,Zentralschweiz,Eigentümer,mixed_swiss_foreign_household,26.9,2
+2017,Zentralschweiz,Eigentümer,foreign_household,12.9,1.2
+2017,Zentralschweiz,Andere Situation,total,2.6,0.2
+2017,Zentralschweiz,Andere Situation,swiss_household,2.8,0.3
+2017,Zentralschweiz,Andere Situation,mixed_swiss_foreign_household,1.9,0.7
+2017,Zentralschweiz,Andere Situation,foreign_household,1.4,0.4
+2017,Tessin,Mieter oder Genossenschafter,total,53.9,0.8
+2017,Tessin,Mieter oder Genossenschafter,swiss_household,44.8,1
+2017,Tessin,Mieter oder Genossenschafter,mixed_swiss_foreign_household,56.7,2
+2017,Tessin,Mieter oder Genossenschafter,foreign_household,77.9,1.4
+2017,Tessin,Eigentümer,total,40.5,0.8
+2017,Tessin,Eigentümer,swiss_household,49,1
+2017,Tessin,Eigentümer,mixed_swiss_foreign_household,36.3,1.9
+2017,Tessin,Eigentümer,foreign_household,18.9,1.3
+2017,Tessin,Andere Situation,total,5.6,0.4
+2017,Tessin,Andere Situation,swiss_household,6.2,0.5
+2017,Tessin,Andere Situation,mixed_swiss_foreign_household,7,1
+2017,Tessin,Andere Situation,foreign_household,3.2,0.6
+2016,Schweiz,Mieter oder Genossenschafter,total,59.099999999999994,0.2
+2016,Schweiz,Mieter oder Genossenschafter,swiss_household,51,0.2
+2016,Schweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,68.4,0.6
+2016,Schweiz,Mieter oder Genossenschafter,foreign_household,84.39999999999999,0.4
+2016,Schweiz,Eigentümer,total,38.2,0.2
+2016,Schweiz,Eigentümer,swiss_household,46,0.2
+2016,Schweiz,Eigentümer,mixed_swiss_foreign_household,28.999999999999996,0.6
+2016,Schweiz,Eigentümer,foreign_household,13.8,0.3
+2016,Schweiz,Andere Situation,total,2.7,0.1
+2016,Schweiz,Andere Situation,swiss_household,2.9000000000000004,0.1
+2016,Schweiz,Andere Situation,mixed_swiss_foreign_household,2.6,0.2
+2016,Schweiz,Andere Situation,foreign_household,1.7999999999999998,0.2
+2016,Genferseeregion,Mieter oder Genossenschafter,total,63.1,0.4
+2016,Genferseeregion,Mieter oder Genossenschafter,swiss_household,53.6,0.5
+2016,Genferseeregion,Mieter oder Genossenschafter,mixed_swiss_foreign_household,70.1,1.2
+2016,Genferseeregion,Mieter oder Genossenschafter,foreign_household,83.5,0.7
+2016,Genferseeregion,Eigentümer,total,33.4,0.4
+2016,Genferseeregion,Eigentümer,swiss_household,42.699999999999996,0.5
+2016,Genferseeregion,Eigentümer,mixed_swiss_foreign_household,25.900000000000002,1.1
+2016,Genferseeregion,Eigentümer,foreign_household,13.600000000000001,0.6
+2016,Genferseeregion,Andere Situation,total,3.5000000000000004,0.2
+2016,Genferseeregion,Andere Situation,swiss_household,3.6999999999999997,0.2
+2016,Genferseeregion,Andere Situation,mixed_swiss_foreign_household,4,0.5
+2016,Genferseeregion,Andere Situation,foreign_household,2.9000000000000004,0.4
+2016,Espace Mittelland,Mieter oder Genossenschafter,total,54.50000000000001,0.5
+2016,Espace Mittelland,Mieter oder Genossenschafter,swiss_household,48.1,0.5
+2016,Espace Mittelland,Mieter oder Genossenschafter,mixed_swiss_foreign_household,66.5,1.6
+2016,Espace Mittelland,Mieter oder Genossenschafter,foreign_household,84.5,1
+2016,Espace Mittelland,Eigentümer,total,42.199999999999996,0.5
+2016,Espace Mittelland,Eigentümer,swiss_household,48.3,0.5
+2016,Espace Mittelland,Eigentümer,mixed_swiss_foreign_household,31.1,1.6
+2016,Espace Mittelland,Eigentümer,foreign_household,13.900000000000002,0.9
+2016,Espace Mittelland,Andere Situation,total,3.3000000000000003,0.2
+2016,Espace Mittelland,Andere Situation,swiss_household,3.6999999999999997,0.2
+2016,Espace Mittelland,Andere Situation,mixed_swiss_foreign_household,2.4,0.5
+2016,Espace Mittelland,Andere Situation,foreign_household,1.5,0.4
+2016,Nordwestschweiz,Mieter oder Genossenschafter,total,55.60000000000001,0.6
+2016,Nordwestschweiz,Mieter oder Genossenschafter,swiss_household,47.3,0.7
+2016,Nordwestschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,63.3,1.9
+2016,Nordwestschweiz,Mieter oder Genossenschafter,foreign_household,81.8,1.2
+2016,Nordwestschweiz,Eigentümer,total,42.6,0.6
+2016,Nordwestschweiz,Eigentümer,swiss_household,50.7,0.7
+2016,Nordwestschweiz,Eigentümer,mixed_swiss_foreign_household,34.8,1.8
+2016,Nordwestschweiz,Eigentümer,foreign_household,16.900000000000002,1.1
+2016,Nordwestschweiz,Andere Situation,total,1.7999999999999998,0.2
+2016,Nordwestschweiz,Andere Situation,swiss_household,2,0.2
+2016,Nordwestschweiz,Andere Situation,mixed_swiss_foreign_household,1.9,0.5
+2016,Nordwestschweiz,Andere Situation,foreign_household,1.3,0.4
+2016,Zürich,Mieter oder Genossenschafter,total,69.39999999999999,0.5
+2016,Zürich,Mieter oder Genossenschafter,swiss_household,61.9,0.6
+2016,Zürich,Mieter oder Genossenschafter,mixed_swiss_foreign_household,76.9,1.2
+2016,Zürich,Mieter oder Genossenschafter,foreign_household,90.10000000000001,0.7
+2016,Zürich,Eigentümer,total,29.4,0.5
+2016,Zürich,Eigentümer,swiss_household,36.7,0.6
+2016,Zürich,Eigentümer,mixed_swiss_foreign_household,21.9,1.2
+2016,Zürich,Eigentümer,foreign_household,9.1,0.7
+2016,Zürich,Andere Situation,total,1.3,0.1
+2016,Zürich,Andere Situation,swiss_household,1.4000000000000001,0.2
+2016,Zürich,Andere Situation,mixed_swiss_foreign_household,1.2,0.3
+2016,Zürich,Andere Situation,foreign_household,0.8,0.2
+2016,Ostschweiz,Mieter oder Genossenschafter,total,53,0.6
+2016,Ostschweiz,Mieter oder Genossenschafter,swiss_household,44.800000000000004,0.7
+2016,Ostschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,60.9,1.9
+2016,Ostschweiz,Mieter oder Genossenschafter,foreign_household,82.19999999999999,1.1
+2016,Ostschweiz,Eigentümer,total,44.800000000000004,0.6
+2016,Ostschweiz,Eigentümer,swiss_household,52.800000000000004,0.7
+2016,Ostschweiz,Eigentümer,mixed_swiss_foreign_household,36.9,1.9
+2016,Ostschweiz,Eigentümer,foreign_household,16.3,1
+2016,Ostschweiz,Andere Situation,total,2.3,0.2
+2016,Ostschweiz,Andere Situation,swiss_household,2.4,0.2
+2016,Ostschweiz,Andere Situation,mixed_swiss_foreign_household,2.1999999999999997,0.6
+2016,Ostschweiz,Andere Situation,foreign_household,1.5,0.4
+2016,Zentralschweiz,Mieter oder Genossenschafter,total,58.699999999999996,0.6
+2016,Zentralschweiz,Mieter oder Genossenschafter,swiss_household,52.1,0.7
+2016,Zentralschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,70.7,2
+2016,Zentralschweiz,Mieter oder Genossenschafter,foreign_household,86.2,1.2
+2016,Zentralschweiz,Eigentümer,total,38.7,0.6
+2016,Zentralschweiz,Eigentümer,swiss_household,44.9,0.7
+2016,Zentralschweiz,Eigentümer,mixed_swiss_foreign_household,27.6,2
+2016,Zentralschweiz,Eigentümer,foreign_household,12.6,1.2
+2016,Zentralschweiz,Andere Situation,total,2.6,0.2
+2016,Zentralschweiz,Andere Situation,swiss_household,2.9000000000000004,0.3
+2016,Zentralschweiz,Andere Situation,mixed_swiss_foreign_household,1.7,0.6
+2016,Zentralschweiz,Andere Situation,foreign_household,1.3,0.4
+2016,Tessin,Mieter oder Genossenschafter,total,54,0.8
+2016,Tessin,Mieter oder Genossenschafter,swiss_household,44.3,1
+2016,Tessin,Mieter oder Genossenschafter,mixed_swiss_foreign_household,58.099999999999994,2.1
+2016,Tessin,Mieter oder Genossenschafter,foreign_household,78,1.4
+2016,Tessin,Eigentümer,total,40,0.8
+2016,Tessin,Eigentümer,swiss_household,49.1,1
+2016,Tessin,Eigentümer,mixed_swiss_foreign_household,34.4,2
+2016,Tessin,Eigentümer,foreign_household,18.4,1.3
+2016,Tessin,Andere Situation,total,6,0.4
+2016,Tessin,Andere Situation,swiss_household,6.7,0.5
+2016,Tessin,Andere Situation,mixed_swiss_foreign_household,7.3999999999999995,1.1
+2016,Tessin,Andere Situation,foreign_household,3.5999999999999996,0.7
+2015,Schweiz,Mieter oder Genossenschafter,total,59,0.2
+2015,Schweiz,Mieter oder Genossenschafter,swiss_household,51.1,0.3
+2015,Schweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,68.5,0.6
+2015,Schweiz,Mieter oder Genossenschafter,foreign_household,83.89999999999999,0.4
+2015,Schweiz,Eigentümer,total,38.4,0.2
+2015,Schweiz,Eigentümer,swiss_household,46,0.3
+2015,Schweiz,Eigentümer,mixed_swiss_foreign_household,29.2,0.6
+2015,Schweiz,Eigentümer,foreign_household,14.099999999999998,0.4
+2015,Schweiz,Andere Situation,total,2.6,0.1
+2015,Schweiz,Andere Situation,swiss_household,2.9000000000000004,0.1
+2015,Schweiz,Andere Situation,mixed_swiss_foreign_household,2.3,0.2
+2015,Schweiz,Andere Situation,foreign_household,2,0.2
+2015,Genferseeregion,Mieter oder Genossenschafter,total,63,0.4
+2015,Genferseeregion,Mieter oder Genossenschafter,swiss_household,53.400000000000006,0.6
+2015,Genferseeregion,Mieter oder Genossenschafter,mixed_swiss_foreign_household,70.7,1.2
+2015,Genferseeregion,Mieter oder Genossenschafter,foreign_household,83.1,0.8
+2015,Genferseeregion,Eigentümer,total,33.6,0.4
+2015,Genferseeregion,Eigentümer,swiss_household,43.1,0.5
+2015,Genferseeregion,Eigentümer,mixed_swiss_foreign_household,25.900000000000002,1.2
+2015,Genferseeregion,Eigentümer,foreign_household,13.8,0.7
+2015,Genferseeregion,Andere Situation,total,3.4000000000000004,0.2
+2015,Genferseeregion,Andere Situation,swiss_household,3.5000000000000004,0.2
+2015,Genferseeregion,Andere Situation,mixed_swiss_foreign_household,3.4000000000000004,0.5
+2015,Genferseeregion,Andere Situation,foreign_household,3.1,0.4
+2015,Espace Mittelland,Mieter oder Genossenschafter,total,54.50000000000001,0.5
+2015,Espace Mittelland,Mieter oder Genossenschafter,swiss_household,48.5,0.5
+2015,Espace Mittelland,Mieter oder Genossenschafter,mixed_swiss_foreign_household,64.9,1.7
+2015,Espace Mittelland,Mieter oder Genossenschafter,foreign_household,83.89999999999999,1.1
+2015,Espace Mittelland,Eigentümer,total,42.3,0.5
+2015,Espace Mittelland,Eigentümer,swiss_household,48,0.5
+2015,Espace Mittelland,Eigentümer,mixed_swiss_foreign_household,33.4,1.7
+2015,Espace Mittelland,Eigentümer,foreign_household,14.099999999999998,1
+2015,Espace Mittelland,Andere Situation,total,3.2,0.2
+2015,Espace Mittelland,Andere Situation,swiss_household,3.5000000000000004,0.2
+2015,Espace Mittelland,Andere Situation,mixed_swiss_foreign_household,1.7000000000000002,0.5
+2015,Espace Mittelland,Andere Situation,foreign_household,2.1,0.4
+2015,Nordwestschweiz,Mieter oder Genossenschafter,total,55.400000000000006,0.6
+2015,Nordwestschweiz,Mieter oder Genossenschafter,swiss_household,47.199999999999996,0.7
+2015,Nordwestschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,63.800000000000004,1.9
+2015,Nordwestschweiz,Mieter oder Genossenschafter,foreign_household,81.69999999999999,1.2
+2015,Nordwestschweiz,Eigentümer,total,42.6,0.6
+2015,Nordwestschweiz,Eigentümer,swiss_household,50.7,0.7
+2015,Nordwestschweiz,Eigentümer,mixed_swiss_foreign_household,34.300000000000004,1.9
+2015,Nordwestschweiz,Eigentümer,foreign_household,16.900000000000002,1.1
+2015,Nordwestschweiz,Andere Situation,total,1.9,0.2
+2015,Nordwestschweiz,Andere Situation,swiss_household,2.1,0.2
+2015,Nordwestschweiz,Andere Situation,mixed_swiss_foreign_household,2,0.6
+2015,Nordwestschweiz,Andere Situation,foreign_household,1.4000000000000001,0.4
+2015,Zürich,Mieter oder Genossenschafter,total,69.6,0.5
+2015,Zürich,Mieter oder Genossenschafter,swiss_household,62.5,0.6
+2015,Zürich,Mieter oder Genossenschafter,mixed_swiss_foreign_household,76.8,1.3
+2015,Zürich,Mieter oder Genossenschafter,foreign_household,89.7,0.8
+2015,Zürich,Eigentümer,total,29.099999999999998,0.5
+2015,Zürich,Eigentümer,swiss_household,36.199999999999996,0.6
+2015,Zürich,Eigentümer,mixed_swiss_foreign_household,22,1.3
+2015,Zürich,Eigentümer,foreign_household,9.1,0.7
+2015,Zürich,Andere Situation,total,1.3,0.1
+2015,Zürich,Andere Situation,swiss_household,1.3,0.2
+2015,Zürich,Andere Situation,mixed_swiss_foreign_household,1.2,0.3
+2015,Zürich,Andere Situation,foreign_household,1.2,0.3
+2015,Ostschweiz,Mieter oder Genossenschafter,total,52.300000000000004,0.6
+2015,Ostschweiz,Mieter oder Genossenschafter,swiss_household,44.1,0.7
+2015,Ostschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,62.2,2
+2015,Ostschweiz,Mieter oder Genossenschafter,foreign_household,81.39999999999999,1.2
+2015,Ostschweiz,Eigentümer,total,45.4,0.6
+2015,Ostschweiz,Eigentümer,swiss_household,53.400000000000006,0.7
+2015,Ostschweiz,Eigentümer,mixed_swiss_foreign_household,35.9,1.9
+2015,Ostschweiz,Eigentümer,foreign_household,17.1,1.1
+2015,Ostschweiz,Andere Situation,total,2.3,0.2
+2015,Ostschweiz,Andere Situation,swiss_household,2.5,0.2
+2015,Ostschweiz,Andere Situation,mixed_swiss_foreign_household,1.9,0.6
+2015,Ostschweiz,Andere Situation,foreign_household,1.6,0.5
+2015,Zentralschweiz,Mieter oder Genossenschafter,total,58.8,0.6
+2015,Zentralschweiz,Mieter oder Genossenschafter,swiss_household,52.2,0.7
+2015,Zentralschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,72.39999999999999,2
+2015,Zentralschweiz,Mieter oder Genossenschafter,foreign_household,85.9,1.2
+2015,Zentralschweiz,Eigentümer,total,38.800000000000004,0.6
+2015,Zentralschweiz,Eigentümer,swiss_household,45,0.7
+2015,Zentralschweiz,Eigentümer,mixed_swiss_foreign_household,26.400000000000002,2
+2015,Zentralschweiz,Eigentümer,foreign_household,12.8,1.2
+2015,Zentralschweiz,Andere Situation,total,2.5,0.2
+2015,Zentralschweiz,Andere Situation,swiss_household,2.8000000000000003,0.3
+2015,Zentralschweiz,Andere Situation,mixed_swiss_foreign_household,1.2,0.5
+2015,Zentralschweiz,Andere Situation,foreign_household,1.3,0.4
+2015,Tessin,Mieter oder Genossenschafter,total,53.800000000000004,0.8
+2015,Tessin,Mieter oder Genossenschafter,swiss_household,44.9,1
+2015,Tessin,Mieter oder Genossenschafter,mixed_swiss_foreign_household,57.199999999999996,2.2
+2015,Tessin,Mieter oder Genossenschafter,foreign_household,76.8,1.5
+2015,Tessin,Eigentümer,total,40.2,0.8
+2015,Tessin,Eigentümer,swiss_household,48.3,1
+2015,Tessin,Eigentümer,mixed_swiss_foreign_household,34.8,2.1
+2015,Tessin,Eigentümer,foreign_household,20.3,1.5
+2015,Tessin,Andere Situation,total,6,0.4
+2015,Tessin,Andere Situation,swiss_household,6.800000000000001,0.5
+2015,Tessin,Andere Situation,mixed_swiss_foreign_household,8,1.2
+2015,Tessin,Andere Situation,foreign_household,2.9000000000000004,0.6
+2014,Schweiz,Mieter oder Genossenschafter,total,58.8,0.2
+2014,Schweiz,Mieter oder Genossenschafter,swiss_household,51.300000000000004,0.2
+2014,Schweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,68.10000000000001,0.6
+2014,Schweiz,Mieter oder Genossenschafter,foreign_household,83.5,0.4
+2014,Schweiz,Eigentümer,total,37.4,0.2
+2014,Schweiz,Eigentümer,swiss_household,44.7,0.2
+2014,Schweiz,Eigentümer,mixed_swiss_foreign_household,27.900000000000002,0.6
+2014,Schweiz,Eigentümer,foreign_household,14.000000000000002,0.4
+2014,Schweiz,Andere Situation,total,3.6999999999999997,0.1
+2014,Schweiz,Andere Situation,swiss_household,4,0.1
+2014,Schweiz,Andere Situation,mixed_swiss_foreign_household,4,0.3
+2014,Schweiz,Andere Situation,foreign_household,2.5,0.2
+2014,Genferseeregion,Mieter oder Genossenschafter,total,62.4,0.4
+2014,Genferseeregion,Mieter oder Genossenschafter,swiss_household,53.1,0.6
+2014,Genferseeregion,Mieter oder Genossenschafter,mixed_swiss_foreign_household,69.8,1.2
+2014,Genferseeregion,Mieter oder Genossenschafter,foreign_household,82.5,0.8
+2014,Genferseeregion,Eigentümer,total,33.1,0.4
+2014,Genferseeregion,Eigentümer,swiss_household,42.199999999999996,0.6
+2014,Genferseeregion,Eigentümer,mixed_swiss_foreign_household,25.2,1.2
+2014,Genferseeregion,Eigentümer,foreign_household,14.000000000000002,0.7
+2014,Genferseeregion,Andere Situation,total,4.3999999999999995,0.2
+2014,Genferseeregion,Andere Situation,swiss_household,4.7,0.2
+2014,Genferseeregion,Andere Situation,mixed_swiss_foreign_household,5,0.6
+2014,Genferseeregion,Andere Situation,foreign_household,3.5000000000000004,0.4
+2014,Espace Mittelland,Mieter oder Genossenschafter,total,54.7,0.5
+2014,Espace Mittelland,Mieter oder Genossenschafter,swiss_household,49,0.5
+2014,Espace Mittelland,Mieter oder Genossenschafter,mixed_swiss_foreign_household,64.8,1.6
+2014,Espace Mittelland,Mieter oder Genossenschafter,foreign_household,83.6,1
+2014,Espace Mittelland,Eigentümer,total,41.199999999999996,0.5
+2014,Espace Mittelland,Eigentümer,swiss_household,46.5,0.5
+2014,Espace Mittelland,Eigentümer,mixed_swiss_foreign_household,31.6,1.6
+2014,Espace Mittelland,Eigentümer,foreign_household,14.099999999999998,1
+2014,Espace Mittelland,Andere Situation,total,4.1000000000000005,0.2
+2014,Espace Mittelland,Andere Situation,swiss_household,4.5,0.2
+2014,Espace Mittelland,Andere Situation,mixed_swiss_foreign_household,3.5999999999999996,0.7
+2014,Espace Mittelland,Andere Situation,foreign_household,2.3,0.4
+2014,Nordwestschweiz,Mieter oder Genossenschafter,total,55.400000000000006,0.5
+2014,Nordwestschweiz,Mieter oder Genossenschafter,swiss_household,47.4,0.6
+2014,Nordwestschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,63.5,1.7
+2014,Nordwestschweiz,Mieter oder Genossenschafter,foreign_household,81.2,1
+2014,Nordwestschweiz,Eigentümer,total,41.6,0.5
+2014,Nordwestschweiz,Eigentümer,swiss_household,49.4,0.6
+2014,Nordwestschweiz,Eigentümer,mixed_swiss_foreign_household,32.9,1.6
+2014,Nordwestschweiz,Eigentümer,foreign_household,17,0.9
+2014,Nordwestschweiz,Andere Situation,total,3,0.2
+2014,Nordwestschweiz,Andere Situation,swiss_household,3.2,0.2
+2014,Nordwestschweiz,Andere Situation,mixed_swiss_foreign_household,3.5000000000000004,0.6
+2014,Nordwestschweiz,Andere Situation,foreign_household,1.7999999999999998,0.3
+2014,Zürich,Mieter oder Genossenschafter,total,69.39999999999999,0.5
+2014,Zürich,Mieter oder Genossenschafter,swiss_household,62.4,0.6
+2014,Zürich,Mieter oder Genossenschafter,mixed_swiss_foreign_household,77.10000000000001,1.4
+2014,Zürich,Mieter oder Genossenschafter,foreign_household,89.5,0.8
+2014,Zürich,Eigentümer,total,28.499999999999996,0.5
+2014,Zürich,Eigentümer,swiss_household,35.199999999999996,0.6
+2014,Zürich,Eigentümer,mixed_swiss_foreign_household,20.3,1.3
+2014,Zürich,Eigentümer,foreign_household,9.4,0.8
+2014,Zürich,Andere Situation,total,2.1,0.2
+2014,Zürich,Andere Situation,swiss_household,2.4,0.2
+2014,Zürich,Andere Situation,mixed_swiss_foreign_household,2.6,0.5
+2014,Zürich,Andere Situation,foreign_household,1.0999999999999999,0.3
+2014,Ostschweiz,Mieter oder Genossenschafter,total,52.2,0.6
+2014,Ostschweiz,Mieter oder Genossenschafter,swiss_household,44.1,0.7
+2014,Ostschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,60.9,2.2
+2014,Ostschweiz,Mieter oder Genossenschafter,foreign_household,81.89999999999999,1.3
+2014,Ostschweiz,Eigentümer,total,44,0.6
+2014,Ostschweiz,Eigentümer,swiss_household,51.7,0.8
+2014,Ostschweiz,Eigentümer,mixed_swiss_foreign_household,35.6,2.1
+2014,Ostschweiz,Eigentümer,foreign_household,15.8,1.2
+2014,Ostschweiz,Andere Situation,total,3.8,0.2
+2014,Ostschweiz,Andere Situation,swiss_household,4.2,0.3
+2014,Ostschweiz,Andere Situation,mixed_swiss_foreign_household,3.5000000000000004,0.8
+2014,Ostschweiz,Andere Situation,foreign_household,2.4,0.5
+2014,Zentralschweiz,Mieter oder Genossenschafter,total,58.9,0.6
+2014,Zentralschweiz,Mieter oder Genossenschafter,swiss_household,52.7,0.7
+2014,Zentralschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,72.7,2.1
+2014,Zentralschweiz,Mieter oder Genossenschafter,foreign_household,85.39999999999999,1.3
+2014,Zentralschweiz,Eigentümer,total,37.3,0.6
+2014,Zentralschweiz,Eigentümer,swiss_household,43.1,0.7
+2014,Zentralschweiz,Eigentümer,mixed_swiss_foreign_household,24.3,2
+2014,Zentralschweiz,Eigentümer,foreign_household,12.1,1.1
+2014,Zentralschweiz,Andere Situation,total,3.8,0.2
+2014,Zentralschweiz,Andere Situation,swiss_household,4.1000000000000005,0.3
+2014,Zentralschweiz,Andere Situation,mixed_swiss_foreign_household,3,0.8
+2014,Zentralschweiz,Andere Situation,foreign_household,2.5,0.6
+2014,Tessin,Mieter oder Genossenschafter,total,53.5,0.8
+2014,Tessin,Mieter oder Genossenschafter,swiss_household,45.300000000000004,1
+2014,Tessin,Mieter oder Genossenschafter,mixed_swiss_foreign_household,55.900000000000006,2.2
+2014,Tessin,Mieter oder Genossenschafter,foreign_household,75,1.6
+2014,Tessin,Eigentümer,total,39.2,0.8
+2014,Tessin,Eigentümer,swiss_household,47.099999999999994,1
+2014,Tessin,Eigentümer,mixed_swiss_foreign_household,33,2.1
+2014,Tessin,Eigentümer,foreign_household,20.3,1.4
+2014,Tessin,Andere Situation,total,7.3,0.4
+2014,Tessin,Andere Situation,swiss_household,7.7,0.5
+2014,Tessin,Andere Situation,mixed_swiss_foreign_household,11,1.4
+2014,Tessin,Andere Situation,foreign_household,4.7,0.8
+2013,Schweiz,Mieter oder Genossenschafter,total,58.599999999999994,0.2
+2013,Schweiz,Mieter oder Genossenschafter,swiss_household,51.2,0.3
+2013,Schweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,68,0.6
+2013,Schweiz,Mieter oder Genossenschafter,foreign_household,83.5,0.4
+2013,Schweiz,Eigentümer,total,37.5,0.2
+2013,Schweiz,Eigentümer,swiss_household,44.6,0.3
+2013,Schweiz,Eigentümer,mixed_swiss_foreign_household,28.1,0.6
+2013,Schweiz,Eigentümer,foreign_household,14.099999999999998,0.4
+2013,Schweiz,Andere Situation,total,3.9,0.1
+2013,Schweiz,Andere Situation,swiss_household,4.2,0.1
+2013,Schweiz,Andere Situation,mixed_swiss_foreign_household,3.9,0.3
+2013,Schweiz,Andere Situation,foreign_household,2.5,0.2
+2013,Genferseeregion,Mieter oder Genossenschafter,total,62.7,0.4
+2013,Genferseeregion,Mieter oder Genossenschafter,swiss_household,53.7,0.6
+2013,Genferseeregion,Mieter oder Genossenschafter,mixed_swiss_foreign_household,69.5,1.2
+2013,Genferseeregion,Mieter oder Genossenschafter,foreign_household,82.3,0.7
+2013,Genferseeregion,Eigentümer,total,33,0.4
+2013,Genferseeregion,Eigentümer,swiss_household,41.8,0.6
+2013,Genferseeregion,Eigentümer,mixed_swiss_foreign_household,25.1,1.2
+2013,Genferseeregion,Eigentümer,foreign_household,14.2,0.7
+2013,Genferseeregion,Andere Situation,total,4.3,0.2
+2013,Genferseeregion,Andere Situation,swiss_household,4.5,0.2
+2013,Genferseeregion,Andere Situation,mixed_swiss_foreign_household,5.3,0.6
+2013,Genferseeregion,Andere Situation,foreign_household,3.5000000000000004,0.4
+2013,Espace Mittelland,Mieter oder Genossenschafter,total,54,0.5
+2013,Espace Mittelland,Mieter oder Genossenschafter,swiss_household,48.4,0.6
+2013,Espace Mittelland,Mieter oder Genossenschafter,mixed_swiss_foreign_household,65,1.6
+2013,Espace Mittelland,Mieter oder Genossenschafter,foreign_household,83,1.1
+2013,Espace Mittelland,Eigentümer,total,41.699999999999996,0.5
+2013,Espace Mittelland,Eigentümer,swiss_household,46.9,0.5
+2013,Espace Mittelland,Eigentümer,mixed_swiss_foreign_household,31.6,1.6
+2013,Espace Mittelland,Eigentümer,foreign_household,14.6,1
+2013,Espace Mittelland,Andere Situation,total,4.3,0.2
+2013,Espace Mittelland,Andere Situation,swiss_household,4.7,0.2
+2013,Espace Mittelland,Andere Situation,mixed_swiss_foreign_household,3.4000000000000004,0.6
+2013,Espace Mittelland,Andere Situation,foreign_household,2.4,0.5
+2013,Nordwestschweiz,Mieter oder Genossenschafter,total,55.400000000000006,0.5
+2013,Nordwestschweiz,Mieter oder Genossenschafter,swiss_household,47.5,0.7
+2013,Nordwestschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,64.5,1.7
+2013,Nordwestschweiz,Mieter oder Genossenschafter,foreign_household,81.89999999999999,1
+2013,Nordwestschweiz,Eigentümer,total,41.5,0.5
+2013,Nordwestschweiz,Eigentümer,swiss_household,49.1,0.7
+2013,Nordwestschweiz,Eigentümer,mixed_swiss_foreign_household,32.1,1.6
+2013,Nordwestschweiz,Eigentümer,foreign_household,16.3,0.9
+2013,Nordwestschweiz,Andere Situation,total,3.1,0.2
+2013,Nordwestschweiz,Andere Situation,swiss_household,3.4000000000000004,0.2
+2013,Nordwestschweiz,Andere Situation,mixed_swiss_foreign_household,3.5000000000000004,0.6
+2013,Nordwestschweiz,Andere Situation,foreign_household,1.7999999999999998,0.4
+2013,Zürich,Mieter oder Genossenschafter,total,69.1,0.5
+2013,Zürich,Mieter oder Genossenschafter,swiss_household,62.3,0.7
+2013,Zürich,Mieter oder Genossenschafter,mixed_swiss_foreign_household,77.2,1.4
+2013,Zürich,Mieter oder Genossenschafter,foreign_household,89.1,0.8
+2013,Zürich,Eigentümer,total,28.599999999999998,0.5
+2013,Zürich,Eigentümer,swiss_household,35.199999999999996,0.7
+2013,Zürich,Eigentümer,mixed_swiss_foreign_household,20.4,1.3
+2013,Zürich,Eigentümer,foreign_household,9.3,0.8
+2013,Zürich,Andere Situation,total,2.3,0.2
+2013,Zürich,Andere Situation,swiss_household,2.5,0.2
+2013,Zürich,Andere Situation,mixed_swiss_foreign_household,2.4,0.5
+2013,Zürich,Andere Situation,foreign_household,1.6,0.4
+2013,Ostschweiz,Mieter oder Genossenschafter,total,51.800000000000004,0.7
+2013,Ostschweiz,Mieter oder Genossenschafter,swiss_household,44,0.8
+2013,Ostschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,60.4,2.1
+2013,Ostschweiz,Mieter oder Genossenschafter,foreign_household,81.2,1.3
+2013,Ostschweiz,Eigentümer,total,44.1,0.7
+2013,Ostschweiz,Eigentümer,swiss_household,51.300000000000004,0.8
+2013,Ostschweiz,Eigentümer,mixed_swiss_foreign_household,36.199999999999996,2.1
+2013,Ostschweiz,Eigentümer,foreign_household,16.8,1.2
+2013,Ostschweiz,Andere Situation,total,4.1000000000000005,0.3
+2013,Ostschweiz,Andere Situation,swiss_household,4.6,0.3
+2013,Ostschweiz,Andere Situation,mixed_swiss_foreign_household,3.4000000000000004,0.8
+2013,Ostschweiz,Andere Situation,foreign_household,1.9,0.5
+2013,Zentralschweiz,Mieter oder Genossenschafter,total,58.5,0.6
+2013,Zentralschweiz,Mieter oder Genossenschafter,swiss_household,52.5,0.7
+2013,Zentralschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,71.1,2.2
+2013,Zentralschweiz,Mieter oder Genossenschafter,foreign_household,85.6,1.3
+2013,Zentralschweiz,Eigentümer,total,37.5,0.6
+2013,Zentralschweiz,Eigentümer,swiss_household,43.2,0.7
+2013,Zentralschweiz,Eigentümer,mixed_swiss_foreign_household,26.400000000000002,2.1
+2013,Zentralschweiz,Eigentümer,foreign_household,12,1.2
+2013,Zentralschweiz,Andere Situation,total,3.9,0.3
+2013,Zentralschweiz,Andere Situation,swiss_household,4.3,0.3
+2013,Zentralschweiz,Andere Situation,mixed_swiss_foreign_household,2.5,0.7
+2013,Zentralschweiz,Andere Situation,foreign_household,2.3,0.6
+2013,Tessin,Mieter oder Genossenschafter,total,53.7,0.9
+2013,Tessin,Mieter oder Genossenschafter,swiss_household,45.4,1.1
+2013,Tessin,Mieter oder Genossenschafter,mixed_swiss_foreign_household,55.7,2.2
+2013,Tessin,Mieter oder Genossenschafter,foreign_household,76.9,1.5
+2013,Tessin,Eigentümer,total,38.7,0.8
+2013,Tessin,Eigentümer,swiss_household,46.1,1.1
+2013,Tessin,Eigentümer,mixed_swiss_foreign_household,34.599999999999994,2.1
+2013,Tessin,Eigentümer,foreign_household,19.1,1.4
+2013,Tessin,Andere Situation,total,7.6,0.4
+2013,Tessin,Andere Situation,swiss_household,8.5,0.6
+2013,Tessin,Andere Situation,mixed_swiss_foreign_household,9.700000000000001,1.3
+2013,Tessin,Andere Situation,foreign_household,4,0.7
+2012,Schweiz,Mieter oder Genossenschafter,total,59.4,0.3
+2012,Schweiz,Mieter oder Genossenschafter,swiss_household,52.2,0.3
+2012,Schweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,69.2,1.2
+2012,Schweiz,Mieter oder Genossenschafter,foreign_household,83.8,1
+2012,Schweiz,Eigentümer,total,37.2,0.2
+2012,Schweiz,Eigentümer,swiss_household,44,0.3
+2012,Schweiz,Eigentümer,mixed_swiss_foreign_household,27.6,0.7
+2012,Schweiz,Eigentümer,foreign_household,14.1,0.4
+2012,Schweiz,Andere Situation,total,3.4,0.1
+2012,Schweiz,Andere Situation,swiss_household,3.8,0.1
+2012,Schweiz,Andere Situation,mixed_swiss_foreign_household,3.1,0.2
+2012,Schweiz,Andere Situation,foreign_household,2.2,0.2
+2012,Genferseeregion,Mieter oder Genossenschafter,total,63.7,0.6
+2012,Genferseeregion,Mieter oder Genossenschafter,swiss_household,55.2,0.8
+2012,Genferseeregion,Mieter oder Genossenschafter,mixed_swiss_foreign_household,71.2,2.2
+2012,Genferseeregion,Mieter oder Genossenschafter,foreign_household,82.7,1.7
+2012,Genferseeregion,Eigentümer,total,32.6,0.4
+2012,Genferseeregion,Eigentümer,swiss_household,40.9,0.6
+2012,Genferseeregion,Eigentümer,mixed_swiss_foreign_household,25.1,1.3
+2012,Genferseeregion,Eigentümer,foreign_household,14.2,0.7
+2012,Genferseeregion,Andere Situation,total,3.7,0.2
+2012,Genferseeregion,Andere Situation,swiss_household,4,0.2
+2012,Genferseeregion,Andere Situation,mixed_swiss_foreign_household,3.6,0.5
+2012,Genferseeregion,Andere Situation,foreign_household,3.1,0.3
+2012,Espace Mittelland,Mieter oder Genossenschafter,total,55.2,0.6
+2012,Espace Mittelland,Mieter oder Genossenschafter,swiss_household,49.8,0.7
+2012,Espace Mittelland,Mieter oder Genossenschafter,mixed_swiss_foreign_household,66.6,3
+2012,Espace Mittelland,Mieter oder Genossenschafter,foreign_household,83.9,2.9
+2012,Espace Mittelland,Eigentümer,total,40.9,0.5
+2012,Espace Mittelland,Eigentümer,swiss_household,46,0.6
+2012,Espace Mittelland,Eigentümer,mixed_swiss_foreign_household,30.9,1.8
+2012,Espace Mittelland,Eigentümer,foreign_household,13.9,1
+2012,Espace Mittelland,Andere Situation,total,3.9,0.2
+2012,Espace Mittelland,Andere Situation,swiss_household,4.3,0.2
+2012,Espace Mittelland,Andere Situation,mixed_swiss_foreign_household,2.5,0.5
+2012,Espace Mittelland,Andere Situation,foreign_household,2.3,0.5
+2012,Nordwestschweiz,Mieter oder Genossenschafter,total,55.7,0.7
+2012,Nordwestschweiz,Mieter oder Genossenschafter,swiss_household,48.3,0.9
+2012,Nordwestschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,64,3
+2012,Nordwestschweiz,Mieter oder Genossenschafter,foreign_household,81.7,2.7
+2012,Nordwestschweiz,Eigentümer,total,41.5,0.5
+2012,Nordwestschweiz,Eigentümer,swiss_household,48.7,0.7
+2012,Nordwestschweiz,Eigentümer,mixed_swiss_foreign_household,33.1,1.9
+2012,Nordwestschweiz,Eigentümer,foreign_household,16.6,1
+2012,Nordwestschweiz,Andere Situation,total,2.8,0.2
+2012,Nordwestschweiz,Andere Situation,swiss_household,3,0.2
+2012,Nordwestschweiz,Andere Situation,mixed_swiss_foreign_household,2.8,0.6
+2012,Nordwestschweiz,Andere Situation,foreign_household,1.7,0.4
+2012,Zürich,Mieter oder Genossenschafter,total,68.9,0.7
+2012,Zürich,Mieter oder Genossenschafter,swiss_household,62,1
+2012,Zürich,Mieter oder Genossenschafter,mixed_swiss_foreign_household,78,2.9
+2012,Zürich,Mieter oder Genossenschafter,foreign_household,89.4,2.8
+2012,Zürich,Eigentümer,total,29,0.5
+2012,Zürich,Eigentümer,swiss_household,35.7,0.7
+2012,Zürich,Eigentümer,mixed_swiss_foreign_household,19.7,1.4
+2012,Zürich,Eigentümer,foreign_household,9.3,0.8
+2012,Zürich,Andere Situation,total,2.1,0.2
+2012,Zürich,Andere Situation,swiss_household,2.3,0.2
+2012,Zürich,Andere Situation,mixed_swiss_foreign_household,2.3,0.5
+2012,Zürich,Andere Situation,foreign_household,1.3,0.3
+2012,Ostschweiz,Mieter oder Genossenschafter,total,53.3,0.8
+2012,Ostschweiz,Mieter oder Genossenschafter,swiss_household,45.9,0.9
+2012,Ostschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,63.5,3.5
+2012,Ostschweiz,Mieter oder Genossenschafter,foreign_household,81.2,3
+2012,Ostschweiz,Eigentümer,total,43.4,0.6
+2012,Ostschweiz,Eigentümer,swiss_household,50.3,0.8
+2012,Ostschweiz,Eigentümer,mixed_swiss_foreign_household,33.7,2.4
+2012,Ostschweiz,Eigentümer,foreign_household,17,1.2
+2012,Ostschweiz,Andere Situation,total,3.4,0.2
+2012,Ostschweiz,Andere Situation,swiss_household,3.8,0.3
+2012,Ostschweiz,Andere Situation,mixed_swiss_foreign_household,2.7,0.6
+2012,Ostschweiz,Andere Situation,foreign_household,1.8,0.5
+2012,Zentralschweiz,Mieter oder Genossenschafter,total,58.9,0.8
+2012,Zentralschweiz,Mieter oder Genossenschafter,swiss_household,53.1,1
+2012,Zentralschweiz,Mieter oder Genossenschafter,mixed_swiss_foreign_household,71.3,4
+2012,Zentralschweiz,Mieter oder Genossenschafter,foreign_household,85,3.5
+2012,Zentralschweiz,Eigentümer,total,37.3,0.6
+2012,Zentralschweiz,Eigentümer,swiss_household,42.6,0.7
+2012,Zentralschweiz,Eigentümer,mixed_swiss_foreign_household,25.9,2.4
+2012,Zentralschweiz,Eigentümer,foreign_household,13.4,1.4
+2012,Zentralschweiz,Andere Situation,total,3.8,0.3
+2012,Zentralschweiz,Andere Situation,swiss_household,4.3,0.3
+2012,Zentralschweiz,Andere Situation,mixed_swiss_foreign_household,2.8,0.7
+2012,Zentralschweiz,Andere Situation,foreign_household,1.6,0.5
+2012,Tessin,Mieter oder Genossenschafter,total,54.6,1.1
+2012,Tessin,Mieter oder Genossenschafter,swiss_household,46.1,1.4
+2012,Tessin,Mieter oder Genossenschafter,mixed_swiss_foreign_household,57.3,3.3
+2012,Tessin,Mieter oder Genossenschafter,foreign_household,78.2,3.4
+2012,Tessin,Eigentümer,total,38.8,0.8
+2012,Tessin,Eigentümer,swiss_household,46.5,1.2
+2012,Tessin,Eigentümer,mixed_swiss_foreign_household,34.4,2.5
+2012,Tessin,Eigentümer,foreign_household,18.4,1.6
+2012,Tessin,Andere Situation,total,6.6,0.4
+2012,Tessin,Andere Situation,swiss_household,7.4,0.5
+2012,Tessin,Andere Situation,mixed_swiss_foreign_household,8.3,1.2
+2012,Tessin,Andere Situation,foreign_household,3.3,0.7

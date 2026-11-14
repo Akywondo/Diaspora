@@ -216,9 +216,12 @@ def step_social_assistance():
     """Recipients of economic social assistance by nationality and canton, 2006-2025 (px-x-1304030000_306)."""
     t = "px-x-1304030000_306"
     _, v = meta(t)
-    print([x for x in v["Staatsangehörigkeit"]["values"].values() if x.startswith("Total") or not x.startswith("-")][:40])
-    h, r = fetch(t, {"Kanton": "*", "Staatsangehörigkeit": "*", "Jahr": "*"})
-    r = [x for x in r if x[-1] not in (0, None)]
+    # 27 cantons x 207 nationalities x 20 years exceeds the 100 000-cell limit -> select nationalities
+    keep = [c for c, lab in v["Staatsangehörigkeit"]["values"].items()
+            if not lab.startswith("-") or lab.lstrip("- ").strip() in
+            ("Rumänien", "Bulgarien", "Polen", "Ungarn", "Kroatien", "Portugal", "Deutschland", "Italien",
+             "Frankreich", "Spanien", "Kosovo", "Serbien", "Türkei")]
+    h, r = fetch(t, {"Kanton": "*", "Staatsangehörigkeit": keep, "Jahr": "*"})
     write_csv(OUT / "social_assistance_recipients_by_nationality_canton_2006_2025.csv",
               ["canton", "nationality", "year", "recipients"], r)
 

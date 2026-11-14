@@ -1,0 +1,67 @@
+canton,year,nationality,measure,persons,source_file
+TG,2015,Rumänien,total_foreign_permanent_resident,295,tg_kant_staatsang.xlsx
+TG,2016,Rumänien,total_foreign_permanent_resident,349,tg_kant_staatsang.xlsx
+TG,2017,Rumänien,total_foreign_permanent_resident,428,tg_kant_staatsang.xlsx
+TG,2018,Rumänien,total_foreign_permanent_resident,467,tg_kant_staatsang.xlsx
+TG,2019,Rumänien,total_foreign_permanent_resident,641,tg_kant_staatsang.xlsx
+TG,2020,Rumänien,total_foreign_permanent_resident,799,tg_kant_staatsang.xlsx
+TG,2021,Rumänien,total_foreign_permanent_resident,889,tg_kant_staatsang.xlsx
+TG,2022,Rumänien,total_foreign_permanent_resident,1148,tg_kant_staatsang.xlsx
+TG,2023,Rumänien,total_foreign_permanent_resident,1390,tg_kant_staatsang.xlsx
+TG,2024,Rumänien,total_foreign_permanent_resident,1664,tg_kant_staatsang.xlsx
+TG,2025,Rumänien,total_foreign_permanent_resident,1847,tg_kant_staatsang.xlsx
+TG,2015,Total foreign,total_foreign_permanent_resident,63884,tg_kant_staatsang.xlsx
+TG,2016,Total foreign,total_foreign_permanent_resident,65339,tg_kant_staatsang.xlsx
+TG,2017,Total foreign,total_foreign_permanent_resident,66655,tg_kant_staatsang.xlsx
+TG,2018,Total foreign,total_foreign_permanent_resident,67752,tg_kant_staatsang.xlsx
+TG,2019,Total foreign,total_foreign_permanent_resident,69423,tg_kant_staatsang.xlsx
+TG,2020,Total foreign,total_foreign_permanent_resident,71205,tg_kant_staatsang.xlsx
+TG,2021,Total foreign,total_foreign_permanent_resident,72729,tg_kant_staatsang.xlsx
+TG,2022,Total foreign,total_foreign_permanent_resident,75205,tg_kant_staatsang.xlsx
+TG,2023,Total foreign,total_foreign_permanent_resident,77568,tg_kant_staatsang.xlsx
+TG,2024,Total foreign,total_foreign_permanent_resident,79901,tg_kant_staatsang.xlsx
+TG,2025,Total foreign,total_foreign_permanent_resident,81708,tg_kant_staatsang.xlsx
+TG,2025,Rumänien,permit:Total,1847,tg_kant_staatsang_bew.xlsx
+TG,2025,Rumänien,permit:Niedergelassene (C-Ausweis),149,tg_kant_staatsang_bew.xlsx
+TG,2025,Rumänien,permit:Aufenthalter (B-Ausweis),1601,tg_kant_staatsang_bew.xlsx
+TG,2025,Rumänien,permit:Kurzaufenthalter (L) >= 12 Monate,97,tg_kant_staatsang_bew.xlsx
+TG,2024,Rumänien,permit:Total,1664,tg_kant_staatsang_bew.xlsx
+TG,2024,Rumänien,permit:Niedergelassene (C-Ausweis),128,tg_kant_staatsang_bew.xlsx
+TG,2024,Rumänien,permit:Aufenthalter (B-Ausweis),1414,tg_kant_staatsang_bew.xlsx
+TG,2024,Rumänien,permit:Kurzaufenthalter (L) >= 12 Monate,122,tg_kant_staatsang_bew.xlsx
+TG,2023,Rumänien,permit:Total,1390,tg_kant_staatsang_bew.xlsx
+TG,2023,Rumänien,permit:Niedergelassene (C-Ausweis),114,tg_kant_staatsang_bew.xlsx
+TG,2023,Rumänien,permit:Aufenthalter (B-Ausweis),1124,tg_kant_staatsang_bew.xlsx
+TG,2023,Rumänien,permit:Kurzaufenthalter (L) >= 12 Monate,152,tg_kant_staatsang_bew.xlsx
+TG,2022,Rumänien,permit:Total,1148,tg_kant_staatsang_bew.xlsx
+TG,2022,Rumänien,permit:Niedergelassene (C-Ausweis),102,tg_kant_staatsang_bew.xlsx
+TG,2022,Rumänien,permit:Aufenthalter (B-Ausweis),893,tg_kant_staatsang_bew.xlsx
+TG,2022,Rumänien,permit:Kurzaufenthalter (L) >= 12 Monate,153,tg_kant_staatsang_bew.xlsx
+TG,2021,Rumänien,permit:Total,889,tg_kant_staatsang_bew.xlsx
+TG,2021,Rumänien,permit:Niedergelassene (C-Ausweis),85,tg_kant_staatsang_bew.xlsx
+TG,2021,Rumänien,permit:Aufenthalter (B-Ausweis),693,tg_kant_staatsang_bew.xlsx
+TG,2021,Rumänien,permit:Kurzaufenthalter (L) >= 12 Monate,111,tg_kant_staatsang_bew.xlsx
+TG,2020,Rumänien,permit:Total,799,tg_kant_staatsang_bew.xlsx
+TG,2020,Rumänien,permit:Niedergelassene (C-Ausweis),86,tg_kant_staatsang_bew.xlsx
+TG,2020,Rumänien,permit:Aufenthalter (B-Ausweis),600,tg_kant_staatsang_bew.xlsx
+TG,2020,Rumänien,permit:Kurzaufenthalter (L) >= 12 Monate,113,tg_kant_staatsang_bew.xlsx
+TG,2019,Rumänien,permit:Total,641,tg_kant_staatsang_bew.xlsx
+TG,2019,Rumänien,permit:Niedergelassene (C-Ausweis),76,tg_kant_staatsang_bew.xlsx
+TG,2019,Rumänien,permit:Aufenthalter (B-Ausweis),488,tg_kant_staatsang_bew.xlsx
+TG,2019,Rumänien,permit:Kurzaufenthalter (L) >= 12 Monate,77,tg_kant_staatsang_bew.xlsx
+TG,2018,Rumänien,permit:Total,467,tg_kant_staatsang_bew.xlsx
+TG,2018,Rumänien,permit:Niedergelassene (C-Ausweis),70,tg_kant_staatsang_bew.xlsx
+TG,2018,Rumänien,permit:Aufenthalter (B-Ausweis),332,tg_kant_staatsang_bew.xlsx
+TG,2018,Rumänien,permit:Kurzaufenthalter (L) >= 12 Monate,65,tg_kant_staatsang_bew.xlsx
+TG,2017,Rumänien,permit:Total,428,tg_kant_staatsang_bew.xlsx
+TG,2017,Rumänien,permit:Niedergelassene (C-Ausweis),51,tg_kant_staatsang_bew.xlsx
+TG,2017,Rumänien,permit:Aufenthalter (B-Ausweis),344,tg_kant_staatsang_bew.xlsx
+TG,2017,Rumänien,permit:Kurzaufenthalter (L) >= 12 Monate,33,tg_kant_staatsang_bew.xlsx
+TG,2016,Rumänien,permit:Total,349,tg_kant_staatsang_bew.xlsx
+TG,2016,Rumänien,permit:Niedergelassene (C-Ausweis),43,tg_kant_staatsang_bew.xlsx
+TG,2016,Rumänien,permit:Aufenthalter (B-Ausweis),279,tg_kant_staatsang_bew.xlsx
+TG,2016,Rumänien,permit:Kurzaufenthalter (L) >= 12 Monate,27,tg_kant_staatsang_bew.xlsx
+TG,2015,Rumänien,permit:Total,295,tg_kant_staatsang_bew.xlsx
+TG,2015,Rumänien,permit:Niedergelassene (C-Ausweis),34,tg_kant_staatsang_bew.xlsx
+TG,2015,Rumänien,permit:Aufenthalter (B-Ausweis),220,tg_kant_staatsang_bew.xlsx
+TG,2015,Rumänien,permit:Kurzaufenthalter (L) >= 12 Monate,41,tg_kant_staatsang_bew.xlsx

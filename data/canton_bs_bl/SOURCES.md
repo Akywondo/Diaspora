@@ -1,0 +1,7 @@
+# Sources (accessed 2026-11-13, Opendatasoft API, publisher: Statistisches Amt Basel-Stadt, data.bs.ch)
+- bs_romania_migration_by_year.csv: dataset 100138 "Wanderungen (Zuzug, Wegzug und Umzug) Kanton Basel-Stadt", https://data.bs.ch/api/explore/v2.1/catalog/datasets/100138/exports/csv (204 MB, raw deleted; re-run scripts/canton_bs_bl_fetch.py 100138). Filter: von_land (Zuzug) or nach_land (Wegzug) = Rumänien. Definition: country of previous/next residence, NOT nationality; events (flows), all nationalities; 2026 partial year (to ~late June).
+- bs_naturalisations_former_romanian.csv: dataset 100321 "Erwerb des Schweizer Bürgerrechts nach Geschlecht, Alter, Geburtsland und Staatsangehörigkeit", .../datasets/100321/exports/csv; ehem_staaatsangehorigkeit = Rumänien; 2002-2024; no rows in 2004 (zero or suppressed - not stated).
+- cantonal_crosscheck.csv: BFS reference extract /home/user/Diaspora/data/_reference/bfs_romanians_canton_year_permit_sex.csv (STATPOP, permanent residents, 31 Dec, permit total, both sexes). Cantonal column empty: see FINDINGS.
+- Also downloaded and inspected (no Romania breakdown): 100059 (Wohnbevölkerung nach Staatsangehörigkeit und Gemeinde: only CH/BS/foreign), 100099 (births: nationality only CH/Ausl), 100238 (Bevölkerung nach Heimat ab 1945: only CH/BS/A).
+- Not downloaded: 100060/100061/100062/100126/100128 (population by Wohnviertel/Bezirk/Block, by age: nationality labels not verified for Romania), 100225 (Schutzsuchende), 100139, 100156.
+- Basel-Landschaft (statistik.bl.ch): NOT DONE.

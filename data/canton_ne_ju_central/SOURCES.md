@@ -1,0 +1,3 @@
+# SOURCES (canton_ne_ju_central)
+- cantonal_crosscheck.csv: BFS column filled from /home/user/Diaspora/data/_reference/bfs_romanians_canton_year_permit_sex.csv (STATPOP, permanent resident population, 31 Dec, permit/sex total). The cantonal_value columns are EMPTY: no cantonal series with a Romania breakdown could be opened in this session.
+- Opened (no Romania): https://www.ne.ch/sites/default/files/2026-03/Annexe_Chiffrescles_RCP2025.pdf (NE cantonal census 2025 key figures, 3 pages, accessed 2026-11-13; no nationality-level detail). Page https://www.ne.ch/themes/etat-droit-et-finances/statistiques/population only links to this, a migration-flows PDF and population projections.
