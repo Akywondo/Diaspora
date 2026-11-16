@@ -21,6 +21,8 @@ estimat; ce nu este publicat pentru cetățenia română este notat ca atare în
 | `data/housing_property/` | statut de ocupare, chirii și rata de proprietate (aproximări oficiale) |
 | `data/professions_health/` | personal spitalicesc după cetățenie (grupe) |
 | `data/romania_links/` | dublă cetățenie, limba română la recensământul din 2000 |
+| `data/legal_health/` | regimul Lex Koller (Oficiul Federal de Justiție), diplome medicale românești recunoscute 2002–2024 (BAG) |
+| `data/romania_bnr/` | ce publică Banca Națională a României (remitențele vin din `data/eurostat_compare/remittances_ro_from_ch.csv`) |
 | `data/canton_*/` | statisticile proprii ale cantoanelor și comparația cu BFS |
 | `scripts/` | scripturile de descărcare și prelucrare |
 

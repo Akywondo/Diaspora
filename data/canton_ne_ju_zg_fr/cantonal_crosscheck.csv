@@ -1,0 +1,18 @@
+canton,year,cantonal_value,cantonal_definition,bfs_value,diff_abs,diff_pct,source_url
+Zug,2010,75,Zug statistics STATPOP-based foreign pop by nationality,75,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2011,100,Zug statistics STATPOP-based foreign pop by nationality,100,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2012,132,Zug statistics STATPOP-based foreign pop by nationality,132,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2013,145,Zug statistics STATPOP-based foreign pop by nationality,145,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2014,162,Zug statistics STATPOP-based foreign pop by nationality,162,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2015,181,Zug statistics STATPOP-based foreign pop by nationality,181,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2016,210,Zug statistics STATPOP-based foreign pop by nationality,210,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2017,236,Zug statistics STATPOP-based foreign pop by nationality,236,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2018,262,Zug statistics STATPOP-based foreign pop by nationality,262,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2019,310,Zug statistics STATPOP-based foreign pop by nationality,310,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2020,339,Zug statistics STATPOP-based foreign pop by nationality,339,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2021,394,Zug statistics STATPOP-based foreign pop by nationality,394,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2022,445,Zug statistics STATPOP-based foreign pop by nationality,445,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2023,504,Zug statistics STATPOP-based foreign pop by nationality,504,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2024,515,Zug statistics STATPOP-based foreign pop by nationality,515,0,0.0,https://data.zg.ch/store/1/resource/204
+Zug,2025,538,Zug statistics STATPOP-based foreign pop by nationality,538,0,0.0,https://data.zg.ch/store/1/resource/204
+Neuchâtel,2025,549,"NE RCP cantonal register, foreign pop (C+B+short stay <12m), 31 Dec",550,-1,-0.18,https://stat.ne.ch/1f.html

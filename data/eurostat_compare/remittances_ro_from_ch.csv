@@ -1,0 +1,110 @@
+year,reporting_country,partner_country,bop_item,bop_item_label,flow,value,unit
+2008,RO,CH,D1,Primary income: compensation of employees,credit,5.7,million EUR
+2009,RO,CH,D1,Primary income: compensation of employees,credit,9.4,million EUR
+2010,RO,CH,D1,Primary income: compensation of employees,credit,12.1,million EUR
+2011,RO,CH,D1,Primary income: compensation of employees,credit,0.9,million EUR
+2012,RO,CH,D1,Primary income: compensation of employees,credit,14.8,million EUR
+2012,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,20.4,million EUR
+2012,RO,CH,D752W,Secondary income: workers' remittances,credit,20.4,million EUR
+2012,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,35.2,million EUR
+2013,RO,CH,D1,Primary income: compensation of employees,credit,0.0,million EUR
+2013,RO,CH,D5Z,"Secondary income: current taxes on income, wealth, etc. payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2013,RO,CH,D61Z,"Secondary income: social contributions payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2013,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,20.4,million EUR
+2013,RO,CH,D752W,Secondary income: workers' remittances,credit,20.4,million EUR
+2013,RO,CH,R1,Supplementary item: personal remittances,credit,20.4,million EUR
+2013,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,20.4,million EUR
+2013,RO,CH,SCAZ,"Services: all modes of transport; passenger; of which: payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2013,RO,CH,SDA1,"Services: travel; business; acquisition of goods and services by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2014,RO,CH,D1,Primary income: compensation of employees,credit,6.1,million EUR
+2014,RO,CH,D5Z,"Secondary income: current taxes on income, wealth, etc. payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2014,RO,CH,D61Z,"Secondary income: social contributions payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2014,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,15.1,million EUR
+2014,RO,CH,D752W,Secondary income: workers' remittances,credit,15.1,million EUR
+2014,RO,CH,R1,Supplementary item: personal remittances,credit,18.0,million EUR
+2014,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,21.2,million EUR
+2014,RO,CH,SCAZ,"Services: all modes of transport; passenger; of which: payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2014,RO,CH,SDA1,"Services: travel; business; acquisition of goods and services by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2015,RO,CH,D1,Primary income: compensation of employees,credit,0.0,million EUR
+2015,RO,CH,D5Z,"Secondary income: current taxes on income, wealth, etc. payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2015,RO,CH,D61Z,"Secondary income: social contributions payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2015,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,16.6,million EUR
+2015,RO,CH,D752W,Secondary income: workers' remittances,credit,16.6,million EUR
+2015,RO,CH,R1,Supplementary item: personal remittances,credit,16.6,million EUR
+2015,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,16.6,million EUR
+2015,RO,CH,SCAZ,"Services: all modes of transport; passenger; of which: payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2015,RO,CH,SDA1,"Services: travel; business; acquisition of goods and services by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2016,RO,CH,D1,Primary income: compensation of employees,credit,0.0,million EUR
+2016,RO,CH,D5Z,"Secondary income: current taxes on income, wealth, etc. payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2016,RO,CH,D61Z,"Secondary income: social contributions payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2016,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,28.7,million EUR
+2016,RO,CH,D752W,Secondary income: workers' remittances,credit,28.7,million EUR
+2016,RO,CH,R1,Supplementary item: personal remittances,credit,28.7,million EUR
+2016,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,28.7,million EUR
+2016,RO,CH,SCAZ,"Services: all modes of transport; passenger; of which: payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2016,RO,CH,SDA1,"Services: travel; business; acquisition of goods and services by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2017,RO,CH,D1,Primary income: compensation of employees,credit,0.0,million EUR
+2017,RO,CH,D5Z,"Secondary income: current taxes on income, wealth, etc. payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2017,RO,CH,D61Z,"Secondary income: social contributions payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2017,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,36.3,million EUR
+2017,RO,CH,D752W,Secondary income: workers' remittances,credit,36.3,million EUR
+2017,RO,CH,R1,Supplementary item: personal remittances,credit,36.3,million EUR
+2017,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,36.3,million EUR
+2017,RO,CH,SCAZ,"Services: all modes of transport; passenger; of which: payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2017,RO,CH,SDA1,"Services: travel; business; acquisition of goods and services by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2018,RO,CH,D1,Primary income: compensation of employees,credit,0.0,million EUR
+2018,RO,CH,D5Z,"Secondary income: current taxes on income, wealth, etc. payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2018,RO,CH,D61Z,"Secondary income: social contributions payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2018,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,35.7,million EUR
+2018,RO,CH,D752W,Secondary income: workers' remittances,credit,35.7,million EUR
+2018,RO,CH,R1,Supplementary item: personal remittances,credit,35.9,million EUR
+2018,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,35.7,million EUR
+2018,RO,CH,SDA1,"Services: travel; business; acquisition of goods and services by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2019,RO,CH,D1,Primary income: compensation of employees,credit,6.5,million EUR
+2019,RO,CH,D5Z,"Secondary income: current taxes on income, wealth, etc. payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2019,RO,CH,D61Z,"Secondary income: social contributions payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2019,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,53.9,million EUR
+2019,RO,CH,D752W,Secondary income: workers' remittances,credit,53.9,million EUR
+2019,RO,CH,R1,Supplementary item: personal remittances,credit,56.9,million EUR
+2019,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,60.5,million EUR
+2019,RO,CH,SDA1,"Services: travel; business; acquisition of goods and services by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2020,RO,CH,D1,Primary income: compensation of employees,credit,9.9,million EUR
+2020,RO,CH,D5Z,"Secondary income: current taxes on income, wealth, etc. payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2020,RO,CH,D61Z,"Secondary income: social contributions payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2020,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,52.3,million EUR
+2020,RO,CH,D752W,Secondary income: workers' remittances,credit,52.3,million EUR
+2020,RO,CH,R1,Supplementary item: personal remittances,credit,56.8,million EUR
+2020,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,62.2,million EUR
+2020,RO,CH,SDA1,"Services: travel; business; acquisition of goods and services by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2021,RO,CH,D1,Primary income: compensation of employees,credit,85.3,million EUR
+2021,RO,CH,D5Z,"Secondary income: current taxes on income, wealth, etc. payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2021,RO,CH,D61Z,"Secondary income: social contributions payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2021,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,62.6,million EUR
+2021,RO,CH,D752W,Secondary income: workers' remittances,credit,62.6,million EUR
+2021,RO,CH,R1,Supplementary item: personal remittances,credit,105.3,million EUR
+2021,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,147.9,million EUR
+2021,RO,CH,SDA1,"Services: travel; business; acquisition of goods and services by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2022,RO,CH,D1,Primary income: compensation of employees,credit,80.7,million EUR
+2022,RO,CH,D5Z,"Secondary income: current taxes on income, wealth, etc. payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2022,RO,CH,D61Z,"Secondary income: social contributions payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2022,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,86.4,million EUR
+2022,RO,CH,D752W,Secondary income: workers' remittances,credit,86.4,million EUR
+2022,RO,CH,R1,Supplementary item: personal remittances,credit,123.5,million EUR
+2022,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,167.1,million EUR
+2022,RO,CH,SDA1,"Services: travel; business; acquisition of goods and services by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2023,RO,CH,D1,Primary income: compensation of employees,credit,132.6,million EUR
+2023,RO,CH,D5Z,"Secondary income: current taxes on income, wealth, etc. payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2023,RO,CH,D61Z,"Secondary income: social contributions payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2023,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,117.2,million EUR
+2023,RO,CH,D752W,Secondary income: workers' remittances,credit,117.2,million EUR
+2023,RO,CH,R1,Supplementary item: personal remittances,credit,180.3,million EUR
+2023,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,249.9,million EUR
+2023,RO,CH,SDA1,"Services: travel; business; acquisition of goods and services by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2024,RO,CH,D1,Primary income: compensation of employees,credit,75.4,million EUR
+2024,RO,CH,D5Z,"Secondary income: current taxes on income, wealth, etc. payable by border, seasonal, and other short-term workers",credit,0.0,million EUR
+2024,RO,CH,D61Z,"Secondary income: social contributions payable by border, seasonal, and other short-term workers",credit,0.2,million EUR
+2024,RO,CH,D752,Secondary income: personal transfers (current transfers between resident and non-resident households),credit,122.4,million EUR
+2024,RO,CH,D752W,Secondary income: workers' remittances,credit,122.4,million EUR
+2024,RO,CH,R1,Supplementary item: personal remittances,credit,162.6,million EUR
+2024,RO,CH,R1WR,Supplementary item: workers remittances and compensation of employees,credit,197.8,million EUR
+2024,RO,CH,SDA1,"Services: travel; business; acquisition of goods and services by border, seasonal, and other short-term workers",credit,0.0,million EUR

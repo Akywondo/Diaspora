@@ -1,0 +1,23 @@
+canton,year,breakdown,value,definition,source_url
+Zug,2010,total,75,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2011,total,100,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2012,total,132,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2013,total,145,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2014,total,162,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2015,total,181,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2016,total,210,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2017,total,236,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2018,total,262,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2019,total,310,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2020,total,339,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2021,total,394,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2022,total,445,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2023,total,504,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2024,total,515,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Zug,2025,total,538,"Auslaendische Wohnbevoelkerung nach Nationalitaet (STATPOP-based, 31 Dec)",https://data.zg.ch/store/1/resource/204
+Neuchâtel,2025,total,549,"Population etrangere selon nationalite, RCP Service de statistique NE (31 Dec)",https://stat.ne.ch/1f.html
+Neuchâtel,2025,women,333,"Population etrangere selon nationalite, RCP Service de statistique NE (31 Dec)",https://stat.ne.ch/1f.html
+Neuchâtel,2025,men,216,"Population etrangere selon nationalite, RCP Service de statistique NE (31 Dec)",https://stat.ne.ch/1f.html
+Neuchâtel,2025,permit_C_etablis,191,"Population etrangere selon nationalite, RCP Service de statistique NE (31 Dec)",https://stat.ne.ch/1f.html
+Neuchâtel,2025,permit_B_sejour,353,"Population etrangere selon nationalite, RCP Service de statistique NE (31 Dec)",https://stat.ne.ch/1f.html
+Neuchâtel,2025,short_stay,5,"Population etrangere selon nationalite, RCP Service de statistique NE (31 Dec)",https://stat.ne.ch/1f.html
